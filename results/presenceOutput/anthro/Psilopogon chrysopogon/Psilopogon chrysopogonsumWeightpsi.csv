@@ -1,0 +1,15 @@
+covnames,sum.wgt,ER
+und,1,Inf
+water,1,Inf
+ele,1,Inf
+height100,0.5,1
+height500,0.5,1
+disturb100,1,Inf
+disturb500,0,0
+distRoad,1,Inf
+forest100,1,Inf
+forest1500,0,0
+forest500,0,0
+forest1000,0,0
+ndvi100,1,Inf
+ndvi500,0,0

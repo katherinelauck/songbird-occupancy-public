@@ -1,0 +1,6 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(observer1 P start)psi(disturb100 P forest1000 P ele P height100)</td><td>0</td><td>0.160</td><td>9</td><td>474.860</td><td>1.840</td><td>1</td></tr>
+<tr><td style="text-align:left">2</td><td>p(observer1 P start)psi(disturb100 P forest1000 P height100 P distRoad)</td><td>0</td><td>0.160</td><td>9</td><td>474.860</td><td>2.260</td><td>0</td></tr>
+<tr><td style="text-align:left">3</td><td>p(observer1 P start)psi(disturb100 P forest1000 P ndvi500 P water P distRoad)</td><td>1.660</td><td>0.070</td><td>10</td><td>474.330</td><td>5.920</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

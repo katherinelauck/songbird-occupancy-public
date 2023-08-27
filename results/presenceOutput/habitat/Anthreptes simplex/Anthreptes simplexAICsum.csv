@@ -1,0 +1,49 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(cloudCover)psi(disturb500 P forest500 P ndvi500 P und P water P ele),0,0.2395,9,460.6,5.14,1
+p(observer1 P cloudCover)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),0.0036,0.2391,11,456.22,-0.59,1
+p(SURVEY P cloudCover)psi(disturb500 P forest500 P ndvi500 P und P water P ele),1.11,0.1375,13,452.87,5.47,1
+p(cloudCover)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),2.3788,0.0729,9,462.98,2.35,0
+p(observer1 P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),2.7821,0.0596,11,459,0.23,1
+p(cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele),3.1658,0.0492,9,463.77,0,1
+p(cloudCover)psi(disturb100 P forest500 P ndvi500 P und P water P ele),3.1658,0.0492,9,463.77,5.09,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),3.8154,0.0355,13,455.57,1.18,1
+p(SURVEY P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele),4.3396,0.0273,13,456.1,5.53,1
+p(SURVEY P cloudCover)psi(disturb100 P forest500 P ndvi500 P und P water P ele),4.3396,0.0273,13,456.1,4.17,1
+p(observer1 P cloudCover)psi(disturb500 P forest500 P ndvi500 P und P water P ele),5.0181,0.0195,11,461.24,0.31,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),5.4903,0.0154,13,457.25,0,1
+p(observer1 P cloudCover)psi(disturb100 P forest500 P ndvi500 P und P water P ele),6.4317,0.0096,11,462.65,-1.28,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),6.7648,0.0081,9,467.37,2.05,1
+p(observer1 P cloudCover)psi(disturb500 P forest100 P ndvi500 P und P water P ele),8.997,0.0027,11,465.22,0,1
+p(cloudCover)psi(disturb500 P forest100 P ndvi500 P und P water P ele),9.6641,0.0019,9,470.27,0,1
+p(SURVEY P cloudCover)psi(disturb500 P forest100 P ndvi500 P und P water P ele),10.4696,0.0013,13,462.23,0,1
+p(observer1 P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),10.96,0.001,11,467.18,1.75,1
+p(cloudCover)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),12.3211,5e-04,9,472.92,3.57,1
+p(observer1 P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),13.5848,3e-04,11,469.8,0.54,1
+p(SURVEY P cloudCover)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),13.6518,3e-04,13,465.41,0,1
+p(cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),13.8093,2e-04,9,474.41,0,1
+p(observer1 P cloudCover)psi(disturb500 P forest100 P ndvi100 P und P water P ele),14.0597,2e-04,11,470.28,0.97,1
+p(observer1 P cloudCover)psi(disturb500 P forest500 P ndvi100 P und P water P ele),14.0597,2e-04,11,470.28,-0.33,1
+p(observer1 P cloudCover)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),14.0597,2e-04,11,470.28,3.37,1
+p(observer1 P cloudCover)psi(disturb100 P forest500 P ndvi100 P und P water P ele),14.4923,2e-04,11,470.71,-0.31,1
+p(observer1 P cloudCover)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),14.5,2e-04,11,470.72,0.72,1
+p(cloudCover)psi(disturb100 P forest500 P ndvi100 P und P water P ele),14.7276,2e-04,9,475.33,3.63,1
+p(cloudCover)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),14.7368,2e-04,9,475.34,0,0
+p(SURVEY P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),15.1974,1e-04,13,466.95,5.19,1
+p(observer1 P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele),15.4715,1e-04,11,471.69,0.48,1
+p(SURVEY P cloudCover)psi(disturb100 P forest500 P ndvi100 P und P water P ele),15.8947,1e-04,13,467.65,4.73,1
+p(SURVEY P cloudCover)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),15.9112,1e-04,13,467.67,0,1
+p(observer1 P cloudCover)psi(disturb100 P forest100 P ndvi100 P und P water P ele),16.0899,1e-04,11,472.31,-0.03,1
+p(cloudCover)psi(disturb100 P forest100 P ndvi100 P und P water P ele),16.3131,1e-04,9,476.92,4.19,1
+p(SURVEY P cloudCover)psi(disturb100 P forest100 P ndvi100 P und P water P ele),17.5535,0,13,469.31,5.49,1
+p(observer1 P cloudCover)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),17.6344,0,11,473.85,1.62,1
+p(cloudCover)psi(disturb500 P forest100 P ndvi100 P und P water P ele),17.9732,0,9,478.58,5.6,1
+p(cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),17.9732,0,9,478.58,5.11,1
+p(cloudCover)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),17.9732,0,9,478.58,0.74,1
+p(cloudCover)psi(disturb500 P forest500 P ndvi100 P und P water P ele),17.9732,0,9,478.58,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),17.9732,0,9,478.58,5.58,1
+p(observer1 P cloudCover)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),18.5327,0,11,474.75,0,1
+p(SURVEY P cloudCover)psi(disturb500 P forest100 P ndvi100 P und P water P ele),19.2899,0,13,471.05,4.93,1
+p(SURVEY P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),19.2899,0,13,471.05,5.27,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),19.2899,0,13,471.05,0,1
+p(SURVEY P cloudCover)psi(disturb500 P forest500 P ndvi100 P und P water P ele),19.2899,0,13,471.05,0,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),19.2899,0,13,471.05,0,1

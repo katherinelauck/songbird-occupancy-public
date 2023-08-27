@@ -1,0 +1,8 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P ele P distRoad)</td><td>0</td><td>0.212</td><td>12</td><td>41.890</td><td>2.080</td><td>1</td></tr>
+<tr><td style="text-align:left">2</td><td>p(SURVEY P start)psi(disturb500 P ndvi500 P ele P distRoad)</td><td>0.180</td><td>0.194</td><td>11</td><td>44.300</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">3</td><td>p(SURVEY P start)psi(disturb500 P ndvi500 P water P ele P distRoad)</td><td>1.470</td><td>0.102</td><td>12</td><td>43.360</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">4</td><td>p(SURVEY P start)psi(disturb500 P ndvi500 P ele P height100 P distRoad)</td><td>2.730</td><td>0.054</td><td>12</td><td>44.620</td><td>1.340</td><td>1</td></tr>
+<tr><td style="text-align:left">5</td><td>p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P ele P distRoad)</td><td>2.920</td><td>0.049</td><td>13</td><td>42.570</td><td>1.560</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

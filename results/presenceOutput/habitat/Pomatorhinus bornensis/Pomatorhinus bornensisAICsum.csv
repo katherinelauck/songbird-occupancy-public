@@ -1,0 +1,33 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(observer1 P start P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele),0,0.1206,12,605.85,5.84,1
+p(start P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele),0.64,0.0874,10,610.92,0,1
+p(start P cloudCover)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),0.64,0.0874,10,610.92,3.66,1
+p(start P cloudCover)psi(disturb100 P forest500 P ndvi500 P und P water P ele),0.64,0.0874,10,610.92,5.42,1
+p(start P cloudCover)psi(disturb500 P forest500 P ndvi500 P und P water P ele),0.64,0.0874,10,610.92,4.81,1
+p(start P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),0.64,0.0874,10,610.92,1.21,1
+p(observer1 P start P cloudCover)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),1.49,0.0572,12,607.34,5.18,0
+p(observer1 P start P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),1.49,0.0572,12,607.34,5.13,1
+p(observer1 P start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),1.72,0.0511,12,607.57,2.07,1
+p(observer1 P start P cloudCover)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),2.39,0.0366,12,608.24,5.35,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),2.44,0.0356,10,612.72,5.18,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),2.67,0.0318,10,612.94,0,1
+p(observer1 P start P cloudCover)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),3.17,0.0248,12,609.02,1.08,1
+p(observer1 P start P cloudCover)psi(disturb500 P forest100 P ndvi100 P und P water P ele),3.69,0.0191,12,609.54,5.31,0
+p(observer1 P start P cloudCover)psi(disturb500 P forest500 P ndvi100 P und P water P ele),3.69,0.0191,12,609.54,0.18,1
+p(start P cloudCover)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),4.09,0.0156,10,614.37,2.15,1
+p(observer1 P start P cloudCover)psi(disturb100 P forest500 P ndvi500 P und P water P ele),4.36,0.0137,12,610.21,1.65,1
+p(start P cloudCover)psi(disturb500 P forest100 P ndvi100 P und P water P ele),4.68,0.0116,10,614.96,0,1
+p(start P cloudCover)psi(disturb500 P forest500 P ndvi100 P und P water P ele),4.68,0.0116,10,614.96,0,1
+p(start P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),4.98,0.01,10,615.25,5.87,1
+p(start P cloudCover)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),5.27,0.0086,10,615.54,4.13,1
+p(observer1 P start P cloudCover)psi(disturb100 P forest100 P ndvi100 P und P water P ele),5.85,0.0065,12,611.7,4.91,1
+p(observer1 P start P cloudCover)psi(disturb100 P forest500 P ndvi100 P und P water P ele),5.85,0.0065,12,611.7,5.29,1
+p(observer1 P start P cloudCover)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),5.85,0.0065,12,611.7,0,1
+p(observer1 P start P cloudCover)psi(disturb500 P forest500 P ndvi500 P und P water P ele),5.85,0.0065,12,611.7,4.04,0
+p(start P cloudCover)psi(disturb100 P forest100 P ndvi100 P und P water P ele),6.98,0.0037,10,617.25,0,1
+p(start P cloudCover)psi(disturb100 P forest500 P ndvi100 P und P water P ele),6.98,0.0037,10,617.25,0,0
+p(start P cloudCover)psi(disturb500 P forest100 P ndvi500 P und P water P ele),6.98,0.0037,10,617.25,3.04,1
+p(observer1 P start P cloudCover)psi(disturb500 P forest100 P ndvi500 P und P water P ele),8.42,0.0018,12,614.27,4.19,1
+p(observer1 P start P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),14,1e-04,12,619.85,0,1
+p(observer1 P start P cloudCover)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),14.75,1e-04,12,620.6,5.01,0
+p(start P cloudCover)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),15.3,1e-04,10,625.58,5.03,0

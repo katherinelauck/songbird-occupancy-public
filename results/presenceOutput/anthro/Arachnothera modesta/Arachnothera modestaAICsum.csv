@@ -1,0 +1,5 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(SURVEY P observer1)psi(disturb500 P forest1500 P ndvi100 P und P water P ele P height500 P distRoad),0,0.7323,16,221.33,0.58,1
+p(SURVEY P observer1)psi(disturb500 P forest1500 P ndvi100 P und P water P ele P height100 P distRoad),2.89,0.1725,16,224.22,-0.41,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest1500 P ndvi100 P und P water P ele P height500 P distRoad),4.21,0.0893,17,223.21,0.19,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest1500 P ndvi100 P und P water P ele P height100 P distRoad),9.67,0.0058,17,228.68,0.83,1

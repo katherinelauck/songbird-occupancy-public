@@ -1,0 +1,257 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(SURVEY P observer1)psi(und),0,0.0871,9,721.08,4.43,0
+p(SURVEY P observer1)psi(disturb100 P und),2.18,0.0293,10,721.08,5.31,1
+p(SURVEY P observer1)psi(forest100 P und),2.18,0.0293,10,721.08,4.1,1
+p(SURVEY P observer1)psi(ndvi100 P und),2.18,0.0293,10,721.08,5.66,1
+p(SURVEY P observer1)psi(forest100 P water),2.18,0.0293,10,721.08,1.21,1
+p(SURVEY P observer1)psi(und P water),2.18,0.0293,10,721.08,0.88,1
+p(SURVEY P observer1)psi(und P ele),2.18,0.0293,10,721.08,4.51,1
+p(SURVEY P observer1)psi(water P ele),2.18,0.0293,10,721.08,5.77,1
+p(SURVEY P observer1)psi(und P height100),2.18,0.0293,10,721.08,3.99,1
+p(SURVEY P observer1)psi(und P distRoad),2.18,0.0293,10,721.08,4.68,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und),4.38,0.0097,11,721.08,5.47,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und),4.38,0.0097,11,721.08,2.41,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und),4.38,0.0097,11,721.08,3.93,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water),4.38,0.0097,11,721.08,1.83,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water),4.38,0.0097,11,721.08,0.55,1
+p(SURVEY P observer1)psi(disturb100 P und P water),4.38,0.0097,11,721.08,4.91,1
+p(SURVEY P observer1)psi(forest100 P und P water),4.38,0.0097,11,721.08,4.45,0
+p(SURVEY P observer1)psi(ndvi100 P und P water),4.38,0.0097,11,721.08,3.91,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P ele),4.38,0.0097,11,721.08,-0.41,1
+p(SURVEY P observer1)psi(disturb100 P und P ele),4.38,0.0097,11,721.08,0,1
+p(SURVEY P observer1)psi(forest100 P und P ele),4.38,0.0097,11,721.08,5.63,1
+p(SURVEY P observer1)psi(ndvi100 P und P ele),4.38,0.0097,11,721.08,5.74,1
+p(SURVEY P observer1)psi(disturb100 P water P ele),4.38,0.0097,11,721.08,1.79,1
+p(SURVEY P observer1)psi(forest100 P water P ele),4.38,0.0097,11,721.08,0,1
+p(SURVEY P observer1)psi(ndvi100 P water P ele),4.38,0.0097,11,721.08,1.78,1
+p(SURVEY P observer1)psi(und P water P ele),4.38,0.0097,11,721.08,4.24,1
+p(SURVEY P observer1)psi(disturb100 P und P height100),4.38,0.0097,11,721.08,4.25,1
+p(SURVEY P observer1)psi(forest100 P und P height100),4.38,0.0097,11,721.08,5.23,1
+p(SURVEY P observer1)psi(ndvi100 P und P height100),4.38,0.0097,11,721.08,5.32,1
+p(SURVEY P observer1)psi(forest100 P water P height100),4.38,0.0097,11,721.08,1.55,1
+p(SURVEY P observer1)psi(und P water P height100),4.38,0.0097,11,721.08,3.99,1
+p(SURVEY P observer1)psi(forest100 P ele P height100),4.38,0.0097,11,721.08,-0.84,1
+p(SURVEY P observer1)psi(und P ele P height100),4.38,0.0097,11,721.08,0,1
+p(SURVEY P observer1)psi(water P ele P height100),4.38,0.0097,11,721.08,2.19,1
+p(SURVEY P observer1)psi(disturb100 P und P distRoad),4.38,0.0097,11,721.08,5.02,1
+p(SURVEY P observer1)psi(forest100 P und P distRoad),4.38,0.0097,11,721.08,5.45,1
+p(SURVEY P observer1)psi(ndvi100 P und P distRoad),4.38,0.0097,11,721.08,0,1
+p(SURVEY P observer1)psi(forest100 P water P distRoad),4.38,0.0097,11,721.08,0,1
+p(SURVEY P observer1)psi(und P water P distRoad),4.38,0.0097,11,721.08,4.78,1
+p(SURVEY P observer1)psi(forest100 P ele P distRoad),4.38,0.0097,11,721.08,-0.04,0
+p(SURVEY P observer1)psi(und P ele P distRoad),4.38,0.0097,11,721.08,4.58,1
+p(SURVEY P observer1)psi(water P ele P distRoad),4.38,0.0097,11,721.08,5.31,1
+p(SURVEY P observer1)psi(und P height100 P distRoad),4.38,0.0097,11,721.08,4.62,1
+p(SURVEY P observer1)psi(),4.65,0.0085,8,727.88,4.68,0
+p(SURVEY P observer1)psi(ndvi100 P ele P distRoad),4.67,0.0084,11,721.36,1.02,1
+p(SURVEY P observer1)psi(forest100 P ele),5.89,0.0046,10,724.79,0,0
+p(SURVEY P observer1)psi(ele P distRoad),6.3,0.0037,10,725.19,5.93,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und),6.61,0.0032,12,721.08,5.36,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water),6.61,0.0032,12,721.08,5.16,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water),6.61,0.0032,12,721.08,5.64,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water),6.61,0.0032,12,721.08,5.77,0
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water),6.61,0.0032,12,721.08,4.42,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P ele),6.61,0.0032,12,721.08,1.48,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P ele),6.61,0.0032,12,721.08,4.75,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P ele),6.61,0.0032,12,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water P ele),6.61,0.0032,12,721.08,5.61,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water P ele),6.61,0.0032,12,721.08,0,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water P ele),6.61,0.0032,12,721.08,4.36,0
+p(SURVEY P observer1)psi(disturb100 P und P water P ele),6.61,0.0032,12,721.08,4.13,1
+p(SURVEY P observer1)psi(forest100 P und P water P ele),6.61,0.0032,12,721.08,5.88,1
+p(SURVEY P observer1)psi(ndvi100 P und P water P ele),6.61,0.0032,12,721.08,0.65,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P height100),6.61,0.0032,12,721.08,5.22,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P height100),6.61,0.0032,12,721.08,1.73,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P height100),6.61,0.0032,12,721.08,4.98,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water P height100),6.61,0.0032,12,721.08,4.74,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water P height100),6.61,0.0032,12,721.08,5.1,1
+p(SURVEY P observer1)psi(disturb100 P und P water P height100),6.61,0.0032,12,721.08,2.95,1
+p(SURVEY P observer1)psi(forest100 P und P water P height100),6.61,0.0032,12,721.08,1.46,1
+p(SURVEY P observer1)psi(ndvi100 P und P water P height100),6.61,0.0032,12,721.08,3.53,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ele P height100),6.61,0.0032,12,721.08,-0.01,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P ele P height100),6.61,0.0032,12,721.08,-0.26,1
+p(SURVEY P observer1)psi(disturb100 P und P ele P height100),6.61,0.0032,12,721.08,0,1
+p(SURVEY P observer1)psi(forest100 P und P ele P height100),6.61,0.0032,12,721.08,1.94,1
+p(SURVEY P observer1)psi(ndvi100 P und P ele P height100),6.61,0.0032,12,721.08,5.4,1
+p(SURVEY P observer1)psi(disturb100 P water P ele P height100),6.61,0.0032,12,721.08,2.88,1
+p(SURVEY P observer1)psi(forest100 P water P ele P height100),6.61,0.0032,12,721.08,5.78,1
+p(SURVEY P observer1)psi(ndvi100 P water P ele P height100),6.61,0.0032,12,721.08,1.08,1
+p(SURVEY P observer1)psi(und P water P ele P height100),6.61,0.0032,12,721.08,4.81,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P distRoad),6.61,0.0032,12,721.08,1.8,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P distRoad),6.61,0.0032,12,721.08,2.52,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P distRoad),6.61,0.0032,12,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water P distRoad),6.61,0.0032,12,721.08,5.41,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water P distRoad),6.61,0.0032,12,721.08,1.6,1
+p(SURVEY P observer1)psi(disturb100 P und P water P distRoad),6.61,0.0032,12,721.08,4.27,1
+p(SURVEY P observer1)psi(forest100 P und P water P distRoad),6.61,0.0032,12,721.08,5.75,1
+p(SURVEY P observer1)psi(ndvi100 P und P water P distRoad),6.61,0.0032,12,721.08,5.5,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ele P distRoad),6.61,0.0032,12,721.08,0.59,0
+p(SURVEY P observer1)psi(forest100 P ndvi100 P ele P distRoad),6.61,0.0032,12,721.08,1.64,1
+p(SURVEY P observer1)psi(disturb100 P und P ele P distRoad),6.61,0.0032,12,721.08,4.62,1
+p(SURVEY P observer1)psi(forest100 P und P ele P distRoad),6.61,0.0032,12,721.08,0,1
+p(SURVEY P observer1)psi(ndvi100 P und P ele P distRoad),6.61,0.0032,12,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P water P ele P distRoad),6.61,0.0032,12,721.08,3.95,1
+p(SURVEY P observer1)psi(forest100 P water P ele P distRoad),6.61,0.0032,12,721.08,4.26,1
+p(SURVEY P observer1)psi(ndvi100 P water P ele P distRoad),6.61,0.0032,12,721.08,4.98,0
+p(SURVEY P observer1)psi(und P water P ele P distRoad),6.61,0.0032,12,721.08,5.34,1
+p(SURVEY P observer1)psi(disturb100 P und P height100 P distRoad),6.61,0.0032,12,721.08,5.52,1
+p(SURVEY P observer1)psi(forest100 P und P height100 P distRoad),6.61,0.0032,12,721.08,1.64,1
+p(SURVEY P observer1)psi(ndvi100 P und P height100 P distRoad),6.61,0.0032,12,721.08,3.48,1
+p(SURVEY P observer1)psi(forest100 P water P height100 P distRoad),6.61,0.0032,12,721.08,1.4,1
+p(SURVEY P observer1)psi(und P water P height100 P distRoad),6.61,0.0032,12,721.08,4.17,1
+p(SURVEY P observer1)psi(disturb100 P ele P height100 P distRoad),6.61,0.0032,12,721.08,0.65,0
+p(SURVEY P observer1)psi(forest100 P ele P height100 P distRoad),6.61,0.0032,12,721.08,3.52,1
+p(SURVEY P observer1)psi(und P ele P height100 P distRoad),6.61,0.0032,12,721.08,0,1
+p(SURVEY P observer1)psi(water P ele P height100 P distRoad),6.61,0.0032,12,721.08,5.3,1
+p(SURVEY P observer1)psi(water),6.66,0.0031,9,727.74,5.2,0
+p(SURVEY P observer1)psi(disturb100),6.81,0.0029,9,727.88,2.96,1
+p(SURVEY P observer1)psi(forest100),6.81,0.0029,9,727.88,4.17,0
+p(SURVEY P observer1)psi(ndvi100),6.81,0.0029,9,727.88,3.3,1
+p(SURVEY P observer1)psi(ele),6.81,0.0029,9,727.88,4.18,1
+p(SURVEY P observer1)psi(height100),6.81,0.0029,9,727.88,3.41,0
+p(SURVEY P observer1)psi(distRoad),6.81,0.0029,9,727.88,3.71,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ele),7.58,0.002,11,724.27,5.46,0
+p(SURVEY P observer1)psi(ele P height100 P distRoad),7.72,0.0018,11,724.41,0,0
+p(SURVEY P observer1)psi(disturb100 P ele P distRoad),8.11,0.0015,11,724.81,0,0
+p(SURVEY P observer1)psi(water P distRoad),8.39,0.0013,10,727.28,0,0
+p(SURVEY P observer1)psi(ndvi100 P water),8.6,0.0012,10,727.49,1.14,1
+p(SURVEY P observer1)psi(ndvi100 P ele P height100 P distRoad),8.6,0.0012,12,723.07,0.08,0
+p(SURVEY P observer1)psi(disturb100 P water),8.77,0.0011,10,727.66,5.98,0
+p(SURVEY P observer1)psi(water P height100),8.83,0.0011,10,727.73,5.06,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water),8.85,0.001,13,721.08,5.17,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P ele),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water P ele),8.85,0.001,13,721.08,5.5,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water P ele),8.85,0.001,13,721.08,5.35,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water P ele),8.85,0.001,13,721.08,2.62,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water P ele),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P height100),8.85,0.001,13,721.08,5.09,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water P height100),8.85,0.001,13,721.08,4.2,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water P height100),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water P height100),8.85,0.001,13,721.08,2.04,0
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water P height100),8.85,0.001,13,721.08,5.86,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P ele P height100),8.85,0.001,13,721.08,0.1,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P ele P height100),8.85,0.001,13,721.08,5.12,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P ele P height100),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P ele P height100),8.85,0.001,13,721.08,2.72,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water P ele P height100),8.85,0.001,13,721.08,5.78,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water P ele P height100),8.85,0.001,13,721.08,1.97,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water P ele P height100),8.85,0.001,13,721.08,1.25,1
+p(SURVEY P observer1)psi(disturb100 P und P water P ele P height100),8.85,0.001,13,721.08,5.02,1
+p(SURVEY P observer1)psi(forest100 P und P water P ele P height100),8.85,0.001,13,721.08,3.88,1
+p(SURVEY P observer1)psi(ndvi100 P und P water P ele P height100),8.85,0.001,13,721.08,5.8,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water P distRoad),8.85,0.001,13,721.08,4.88,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water P distRoad),8.85,0.001,13,721.08,5.54,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water P distRoad),8.85,0.001,13,721.08,5.37,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P ele P distRoad),8.85,0.001,13,721.08,2.16,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P ele P distRoad),8.85,0.001,13,721.08,1.19,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P ele P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P ele P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water P ele P distRoad),8.85,0.001,13,721.08,1.87,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water P ele P distRoad),8.85,0.001,13,721.08,2.86,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water P ele P distRoad),8.85,0.001,13,721.08,1.5,1
+p(SURVEY P observer1)psi(disturb100 P und P water P ele P distRoad),8.85,0.001,13,721.08,4.76,1
+p(SURVEY P observer1)psi(forest100 P und P water P ele P distRoad),8.85,0.001,13,721.08,3.9,1
+p(SURVEY P observer1)psi(ndvi100 P und P water P ele P distRoad),8.85,0.001,13,721.08,1.4,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P height100 P distRoad),8.85,0.001,13,721.08,2.45,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P height100 P distRoad),8.85,0.001,13,721.08,4.19,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P height100 P distRoad),8.85,0.001,13,721.08,4.65,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water P height100 P distRoad),8.85,0.001,13,721.08,1.63,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water P height100 P distRoad),8.85,0.001,13,721.08,2.18,1
+p(SURVEY P observer1)psi(disturb100 P und P water P height100 P distRoad),8.85,0.001,13,721.08,2.43,1
+p(SURVEY P observer1)psi(forest100 P und P water P height100 P distRoad),8.85,0.001,13,721.08,2.09,1
+p(SURVEY P observer1)psi(ndvi100 P und P water P height100 P distRoad),8.85,0.001,13,721.08,2.83,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ele P height100 P distRoad),8.85,0.001,13,721.08,0.19,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P ele P height100 P distRoad),8.85,0.001,13,721.08,0.37,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P ele P height100 P distRoad),8.85,0.001,13,721.08,2.46,1
+p(SURVEY P observer1)psi(disturb100 P und P ele P height100 P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(forest100 P und P ele P height100 P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(ndvi100 P und P ele P height100 P distRoad),8.85,0.001,13,721.08,4.67,1
+p(SURVEY P observer1)psi(disturb100 P water P ele P height100 P distRoad),8.85,0.001,13,721.08,4.22,1
+p(SURVEY P observer1)psi(forest100 P water P ele P height100 P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(ndvi100 P water P ele P height100 P distRoad),8.85,0.001,13,721.08,0,1
+p(SURVEY P observer1)psi(und P water P ele P height100 P distRoad),8.85,0.001,13,721.08,5.97,1
+p(SURVEY P observer1)psi(disturb100 P forest100),8.99,0.001,10,727.88,3.8,0
+p(SURVEY P observer1)psi(disturb100 P ndvi100),8.99,0.001,10,727.88,4.34,1
+p(SURVEY P observer1)psi(forest100 P ndvi100),8.99,0.001,10,727.88,1.15,1
+p(SURVEY P observer1)psi(disturb100 P ele),8.99,0.001,10,727.88,5.1,1
+p(SURVEY P observer1)psi(ndvi100 P ele),8.99,0.001,10,727.88,5.9,1
+p(SURVEY P observer1)psi(disturb100 P height100),8.99,0.001,10,727.88,4.13,0
+p(SURVEY P observer1)psi(forest100 P height100),8.99,0.001,10,727.88,3.16,0
+p(SURVEY P observer1)psi(ndvi100 P height100),8.99,0.001,10,727.88,0,1
+p(SURVEY P observer1)psi(ele P height100),8.99,0.001,10,727.88,5.04,0
+p(SURVEY P observer1)psi(disturb100 P distRoad),8.99,0.001,10,727.88,4.54,0
+p(SURVEY P observer1)psi(forest100 P distRoad),8.99,0.001,10,727.88,3.65,0
+p(SURVEY P observer1)psi(ndvi100 P distRoad),8.99,0.001,10,727.88,5.42,1
+p(SURVEY P observer1)psi(height100 P distRoad),8.99,0.001,10,727.88,5.17,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P ele),9.63,7e-04,12,724.1,-0.39,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P ele P distRoad),9.69,7e-04,12,724.16,0.1,0
+p(SURVEY P observer1)psi(disturb100 P ele P height100),10.11,6e-04,11,726.8,2.29,0
+p(SURVEY P observer1)psi(disturb100 P water P distRoad),10.48,5e-04,11,727.17,5.62,0
+p(SURVEY P observer1)psi(ndvi100 P water P distRoad),10.56,4e-04,11,727.25,1.83,0
+p(SURVEY P observer1)psi(water P height100 P distRoad),10.58,4e-04,11,727.28,0,0
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water),10.74,4e-04,11,727.43,1.82,1
+p(SURVEY P observer1)psi(ndvi100 P water P height100),10.8,4e-04,11,727.49,0.2,1
+p(SURVEY P observer1)psi(disturb100 P water P height100),10.96,4e-04,11,727.65,1.52,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water P ele),11.11,3e-04,14,721.08,5.95,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water P height100),11.11,3e-04,14,721.08,1.44,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P ele P height100),11.11,3e-04,14,721.08,4.77,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water P ele P height100),11.11,3e-04,14,721.08,5.86,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water P ele P height100),11.11,3e-04,14,721.08,1.25,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water P ele P height100),11.11,3e-04,14,721.08,5.33,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water P ele P height100),11.11,3e-04,14,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water P distRoad),11.11,3e-04,14,721.08,5.22,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P ele P distRoad),11.11,3e-04,14,721.08,3.1,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water P ele P distRoad),11.11,3e-04,14,721.08,5.35,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water P ele P distRoad),11.11,3e-04,14,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water P ele P distRoad),11.11,3e-04,14,721.08,3.53,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water P ele P distRoad),11.11,3e-04,14,721.08,5.61,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P height100 P distRoad),11.11,3e-04,14,721.08,4.83,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water P height100 P distRoad),11.11,3e-04,14,721.08,2.29,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water P height100 P distRoad),11.11,3e-04,14,721.08,5.93,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water P height100 P distRoad),11.11,3e-04,14,721.08,5.42,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water P height100 P distRoad),11.11,3e-04,14,721.08,4.81,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P ele P height100 P distRoad),11.11,3e-04,14,721.08,4.89,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P ele P height100 P distRoad),11.11,3e-04,14,721.08,3.05,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P ele P height100 P distRoad),11.11,3e-04,14,721.08,5.25,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P ele P height100 P distRoad),11.11,3e-04,14,721.08,5.44,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P water P ele P height100 P distRoad),11.11,3e-04,14,721.08,4.2,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water P ele P height100 P distRoad),11.11,3e-04,14,721.08,2.26,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P water P ele P height100 P distRoad),11.11,3e-04,14,721.08,5.04,1
+p(SURVEY P observer1)psi(disturb100 P und P water P ele P height100 P distRoad),11.11,3e-04,14,721.08,2.16,1
+p(SURVEY P observer1)psi(forest100 P und P water P ele P height100 P distRoad),11.11,3e-04,14,721.08,2.88,1
+p(SURVEY P observer1)psi(ndvi100 P und P water P ele P height100 P distRoad),11.11,3e-04,14,721.08,4.04,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100),11.19,3e-04,11,727.88,3.55,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P ele),11.19,3e-04,11,727.88,5.93,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P height100),11.19,3e-04,11,727.88,4.77,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P height100),11.19,3e-04,11,727.88,3.75,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P height100),11.19,3e-04,11,727.88,4.74,1
+p(SURVEY P observer1)psi(ndvi100 P ele P height100),11.19,3e-04,11,727.88,3.66,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P distRoad),11.19,3e-04,11,727.88,3.84,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P distRoad),11.19,3e-04,11,727.88,0.92,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P distRoad),11.19,3e-04,11,727.88,4.35,1
+p(SURVEY P observer1)psi(disturb100 P height100 P distRoad),11.19,3e-04,11,727.88,2.78,1
+p(SURVEY P observer1)psi(forest100 P height100 P distRoad),11.19,3e-04,11,727.88,0,0
+p(SURVEY P observer1)psi(ndvi100 P height100 P distRoad),11.19,3e-04,11,727.88,3.62,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P ele P height100),11.91,2e-04,12,726.38,-0.29,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water P distRoad),12.68,2e-04,12,727.15,3.21,1
+p(SURVEY P observer1)psi(disturb100 P water P height100 P distRoad),12.7,2e-04,12,727.17,4.98,0
+p(SURVEY P observer1)psi(ndvi100 P water P height100 P distRoad),12.78,1e-04,12,727.25,5.06,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water P height100),12.96,1e-04,12,727.43,2.23,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water P ele P height100),13.39,1e-04,15,721.08,0,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water P ele P distRoad),13.39,1e-04,15,721.08,4.39,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water P height100 P distRoad),13.39,1e-04,15,721.08,5.7,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P ele P height100 P distRoad),13.39,1e-04,15,721.08,5.21,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P water P ele P height100 P distRoad),13.39,1e-04,15,721.08,5.4,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P und P water P ele P height100 P distRoad),13.39,1e-04,15,721.08,5.25,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P und P water P ele P height100 P distRoad),13.39,1e-04,15,721.08,3.88,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P und P water P ele P height100 P distRoad),13.39,1e-04,15,721.08,5.3,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P height100),13.41,1e-04,12,727.88,1.35,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P distRoad),13.41,1e-04,12,727.88,5.64,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P height100 P distRoad),13.41,1e-04,12,727.88,5.25,0
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P height100 P distRoad),13.41,1e-04,12,727.88,4.5,1
+p(SURVEY P observer1)psi(forest100 P ndvi100 P height100 P distRoad),13.41,1e-04,12,727.88,5.97,1
+p(SURVEY P observer1)psi(disturb100 P ndvi100 P water P height100 P distRoad),14.92,1e-04,13,727.15,3.22,0
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P height100 P distRoad),15.66,0,13,727.88,3.85,1
+p(SURVEY P observer1)psi(disturb100 P forest100 P ndvi100 P und P water P ele P height100 P distRoad),15.7,0,16,721.08,0,1

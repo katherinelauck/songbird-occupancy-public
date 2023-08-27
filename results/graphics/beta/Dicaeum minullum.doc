@@ -1,0 +1,10 @@
+
+<table style="text-align:center"><tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>Psi</td><td>psi.ndvi500</td><td>psi.und</td><td>psi.ele</td><td>psi.height500</td><td>psi.forest1000</td><td>psi.distRoad</td><td>psi.water</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p()psi(ndvi500 P und P ele P height500)</td><td>NA ± NA</td><td>-11830.69 ± NA</td><td>-18585.72 ± 10.89</td><td>-12908.26 ± NA</td><td>-71812.77 ± 35.49</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(observer1)psi(ndvi500 P ele P height500)</td><td>NA ± NA</td><td>-1360.39 ± 9.74</td><td></td><td>-1845.98 ± 16.88</td><td>-7448.47 ± 8.46</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(ndvi500 P ele P height500)</td><td>NA ± NA</td><td>-4754.15 ± 527.88</td><td></td><td>-6523.97 ± 1042.56</td><td>-24739.88 ± 47</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(observer1)psi(forest1000 P und P distRoad)</td><td>NA ± NA</td><td></td><td>121111.2 ± 72.74</td><td></td><td></td><td>-20357.44 ± 17.31</td><td>48114.92 ± 40.91</td><td></td></tr>
+<tr><td style="text-align:left">p(observer1)psi(ndvi500 P und P ele P height500)</td><td>NA ± NA</td><td>-1074.78 ± 6.42</td><td>-1678.71 ± NA</td><td>-1130.78 ± 152.37</td><td>-4733.79 ± NA</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(ndvi500 P ele P height500 P distRoad)</td><td>NA ± NA</td><td>-27556.73 ± 22.97</td><td></td><td>-44089.14 ± 39.71</td><td>-151547.88 ± 92.94</td><td></td><td>12171.63 ± 25.1</td><td></td></tr>
+<tr><td style="text-align:left">p(observer1)psi(ndvi500 P und P water P ele P height500)</td><td>NA ± NA</td><td>-4453.61 ± 0.02</td><td>-6767.34 ± 153.95</td><td>-5193.03 ± 368.92</td><td>-26994.55 ± 18.44</td><td></td><td></td><td>-17.44 ± 566.06</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

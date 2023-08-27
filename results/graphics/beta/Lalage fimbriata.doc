@@ -1,0 +1,4 @@
+
+<table style="text-align:center"><tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.forest1500</td><td>psi.ndvi100</td><td>psi.water</td><td>psi.ele</td><td>psi.distRoad</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(cloudCover)psi(forest1500 P ndvi100 P water P ele P distRoad)</td><td>-1464.95 ± 7.49</td><td>8362.86 ± 19.56</td><td>6502.04 ± 1336232811.36</td><td>-11722.07 ± NA</td><td>4300.04 ± 9.76</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr></table>

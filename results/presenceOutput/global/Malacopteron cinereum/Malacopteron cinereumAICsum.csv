@@ -1,0 +1,257 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P ele P distRoad),0,0.1696,13,262.06,0,1
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),0.39,0.1394,13,262.45,4.96,1
+p(SURVEY P start)psi(disturb500 P forest1500),2.27,0.0545,9,273.18,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und),2.32,0.0531,10,271.05,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P ele),3.12,0.0357,11,269.64,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ele),3.61,0.028,10,272.33,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P height100),3.98,0.0232,10,272.71,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und),4.04,0.0225,11,270.56,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P height100),4.04,0.0225,11,270.57,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500),4.07,0.0222,10,272.79,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P distRoad),4.44,0.0184,10,273.16,5.49,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water),4.44,0.0184,10,273.17,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P distRoad),4.5,0.0179,11,271.02,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water),4.51,0.0177,11,271.04,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P ele P height100 P distRoad),4.65,0.0166,14,264.45,2.07,1
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water P ele),5.07,0.0135,12,269.37,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P ele P height100),5.08,0.0134,12,269.38,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P ele),5.32,0.0119,12,269.62,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P ele P distRoad),5.34,0.0118,12,269.64,5.97,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ele P height100),5.53,0.0107,11,272.05,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water P ele),5.67,0.01,11,272.19,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P ele),5.77,0.0095,11,272.3,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ele P distRoad),5.8,0.0093,11,272.33,5.67,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P height100),5.97,0.0086,11,272.49,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P height100),5.98,0.0085,12,270.29,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water P height100),6.14,0.0079,11,272.67,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P height100 P distRoad),6.18,0.0077,11,272.71,4.64,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P distRoad),6.2,0.0076,12,270.51,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P distRoad),6.23,0.0075,11,272.76,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water P height100),6.23,0.0075,12,270.53,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P height100 P distRoad),6.25,0.0074,12,270.56,5.99,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water),6.26,0.0074,12,270.56,5.09,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water),6.27,0.0074,11,272.79,5.63,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P ele),6.32,0.0072,12,270.62,5.6,1
+p(SURVEY P start)psi(disturb500 P und P ele),6.36,0.0071,10,275.08,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water P distRoad),6.63,0.0062,11,273.15,5.97,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water P distRoad),6.71,0.0059,12,271.01,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water P ele P height100),7.01,0.0051,13,269.07,0,0
+p(SURVEY P start)psi(disturb500 P und),7.19,0.0047,9,278.1,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water P ele P distRoad),7.29,0.0044,13,269.35,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P ele P height100 P distRoad),7.31,0.0044,13,269.37,5.46,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P ele P height100),7.32,0.0044,13,269.38,5.24,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P ele P distRoad),7.56,0.0039,13,269.62,5.3,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water P ele P height100),7.57,0.0039,12,271.87,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ele P height100 P distRoad),7.73,0.0035,12,272.04,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P ele P height100),7.74,0.0035,12,272.05,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und),7.8,0.0034,10,276.53,0,0
+p(SURVEY P start)psi(disturb500 P und P ele P height100),7.85,0.0033,11,274.38,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water P ele P distRoad),7.87,0.0033,12,272.18,0,0
+p(SURVEY P start)psi(disturb500 P und P water P ele),8.14,0.0029,11,274.66,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P height100),8.17,0.0028,12,272.48,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P height100 P distRoad),8.18,0.0028,12,272.48,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P height100 P distRoad),8.2,0.0028,13,270.26,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P height100),8.21,0.0028,13,270.28,0,0
+p(SURVEY P start)psi(disturb500),8.24,0.0027,8,281.32,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water P height100 P distRoad),8.36,0.0026,12,272.66,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P distRoad),8.44,0.0025,13,270.5,5.05,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P distRoad),8.45,0.0025,12,272.75,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water P height100 P distRoad),8.47,0.0025,13,270.53,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500),8.48,0.0024,9,279.39,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P ele),8.54,0.0024,11,275.07,0,0
+p(SURVEY P start)psi(disturb500 P und P ele P distRoad),8.55,0.0024,11,275.07,0,0
+p(SURVEY P start)psi(disturb500 P und P height100),9.07,0.0018,10,277.8,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele P height100),9.13,0.0018,14,268.93,0,0
+p(SURVEY P start)psi(disturb500 P ele),9.17,0.0017,9,280.08,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P und P water P ele P height100 P distRoad),9.23,0.0017,14,269.03,0,0
+p(SURVEY P start)psi(disturb500 P und P distRoad),9.3,0.0016,10,278.02,0,0
+p(SURVEY P start)psi(disturb500 P und P water),9.37,0.0016,10,278.1,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele P distRoad),9.52,0.0015,14,269.32,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P ele P height100 P distRoad),9.57,0.0014,14,269.37,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water P ele P distRoad),9.58,0.0014,12,273.88,5.15,0
+p(SURVEY P start)psi(disturb500 P und P water P ele P height100),9.62,0.0014,12,273.92,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P height100),9.76,0.0013,11,276.29,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P ele P height100),9.78,0.0013,13,271.84,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P water P ele P height100 P distRoad),9.78,0.0013,13,271.84,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P distRoad),9.94,0.0012,11,276.46,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P ele P height100 P distRoad),9.97,0.0012,13,272.04,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water),9.98,0.0012,11,276.5,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P ele P height100),10.03,0.0011,12,274.34,0,0
+p(SURVEY P start)psi(disturb500 P und P ele P height100 P distRoad),10.07,0.0011,12,274.37,5.86,0
+p(SURVEY P start)psi(disturb500 P height100),10.2,0.001,9,281.11,0,0
+p(SURVEY P start)psi(disturb500 P water),10.31,0.001,9,281.22,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water P ele),10.31,0.001,12,274.62,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P height100),10.35,0.001,10,279.07,0,0
+p(SURVEY P start)psi(disturb500 P und P water P ele P distRoad),10.36,0.001,12,274.66,5.98,0
+p(SURVEY P start)psi(disturb500 P distRoad),10.38,9e-04,9,281.29,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P ele),10.38,9e-04,10,279.11,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P water P height100 P distRoad),10.4,9e-04,13,272.46,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P height100 P distRoad),10.45,9e-04,14,270.25,0,0
+p(SURVEY P start)psi(forest1500),10.49,9e-04,8,283.56,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water),10.64,8e-04,10,279.37,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P distRoad),10.66,8e-04,10,279.39,5.94,0
+p(SURVEY P start)psi(disturb500 P ele P height100),10.74,8e-04,10,279.47,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P ele P distRoad),10.75,8e-04,12,275.05,0,0
+p(SURVEY P start)psi(disturb500 P ele P distRoad),11.11,7e-04,10,279.84,0,0
+p(SURVEY P start)psi(disturb500 P water P ele),11.15,6e-04,10,279.88,0,0
+p(SURVEY P start)psi(disturb500 P und P height100 P distRoad),11.19,6e-04,11,277.71,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele P height100 P distRoad),11.23,6e-04,15,268.75,0,0
+p(SURVEY P start)psi(disturb500 P und P water P height100),11.27,6e-04,11,277.8,5.58,0
+p(SURVEY P start)psi(),11.38,6e-04,7,286.6,0,0
+p(SURVEY P start)psi(und),11.4,6e-04,8,284.48,0,0
+p(SURVEY P start)psi(disturb500 P und P water P distRoad),11.5,5e-04,11,278.02,5.44,0
+p(SURVEY P start)psi(forest1500 P ele),11.55,5e-04,9,282.45,0,0
+p(SURVEY P start)psi(forest1500 P und),11.59,5e-04,9,282.5,0,0
+p(SURVEY P start)psi(forest1500 P und P ele),11.81,5e-04,10,280.54,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P height100 P distRoad),11.82,5e-04,12,276.13,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water P ele P height100),11.84,5e-04,13,273.9,0,0
+p(SURVEY P start)psi(disturb500 P und P water P ele P height100 P distRoad),11.86,5e-04,13,273.92,0,0
+p(SURVEY P start)psi(und P ele),11.87,4e-04,9,282.77,0,0
+p(SURVEY P start)psi(forest1500 P height100),11.96,4e-04,9,282.87,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water P height100),11.97,4e-04,12,276.27,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P ele P height100),12.01,4e-04,11,278.54,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water P distRoad),12.14,4e-04,12,276.44,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P ele P height100 P distRoad),12.26,4e-04,13,274.32,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500),12.27,4e-04,9,283.18,0,0
+p(SURVEY P start)psi(disturb500 P water P height100),12.31,4e-04,10,281.03,0,0
+p(SURVEY P start)psi(disturb500 P height100 P distRoad),12.38,3e-04,10,281.11,5.72,0
+p(SURVEY P start)psi(forest1500 P distRoad),12.4,3e-04,9,283.31,0,0
+p(SURVEY P start)psi(disturb500 P water P distRoad),12.46,3e-04,10,281.19,5.5,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P ele P distRoad),12.52,3e-04,11,279.04,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P height100 P distRoad),12.53,3e-04,11,279.05,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water P ele),12.54,3e-04,11,279.06,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water P height100),12.54,3e-04,11,279.06,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water P ele P distRoad),12.55,3e-04,13,274.62,5.44,0
+p(SURVEY P start)psi(ndvi500),12.61,3e-04,8,285.68,0,0
+p(SURVEY P start)psi(ndvi500 P und),12.62,3e-04,9,283.53,0,0
+p(SURVEY P start)psi(forest1500 P water),12.65,3e-04,9,283.56,5.73,0
+p(SURVEY P start)psi(disturb500 P water P ele P height100),12.74,3e-04,11,279.27,0,0
+p(SURVEY P start)psi(disturb500 P ele P height100 P distRoad),12.84,3e-04,11,279.36,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water P distRoad),12.84,3e-04,11,279.37,0,0
+p(SURVEY P start)psi(ele),12.88,3e-04,8,285.95,0,0
+p(SURVEY P start)psi(disturb500 P water P ele P distRoad),13.07,2e-04,11,279.6,0,0
+p(SURVEY P start)psi(forest1500 P und P height100),13.2,2e-04,10,281.92,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und),13.23,2e-04,10,281.96,0,0
+p(SURVEY P start)psi(forest1500 P und P distRoad),13.29,2e-04,10,282.02,0,0
+p(SURVEY P start)psi(forest1500 P ele P height100),13.33,2e-04,10,282.06,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P ele P height100 P distRoad),13.36,2e-04,12,277.66,0,1
+p(SURVEY P start)psi(disturb500 P und P water P height100 P distRoad),13.41,2e-04,12,277.71,5.2,0
+p(SURVEY P start)psi(distRoad),13.5,2e-04,8,286.57,0,0
+p(SURVEY P start)psi(height100),13.52,2e-04,8,286.59,0,0
+p(SURVEY P start)psi(und P distRoad),13.52,2e-04,9,284.43,0,0
+p(SURVEY P start)psi(water),13.52,2e-04,8,286.6,0,0
+p(SURVEY P start)psi(und P water),13.57,2e-04,9,284.48,0,0
+p(SURVEY P start)psi(und P height100),13.57,2e-04,9,284.48,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P ele),13.72,2e-04,10,282.44,5.72,0
+p(SURVEY P start)psi(forest1500 P ele P distRoad),13.72,2e-04,10,282.45,0,0
+p(SURVEY P start)psi(forest1500 P water P ele),13.72,2e-04,10,282.45,0,0
+p(SURVEY P start)psi(forest1500 P und P water),13.77,2e-04,10,282.49,5.54,0
+p(SURVEY P start)psi(forest1500 P und P ele P height100),13.82,2e-04,11,280.34,0,0
+p(SURVEY P start)psi(ndvi500 P und P ele),13.9,2e-04,10,282.63,0,0
+p(SURVEY P start)psi(und P ele P height100),13.92,2e-04,10,282.64,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P height100),13.93,2e-04,10,282.65,0,0
+p(SURVEY P start)psi(und P ele P distRoad),13.94,2e-04,10,282.66,0,0
+p(SURVEY P start)psi(forest1500 P height100 P distRoad),13.97,2e-04,10,282.7,5.8,0
+p(SURVEY P start)psi(forest1500 P und P ele P distRoad),13.98,2e-04,11,280.51,0,0
+p(SURVEY P start)psi(forest1500 P und P water P ele),14.01,2e-04,11,280.53,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P ele),14.01,2e-04,11,280.54,5.76,0
+p(SURVEY P start)psi(und P water P ele),14.04,2e-04,10,282.77,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water P height100 P distRoad),14.05,2e-04,13,276.12,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P und P water P ele P height100 P distRoad),14.1,1e-04,14,273.9,0,0
+p(SURVEY P start)psi(forest1500 P water P height100),14.12,1e-04,10,282.84,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P distRoad),14.16,1e-04,10,282.88,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water P ele P height100 P distRoad),14.42,1e-04,13,276.48,2.65,1
+p(SURVEY P start)psi(forest1500 P ndvi500 P water),14.45,1e-04,10,283.18,5.92,0
+p(SURVEY P start)psi(disturb500 P water P height100 P distRoad),14.51,1e-04,11,281.03,0,0
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P ele P distRoad),14.57,1e-04,12,278.87,0,0
+p(SURVEY P start)psi(forest1500 P water P distRoad),14.57,1e-04,10,283.3,5.86,0
+p(SURVEY P start)psi(ndvi500 P ele),14.68,1e-04,9,285.59,5.82,0
+p(SURVEY P start)psi(ele P distRoad),14.72,1e-04,9,285.63,0,0
+p(SURVEY P start)psi(ndvi500 P und P distRoad),14.72,1e-04,10,283.45,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water P height100 P distRoad),14.74,1e-04,12,279.04,0,0
+p(SURVEY P start)psi(ndvi500 P water),14.76,1e-04,9,285.67,0,0
+p(SURVEY P start)psi(ndvi500 P distRoad),14.76,1e-04,9,285.67,0,0
+p(SURVEY P start)psi(ndvi500 P height100),14.76,1e-04,9,285.67,0,0
+p(SURVEY P start)psi(ndvi500 P und P water),14.79,1e-04,10,283.52,0,0
+p(SURVEY P start)psi(ndvi500 P und P height100),14.8,1e-04,10,283.53,5.19,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P distRoad),14.83,1e-04,11,281.35,0,0
+p(SURVEY P start)psi(disturb500 P water P ele P height100 P distRoad),14.83,1e-04,12,279.14,0,0
+p(SURVEY P start)psi(ele P height100),14.94,1e-04,9,285.85,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P height100),15.01,1e-04,11,281.54,0,0
+p(SURVEY P start)psi(forest1500 P und P height100 P distRoad),15.02,1e-04,11,281.54,0,0
+p(SURVEY P start)psi(water P ele),15.04,1e-04,9,285.95,5.55,0
+p(SURVEY P start)psi(forest1500 P und P water P height100),15.37,1e-04,11,281.9,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water),15.43,1e-04,11,281.96,5.93,0
+p(SURVEY P start)psi(forest1500 P und P water P distRoad),15.48,1e-04,11,282.01,0,0
+p(SURVEY P start)psi(forest1500 P water P ele P height100),15.51,1e-04,11,282.04,5.42,0
+p(SURVEY P start)psi(forest1500 P ele P height100 P distRoad),15.53,1e-04,11,282.05,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P ele P height100),15.53,1e-04,11,282.06,4.79,0
+p(SURVEY P start)psi(water P distRoad),15.67,1e-04,9,286.57,0,0
+p(SURVEY P start)psi(height100 P distRoad),15.67,1e-04,9,286.57,5.14,0
+p(SURVEY P start)psi(water P height100),15.68,1e-04,9,286.59,5.36,0
+p(SURVEY P start)psi(und P height100 P distRoad),15.7,1e-04,10,284.43,0,0
+p(SURVEY P start)psi(und P water P distRoad),15.7,1e-04,10,284.43,0,0
+p(SURVEY P start)psi(und P water P height100),15.75,1e-04,10,284.48,5.46,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P ele P distRoad),15.9,1e-04,11,282.42,0,0
+p(SURVEY P start)psi(forest1500 P water P ele P distRoad),15.92,1e-04,11,282.44,5.74,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P water P ele),15.92,1e-04,11,282.44,5.4,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P height100 P distRoad),15.92,1e-04,11,282.44,0,0
+p(SURVEY P start)psi(ndvi500 P und P ele P height100),15.97,1e-04,11,282.49,0,0
+p(SURVEY P start)psi(forest1500 P und P ele P height100 P distRoad),16,1e-04,12,280.31,0,0
+p(SURVEY P start)psi(forest1500 P und P water P ele P height100),16.01,1e-04,12,280.32,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P ele P height100),16.04,1e-04,12,280.34,5.48,0
+p(SURVEY P start)psi(und P ele P height100 P distRoad),16.05,1e-04,11,282.58,0,0
+p(SURVEY P start)psi(ndvi500 P und P ele P distRoad),16.05,1e-04,11,282.58,0,0
+p(SURVEY P start)psi(ndvi500 P und P water P ele),16.11,1e-04,11,282.63,5.43,0
+p(SURVEY P start)psi(und P water P ele P height100),16.12,1e-04,11,282.64,5.9,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P water P height100),16.12,1e-04,11,282.65,0,0
+p(SURVEY P start)psi(forest1500 P water P height100 P distRoad),16.14,1e-04,11,282.66,0,0
+p(SURVEY P start)psi(und P water P ele P distRoad),16.14,1e-04,11,282.66,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P ele P distRoad),16.19,1e-04,12,280.49,0,0
+p(SURVEY P start)psi(forest1500 P und P water P ele P distRoad),16.19,1e-04,12,280.49,5.78,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water P ele),16.23,1e-04,12,280.53,0,0
+p(SURVEY P start)psi(disturb500 P ndvi500 P water P ele P height100),16.27,0,12,280.58,0,1
+p(SURVEY P start)psi(forest1500 P ndvi500 P water P distRoad),16.36,0,11,282.88,5.45,0
+p(SURVEY P start)psi(ndvi500 P ele P distRoad),16.72,0,10,285.45,5.6,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P height100 P distRoad),16.73,0,12,281.04,0,0
+p(SURVEY P start)psi(ndvi500 P ele P height100),16.79,0,10,285.51,5.81,0
+p(SURVEY P start)psi(ndvi500 P water P ele),16.85,0,10,285.58,0,0
+p(SURVEY P start)psi(ele P height100 P distRoad),16.86,0,10,285.59,0,0
+p(SURVEY P start)psi(water P ele P distRoad),16.9,0,10,285.63,5.03,0
+p(SURVEY P start)psi(ndvi500 P und P height100 P distRoad),16.9,0,11,283.43,0,0
+p(SURVEY P start)psi(ndvi500 P und P water P distRoad),16.92,0,11,283.44,0,0
+p(SURVEY P start)psi(ndvi500 P water P height100),16.93,0,10,285.66,0,0
+p(SURVEY P start)psi(ndvi500 P water P distRoad),16.93,0,10,285.66,0,0
+p(SURVEY P start)psi(ndvi500 P height100 P distRoad),16.94,0,10,285.67,5.89,0
+p(SURVEY P start)psi(ndvi500 P und P water P height100),16.99,0,11,283.52,5.2,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water P distRoad),17.05,0,12,281.35,5.83,0
+p(SURVEY P start)psi(water P ele P height100),17.12,0,10,285.85,5.35,0
+p(SURVEY P start)psi(forest1500 P und P water P height100 P distRoad),17.2,0,12,281.5,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water P height100),17.23,0,12,281.53,0,0
+p(SURVEY P start)psi(forest1500 P water P ele P height100 P distRoad),17.72,0,12,282.03,5.39,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P water P ele P height100),17.73,0,12,282.03,5.56,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P ele P height100 P distRoad),17.75,0,12,282.05,3.68,0
+p(SURVEY P start)psi(water P height100 P distRoad),17.85,0,10,286.57,5.07,0
+p(SURVEY P start)psi(und P water P height100 P distRoad),17.9,0,11,284.43,5.62,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P water P ele P distRoad),18.12,0,12,282.42,5.87,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P water P height100 P distRoad),18.12,0,12,282.43,0,0
+p(SURVEY P start)psi(ndvi500 P und P ele P height100 P distRoad),18.17,0,12,282.47,0,0
+p(SURVEY P start)psi(ndvi500 P und P water P ele P height100),18.19,0,12,282.49,5.57,0
+p(SURVEY P start)psi(forest1500 P und P water P ele P height100 P distRoad),18.21,0,13,280.27,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P ele P height100 P distRoad),18.24,0,13,280.3,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water P ele P height100),18.25,0,13,280.31,0,0
+p(SURVEY P start)psi(und P water P ele P height100 P distRoad),18.27,0,12,282.58,0,0
+p(SURVEY P start)psi(ndvi500 P und P water P ele P distRoad),18.27,0,12,282.58,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water P ele P distRoad),18.42,0,13,280.48,5.6,0
+p(SURVEY P start)psi(ndvi500 P ele P height100 P distRoad),18.88,0,11,285.41,0,0
+p(SURVEY P start)psi(ndvi500 P water P ele P distRoad),18.91,0,11,285.44,5.53,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water P height100 P distRoad),18.96,0,13,281.02,0,0
+p(SURVEY P start)psi(ndvi500 P water P ele P height100),18.98,0,11,285.5,0,0
+p(SURVEY P start)psi(water P ele P height100 P distRoad),19.06,0,11,285.59,3.56,0
+p(SURVEY P start)psi(ndvi500 P und P water P height100 P distRoad),19.12,0,12,283.42,0,0
+p(SURVEY P start)psi(ndvi500 P water P height100 P distRoad),19.13,0,11,285.65,5.21,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P water P ele P height100 P distRoad),19.96,0,13,282.03,4.24,0
+p(SURVEY P start)psi(ndvi500 P und P water P ele P height100 P distRoad),20.41,0,13,282.47,0,0
+p(SURVEY P start)psi(forest1500 P ndvi500 P und P water P ele P height100 P distRoad),20.47,0,14,280.27,5.51,0
+p(SURVEY P start)psi(ndvi500 P water P ele P height100 P distRoad),21.09,0,12,285.4,0,0

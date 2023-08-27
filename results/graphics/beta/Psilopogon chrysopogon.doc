@@ -1,0 +1,13 @@
+
+<table style="text-align:center"><tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.und</td><td>psi.disturb100</td><td>psi.forest100</td><td>psi.ndvi100</td><td>psi.water</td><td>psi.ele</td><td>psi.height100</td><td>psi.distRoad</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(SURVEY P observer1)psi(und)</td><td>1025.55 ± 49579.79</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(disturb100 P und)</td><td>1879.07 ± NA</td><td>196.32 ± NA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(forest100 P und)</td><td>1280.36 ± NA</td><td></td><td>-539.81 ± NA</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(ndvi100 P und)</td><td>623.74 ± NA</td><td></td><td></td><td>0.01 ± NA</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(forest100 P water)</td><td></td><td></td><td>-8829.99 ± 3.94</td><td></td><td>-2355.69 ± NA</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(und P water)</td><td>138.12 ± 2641576.11</td><td></td><td></td><td></td><td>-41.62 ± NA</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(und P ele)</td><td>690.16 ± NA</td><td></td><td></td><td></td><td></td><td>154.09 ± NA</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(water P ele)</td><td></td><td></td><td></td><td></td><td>-1453.18 ± NA</td><td>9644.75 ± NA</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(und P height100)</td><td>523.11 ± NA</td><td></td><td></td><td></td><td></td><td></td><td>-163.96 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1)psi(und P distRoad)</td><td>691.9 ± NA</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-330.09 ± NA</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

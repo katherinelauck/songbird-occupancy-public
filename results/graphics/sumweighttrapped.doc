@@ -1,0 +1,8 @@
+
+<table style="text-align:center"><tr><td colspan="7" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Understory</td><td>% Water</td><td>Elevation</td><td>Canopy disturbance</td><td>% Intact forest</td><td>NDVI</td></tr>
+<tr><td colspan="7" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Alophoixus tephrogenys</td><td>-10.42</td><td>1.63</td><td>1.50</td><td>0.55</td><td>49.25</td><td>3.73</td></tr>
+<tr><td style="text-align:left">Chloropsis sonnerati</td><td>0.44</td><td>0.83</td><td>4.57</td><td>0.81</td><td>1.64</td><td>0.62</td></tr>
+<tr><td style="text-align:left">Copsychus malabaricus</td><td>1.13</td><td>1.23</td><td>2.00</td><td>0.51</td><td>1.32</td><td>12.77</td></tr>
+<tr><td style="text-align:left">Irena puella</td><td>0.86</td><td>1.03</td><td>0.95</td><td>1.02</td><td>4.75</td><td>0.68</td></tr>
+<tr><td style="text-align:left">Loriculus galgulus</td><td>3.15</td><td>0.83</td><td>17.12</td><td>1.01</td><td>1.18</td><td>0.87</td></tr>
+<tr><td colspan="7" style="border-bottom: 1px solid black"></td></tr></table>

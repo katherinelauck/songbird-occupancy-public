@@ -1,0 +1,138 @@
+Questions:
+
+Random effects of site?
+p.0[LU[site]+1]?
+p.eff?
+can have interaction between a fixed & random effect?
+how to set up data so that jags knows which column is which index?
+test for sp identity * dist interaction?
+how to pick relevant spatial scale?
+
+##******************************
+## Detection priors
+##******************************
+
+## Random
+
+	# Species intercept
+	sigma.p.sp ~ dunif(0,10)
+	tau.p.sp <- 1/(sigma.p.sp*sigma.p.sp)
+	
+	## Random species date slope
+	mu.p.date ~ dnorm(0,0.01)
+	sigma.p.date ~ dunif(0,10)
+	tau.p.date <- 1/(sigma.p.date*sigma.p.date)
+	
+	for (sp in 1:nsp) {
+		p.sp[sp] ~ dnorm(0, tau.p.sp) #; T(-5,5)
+		p.date[sp] ~ dnorm(mu.p.date, tau.p.date) #; T(-5,5)
+	}#\spp
+	
+	for (site in 1:nsite) {
+		for (rep in 1:nrep.run[site]){
+			p.rep[site,rep]~ dnorm(0, tau.p.site.sp.rep) #; T(-5,5)
+		} #\rep
+	}#\site
+
+## Fixed
+
+  for (lu in 1:2){
+	    p.0.l[lu] ~ dunif(0,1)
+	    p.0[lu] <- logit(p.0.l[lu])
+	}
+	
+	p.time ~ dnorm(0, 0.01)
+	p.noise ~ dnorm(0, 0.01)
+	p.ppl ~ dnorm(0, 0.01)
+
+##******************************
+## Detection probability
+##******************************
+    for (sp in 1:nsp){	    
+	    for (site in 1:nsite){
+		    for (rep in 1:nrep.run[site]){             
+	    	  logit(p[site, sp, rep]) <- 
+	    	    p.0[LU[site]+1] +             # fixed LU intercept (??)
+		    	  p.sp[sp] +                    # random sp intercept
+    	      p.rep[site,rep] +             # random rep intercept
+		    	  p.time*time[site,rep] +       # fixed effect
+		    	  p.date[sp]*date[site,rep] +   # different per spp (breeding seasons)
+		    	  p.noise*noise[site,rep] +     # fixed effect
+		    	  p.ppl*people[site,rep] +      # fixed effect
+
+
+				  p.eff[site,sp,rep] <- p[site,sp,rep]*visited[site,rep] # accounts for missed occasions (???)
+        } #/rep
+	    } #/site
+    } #/sp
+    
+##******************************
+## Occupancy priors
+##******************************
+
+## Random
+
+  # Species random intercept    
+  mu.lambda.0 ~ dnorm(0, 0.01)
+	sigma.lambda.0~dunif(0.001,10)
+	tau.lambda.0 <- 1/(sigma.lambda.0*sigma.lambda.0)
+	
+	# Site random intercept
+	sigma.lambda.site~dunif(0.001,10)
+	tau.lambda.site<-1/(sigma.lambda.site*sigma.lambda.site)
+	
+	for (site in 1:nsite){
+		lambda.site[site] ~ dnorm(0, tau.lambda.site) #; T(-5,5)
+	}
+	
+	# Transect random intercept
+	for (transect in 1:ntransect){
+		lambda.transect[transect] ~ dnorm(0, tau.lambda.transect) #; T(-5,5)
+	
+	# Species habitat slope    
+  mu.lambda.hab ~ dnorm(0, 0.01)
+	sigma.lambda.hab ~ dunif(0.001,10)
+	tau.lambda.hab <- 1/(sigma.lambda.hab*sigma.lambda.hab)	
+	
+	# Species effects made random
+	for (sp in 1:nsp){
+		lambda.0[sp] ~ dnorm(mu.lambda.0, tau.lambda.0) #; T(-5,5)
+		lambda.hab[sp] ~ dnorm(mu.lambda.hab, tau.lambda.hab) #; T(-5,5)
+	}
+	
+
+## Fixed
+
+# Per-species distance effect
+for (sp in 1:nsp) {
+		lambda.dist[sp] ~ dnorm(0, 0.01)
+	}
+	
+# Per-species distance*habitat
+for (sp in 1:nsp) {
+		lambda.distXhab[sp] ~ dnorm(0, 0.01)
+	}
+
+##******************************
+## Occupancy probability
+##******************************
+  
+  for (sp in 1:nsp){
+	   for(site in 1:nsite) {
+	 	 	  logit(psi[site,sp]) <- 
+	 	 	  	lambda.0[sp] +                          # sp random intercept
+	   			lambda.site[site] +                     # random site intercept
+	   			lambda.transect[transect.id[site],sp] + # random transect intercept
+	   			lambda.hab[sp]*hab[site] +              # per-spp habitat random effect 
+                                                    # NB will be split into many
+                                                    # param
+          lambda.dist[sp]*dist[site] +            # per-spp fixed distance effect
+          lambda.distXhab[sp]*dist[site]*hab[site]# fixed interaction effect
+
+	    	Z[site, sp] ~ dbern(psi[site,sp])         # latent "true" occupancy
+
+        for(rep in 1:nrep.run[site]) {
+	    	  X[site,sp,rep] ~ dbern(p.eff[site,sp,rep]*Z[site,sp]) # detection* occupancy = X (observed)
+		    } #/rep
+	   } #/site
+	} #/sp

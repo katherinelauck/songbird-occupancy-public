@@ -1,0 +1,17 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(SURVEY P cloudCover)psi(disturb500 P forest100 P ndvi500 P und P water P ele),0,0.4271,13,238.47,1.78,1
+p(SURVEY P cloudCover)psi(disturb100 P forest500 P ndvi100 P und P water P ele),1.29,0.2237,13,239.76,0,1
+p(SURVEY P cloudCover)psi(disturb100 P forest500 P ndvi500 P und P water P ele),1.54,0.1974,13,240.01,5.35,1
+p(SURVEY P cloudCover)psi(disturb500 P forest500 P ndvi500 P und P water P ele),4.44,0.0465,13,242.91,1.76,1
+p(SURVEY P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),4.64,0.0419,13,243.11,3.05,1
+p(SURVEY P cloudCover)psi(disturb500 P forest100 P ndvi100 P und P water P ele),6.64,0.0154,13,245.11,1.25,1
+p(SURVEY P cloudCover)psi(disturb500 P forest500 P ndvi100 P und P water P ele),6.64,0.0154,13,245.11,2.69,1
+p(SURVEY P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele),7.18,0.0118,13,245.65,4.49,1
+p(SURVEY P cloudCover)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),7.42,0.0104,13,245.89,-0.43,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),9.35,0.004,13,247.82,1.64,1
+p(SURVEY P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),9.42,0.0038,13,247.89,0,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),10.85,0.0019,13,249.32,4.35,1
+p(SURVEY P cloudCover)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),13.88,4e-04,13,252.35,4.15,1
+p(SURVEY P cloudCover)psi(disturb100 P forest100 P ndvi100 P und P water P ele),18.45,0,13,256.92,5.23,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),19.15,0,13,257.62,4.56,1
+p(SURVEY P cloudCover)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),19.64,0,13,258.11,3.53,1

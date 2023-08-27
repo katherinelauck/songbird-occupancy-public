@@ -1,0 +1,25 @@
+
+<table style="text-align:center"><tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.forest1500</td><td>psi.ele</td><td>psi.disturb100</td><td>psi.height100</td><td>psi.ndvi500</td><td>psi.distRoad</td><td>psi.water</td><td>psi.und</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(start)psi(forest1500 P ele)</td><td>-1.72 ± 0.84</td><td>-3.88 ± 1.57</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ele)</td><td>-1.34 ± 0.9</td><td>-3.79 ± 1.54</td><td>2.97 ± 2.27</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P ele)</td><td></td><td>-3.55 ± 1.59</td><td>3.76 ± 2.14</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(forest1500 P ele P height100)</td><td>-1.91 ± 0.88</td><td>-3.82 ± 1.54</td><td></td><td>1.3 ± 1.34</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ele P height100)</td><td>-1.54 ± 0.94</td><td>-3.79 ± 1.52</td><td>2.96 ± 2.31</td><td>1.27 ± 1.36</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P ndvi500 P ele)</td><td></td><td>-3.63 ± 1.65</td><td>5.15 ± 3.02</td><td></td><td>1.48 ± 1.99</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P ele P height100)</td><td></td><td>-3.52 ± 1.59</td><td>3.84 ± 2.18</td><td>0.91 ± 1.3</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ndvi500 P ele)</td><td>-1.3 ± 0.89</td><td>-3.87 ± 1.6</td><td>4.21 ± 3.06</td><td></td><td>1.35 ± 1.99</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(forest1500 P ele P distRoad)</td><td>-1.65 ± 0.86</td><td>-3.55 ± 1.65</td><td></td><td></td><td></td><td>-0.62 ± 1.08</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P water P ele)</td><td></td><td>-3.49 ± 1.59</td><td>3.77 ± 2.18</td><td></td><td></td><td></td><td>0.88 ± 1.25</td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(forest1500 P water P ele)</td><td>-1.65 ± 0.85</td><td>-3.81 ± 1.58</td><td></td><td></td><td></td><td></td><td>0.57 ± 1.19</td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P und P ele)</td><td></td><td>-3.39 ± 1.6</td><td>3.64 ± 2.14</td><td></td><td></td><td></td><td></td><td>-1.11 ± 1.97</td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P water P ele)</td><td>-1.27 ± 0.9</td><td>-3.74 ± 1.54</td><td>3.02 ± 2.29</td><td></td><td></td><td></td><td>0.62 ± 1.21</td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(forest1500 P und P ele)</td><td>-1.66 ± 0.86</td><td>-3.79 ± 1.59</td><td></td><td></td><td></td><td></td><td></td><td>-0.65 ± 2.04</td></tr>
+<tr><td style="text-align:left">p(start)psi(forest1500 P ndvi500 P ele)</td><td>-1.67 ± 0.86</td><td>-3.81 ± 1.55</td><td></td><td></td><td>-0.46 ± 1.5</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P ele P distRoad)</td><td></td><td>-3.29 ± 1.67</td><td>3.52 ± 2.18</td><td></td><td></td><td>-0.51 ± 1.11</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P und P ele)</td><td>-1.29 ± 0.91</td><td>-3.7 ± 1.56</td><td>2.95 ± 2.26</td><td></td><td></td><td></td><td></td><td>-0.58 ± 2.03</td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ele P distRoad)</td><td>-1.32 ± 0.91</td><td>-3.63 ± 1.64</td><td>2.83 ± 2.31</td><td></td><td></td><td>-0.29 ± 1.12</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ndvi500 P ele P height100)</td><td>-1.57 ± 0.95</td><td>-3.92 ± 1.61</td><td>5.11 ± 3.35</td><td>1.77 ± 1.52</td><td>2.28 ± 2.2</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(ele)</td><td></td><td>-3.5 ± 1.63</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(forest1500 P ele P height100 P distRoad)</td><td>-1.84 ± 0.91</td><td>-3.44 ± 1.6</td><td></td><td>1.42 ± 1.34</td><td></td><td>-0.8 ± 1.1</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P ndvi500 P ele P height100)</td><td></td><td>-3.61 ± 1.67</td><td>5.95 ± 3.31</td><td>1.33 ± 1.43</td><td>2.15 ± 2.15</td><td></td><td></td><td></td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

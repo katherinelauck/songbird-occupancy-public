@@ -1,0 +1,13 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(SURVEY P observer1)psi(und)</td><td>0</td><td>0.087</td><td>9</td><td>721.080</td><td>4.430</td><td>0</td></tr>
+<tr><td style="text-align:left">2</td><td>p(SURVEY P observer1)psi(disturb100 P und)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>5.310</td><td>1</td></tr>
+<tr><td style="text-align:left">3</td><td>p(SURVEY P observer1)psi(forest100 P und)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>4.100</td><td>1</td></tr>
+<tr><td style="text-align:left">4</td><td>p(SURVEY P observer1)psi(ndvi100 P und)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>5.660</td><td>1</td></tr>
+<tr><td style="text-align:left">5</td><td>p(SURVEY P observer1)psi(forest100 P water)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>1.210</td><td>1</td></tr>
+<tr><td style="text-align:left">6</td><td>p(SURVEY P observer1)psi(und P water)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>0.880</td><td>1</td></tr>
+<tr><td style="text-align:left">7</td><td>p(SURVEY P observer1)psi(und P ele)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>4.510</td><td>1</td></tr>
+<tr><td style="text-align:left">8</td><td>p(SURVEY P observer1)psi(water P ele)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>5.770</td><td>1</td></tr>
+<tr><td style="text-align:left">9</td><td>p(SURVEY P observer1)psi(und P height100)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>3.990</td><td>1</td></tr>
+<tr><td style="text-align:left">10</td><td>p(SURVEY P observer1)psi(und P distRoad)</td><td>2.180</td><td>0.029</td><td>10</td><td>721.080</td><td>4.680</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

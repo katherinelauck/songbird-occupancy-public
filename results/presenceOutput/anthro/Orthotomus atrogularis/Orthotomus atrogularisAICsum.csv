@@ -1,0 +1,11 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p()psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height100 P distRoad),0,0.6404,10,124.64,4.59,1
+p()psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height500 P distRoad),1.17,0.356,10,125.81,1.16,1
+p(start)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height100 P distRoad),11.24,0.0023,11,133.68,2.07,1
+p(observer1)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height100 P distRoad),12.4,0.0013,12,132.61,0.63,1
+p(cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height100 P distRoad),27.61,0,11,150.04,0,1
+p(cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height500 P distRoad),28.36,0,11,150.8,0,1
+p(observer1 P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height100 P distRoad),28.81,0,13,146.78,0,1
+p(observer1 P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height500 P distRoad),29.47,0,13,147.44,0,1
+p(start)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height500 P distRoad),29.51,0,11,151.94,0,0
+p(observer1)psi(disturb100 P forest1500 P ndvi100 P und P water P ele P height500 P distRoad),29.8,0,12,150.02,0,1

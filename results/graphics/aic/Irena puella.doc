@@ -1,0 +1,10 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(SURVEY P observer1)psi(forest1000 P distRoad)</td><td>0</td><td>0.091</td><td>10</td><td>341.830</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">2</td><td>p(SURVEY P observer1)psi(forest1000 P water P distRoad)</td><td>1.440</td><td>0.044</td><td>11</td><td>341.070</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">3</td><td>p(SURVEY P observer1)psi(disturb100 P forest1000 P distRoad)</td><td>1.600</td><td>0.041</td><td>11</td><td>341.230</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">4</td><td>p(SURVEY P observer1)psi(forest1000 P und P distRoad)</td><td>2.060</td><td>0.033</td><td>11</td><td>341.690</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">5</td><td>p(SURVEY P observer1)psi(forest1000 P height100 P distRoad)</td><td>2.120</td><td>0.032</td><td>11</td><td>341.750</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">6</td><td>p(SURVEY P observer1)psi(forest1000 P ele P distRoad)</td><td>2.130</td><td>0.032</td><td>11</td><td>341.760</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">7</td><td>p(SURVEY P observer1)psi(forest1000 P ndvi500 P distRoad)</td><td>2.170</td><td>0.031</td><td>11</td><td>341.800</td><td>0</td><td>0</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

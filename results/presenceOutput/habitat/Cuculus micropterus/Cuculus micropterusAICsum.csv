@@ -1,0 +1,17 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(SURVEY P observer1 P start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),0,0.2853,15,488.43,4.43,1
+p(SURVEY P observer1 P start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),0.27,0.2491,15,488.7,1.41,1
+p(SURVEY P observer1 P start)psi(disturb100 P forest100 P ndvi500 P und P water P ele),1.45,0.1383,15,489.87,5.45,1
+p(SURVEY P observer1 P start)psi(disturb100 P forest500 P ndvi500 P und P water P ele),1.45,0.1383,15,489.87,2.8,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),2.38,0.087,15,490.8,5.57,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest500 P ndvi500 P und P water P ele),3.26,0.0558,15,491.69,2.36,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),4.6,0.0287,15,493.02,5.39,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest100 P ndvi500 P und P water P ele),5.64,0.017,15,494.06,0,1
+p(SURVEY P observer1 P start)psi(disturb100 P forest100 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,4.34,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest100 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,5.63,1
+p(SURVEY P observer1 P start)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,5.55,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,0,1
+p(SURVEY P observer1 P start)psi(disturb100 P forest500 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,0,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest500 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,5.6,0
+p(SURVEY P observer1 P start)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,3.85,1
+p(SURVEY P observer1 P start)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),17.17,1e-04,15,505.6,5.9,0

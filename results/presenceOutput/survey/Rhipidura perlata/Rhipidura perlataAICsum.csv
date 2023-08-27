@@ -1,0 +1,17 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(observer1 P start)psi(),0,0.2729,5,380.43,0,0
+p(start)psi(),0.29,0.2365,3,384.88,0,0
+p(start P cloudCover)psi(),2.01,0.1,4,384.53,0,0
+p(observer1 P start P cloudCover)psi(),2.08,0.0963,6,380.41,5.09,0
+p(SURVEY P observer1 P start)psi(),3.02,0.0603,9,374.92,0,0
+p(SURVEY P start)psi(),3.62,0.0448,7,379.82,0,0
+p()psi(),3.66,0.0437,2,390.31,0,0
+p(observer1)psi(),3.78,0.0413,4,386.3,0,0
+p(cloudCover)psi(),4.97,0.0227,3,389.56,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(),5.2,0.0203,10,374.91,5.61,0
+p(SURVEY P start P cloudCover)psi(),5.42,0.0182,8,379.48,0,0
+p(observer1 P cloudCover)psi(),5.72,0.0156,5,386.16,0,0
+p(SURVEY P observer1)psi(),6.62,0.0099,8,380.68,5.87,0
+p(SURVEY)psi(),6.75,0.0094,6,385.07,5.74,0
+p(SURVEY P cloudCover)psi(),8.17,0.0046,7,384.37,0,0
+p(SURVEY P observer1 P cloudCover)psi(),8.7,0.0035,9,380.59,0,0

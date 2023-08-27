@@ -1,0 +1,1025 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p()psi(disturb500 P forest1000 P water P ele),0,0.1149,6,66.81,1.33,1
+p()psi(disturb500 P forest1000 P water P ele P distRoad),0.74,0.0792,7,65.43,0,1
+p(cloudCover)psi(disturb500 P forest1000 P water P ele),1.81,0.0465,7,66.49,1.13,1
+p(start)psi(disturb500 P forest1000 P water P ele P distRoad),1.88,0.0449,8,64.42,1.88,1
+p(cloudCover)psi(disturb500 P forest1000 P water P ele P distRoad),2.49,0.0331,8,65.03,1.56,1
+p()psi(forest1000 P water P ele),3.45,0.0205,5,72.37,5.56,1
+p()psi(forest1000 P ndvi500 P water P ele),3.49,0.0201,6,70.3,3.55,1
+p()psi(forest1000 P und P water P ele P distRoad),3.77,0.0174,7,68.46,1.16,1
+p(start P cloudCover)psi(disturb500 P forest1000 P water P ele),3.82,0.017,8,66.36,1.59,0
+p()psi(forest1000 P ndvi500 P und P water P ele),3.9,0.0164,7,68.58,4.4,1
+p()psi(forest1000 P water P ele P distRoad),3.92,0.0161,6,70.73,2.39,1
+p(start P cloudCover)psi(disturb500 P forest1000 P water P ele P distRoad),3.93,0.0161,9,64.3,4.78,1
+p()psi(disturb500 P forest1000 P und P water P ele),4.02,0.0154,7,68.7,1.45,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water P ele),4.23,0.0139,8,66.77,4.29,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),4.58,0.0117,9,64.95,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele),4.68,0.0111,8,67.22,5.19,0
+p()psi(disturb500 P forest1000 P ndvi500 P water P ele P height100),4.79,0.0105,8,67.33,0,1
+p()psi(forest1000 P und P water P ele P height100 P distRoad),4.79,0.0105,8,67.33,1.2,1
+p(cloudCover)psi(disturb500 P forest1000 P und P water P ele),4.83,0.0102,8,67.37,0.82,1
+p()psi(disturb500 P forest1000 P ndvi500 P water P ele P distRoad),4.92,0.0098,8,67.46,0,1
+p(start)psi(disturb500 P forest1000 P und P water P ele P distRoad),4.92,0.0098,9,65.3,1.43,1
+p(start)psi(disturb500 P forest1000 P water P ele),4.93,0.0098,7,69.61,5.48,1
+p()psi(forest1000 P water P ele P height100),4.96,0.0096,6,71.77,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100),5.05,0.0092,9,65.43,2,1
+p()psi(forest1000 P und P water P ele),5.06,0.0091,6,71.87,1.11,1
+p(cloudCover)psi(forest1000 P und P water P ele P distRoad),5.1,0.009,8,67.64,1.34,1
+p()psi(water P ele),5.13,0.0088,4,76.14,5.45,1
+p(cloudCover)psi(forest1000 P und P water P ele),5.26,0.0083,7,69.95,1.76,1
+p()psi(forest1000 P ndvi500 P und P water P ele P distRoad),5.43,0.0076,8,67.97,5.1,1
+p(cloudCover)psi(forest1000 P water P ele),5.45,0.0075,6,72.26,0,1
+p(cloudCover)psi(forest1000 P ndvi500 P water P ele),5.49,0.0074,7,70.18,3.23,1
+p()psi(disturb500 P forest1000 P und P water P ele P distRoad),5.56,0.0071,8,68.1,0.22,1
+p()psi(forest1000 P ndvi500 P water P ele P height100),5.62,0.0069,7,70.3,0,1
+p(start)psi(forest1000 P und P water P ele P distRoad),5.91,0.006,8,68.45,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele),5.98,0.0058,9,66.36,1.26,1
+p()psi(disturb500 P water P ele),6.08,0.0055,5,74.99,3.19,1
+p()psi(forest1000 P und P water P ele P height100),6.16,0.0053,7,70.84,4.37,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele P distRoad),6.2,0.0052,9,66.58,2.76,1
+p()psi(disturb500 P forest1000 P ele),6.25,0.0051,5,75.16,2.28,1
+p()psi(disturb500 P forest1000 P ndvi500 P water P ele),6.26,0.005,7,70.95,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P water P ele P height100 P distRoad),6.43,0.0046,9,66.81,0,1
+p(cloudCover)psi(forest1000 P water P ele P distRoad),6.48,0.0045,7,71.17,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water P ele),6.53,0.0044,9,66.9,0.26,1
+p(start)psi(water P ele P distRoad),6.58,0.0043,6,73.39,0,1
+p(start)psi(disturb500 P forest1000 P und P water P ele),6.62,0.0042,8,69.16,5.91,1
+p()psi(forest1000 P ndvi500 P water P ele P height100 P distRoad),6.75,0.0039,8,69.29,5.61,1
+p(cloudCover)psi(forest1000 P und P water P ele P height100 P distRoad),6.75,0.0039,9,67.13,1.54,1
+p(cloudCover)psi(disturb500 P forest1000 P ele),6.81,0.0038,6,73.62,2.04,1
+p()psi(water P ele P height100),6.82,0.0038,5,75.74,0,1
+p(start)psi(water P ele),6.84,0.0038,5,75.76,4.24,0
+p()psi(disturb500 P forest1000 P ndvi500 P ele),6.98,0.0035,6,73.79,-0.02,1
+p()psi(disturb500 P forest1000 P ele P distRoad),7.05,0.0034,6,73.86,4.98,1
+p()psi(forest1000 P ndvi500 P water P ele P distRoad),7.09,0.0033,7,71.77,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P ele),7.19,0.0032,7,71.87,4.26,1
+p(cloudCover)psi(disturb500 P forest1000 P und P water P ele P distRoad),7.25,0.0031,9,67.63,2.66,1
+p()psi(water P ele P distRoad),7.3,0.003,5,76.22,5.48,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P water P ele P distRoad),7.33,0.0029,9,67.71,4.03,1
+p(cloudCover)psi(forest1000 P ndvi500 P und P water P ele P height100),7.38,0.0029,9,67.76,1.11,0
+p(cloudCover)psi(forest1000 P water P ele P height100),7.46,0.0028,7,72.14,0,1
+p(start)psi(forest1000 P und P water P ele P height100 P distRoad),7.47,0.0027,9,67.84,0.61,1
+p()psi(forest1000 P ndvi500 P und P water P ele P height100),7.65,0.0025,8,70.19,2.38,1
+p()psi(disturb500 P forest1000 P water P ele P height100),7.68,0.0025,7,72.37,4.6,1
+p(start)psi(forest1000 P water P ele),7.82,0.0023,6,74.62,4.56,0
+p(start)psi(disturb500 P forest1000 P ele),7.84,0.0023,6,74.65,4.17,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P ele),7.84,0.0023,8,70.38,5.87,0
+p()psi(disturb500 P water P ele P distRoad),7.85,0.0023,6,74.65,0,1
+p(start)psi(forest1000 P water P ele P distRoad),7.9,0.0022,7,72.58,3.31,1
+p(start)psi(forest1000 P und P water P ele),7.98,0.0021,7,72.66,1.81,1
+p()psi(ndvi500 P water P ele),8,0.0021,5,76.91,5.04,1
+p()psi(und P water P ele),8,0.0021,5,76.91,0,0
+p(cloudCover)psi(forest1000 P und P water P ele P height100),8,0.0021,8,70.54,0.56,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water P ele P distRoad),8.05,0.0021,10,66.24,3,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P water P ele),8.06,0.002,8,70.6,2.17,1
+p(start)psi(forest1000 P ndvi500 P water P ele P distRoad),8.15,0.002,8,70.69,1.43,1
+p()psi(forest1000 P ndvi500 P und P water P ele P height100 P distRoad),8.2,0.0019,9,68.58,5.42,1
+p(start P cloudCover)psi(forest1000 P und P water P ele P distRoad),8.26,0.0018,9,68.64,0.92,1
+p()psi(disturb500 P ndvi500 P und),8.3,0.0018,5,77.21,5.06,1
+p()psi(disturb500 P forest1000 P und P ele),8.35,0.0018,6,75.16,1.9,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P ele),8.37,0.0018,7,73.05,5.72,1
+p()psi(disturb500 P forest1000 P ndvi500 P und),8.44,0.0017,6,75.25,4.75,1
+p(cloudCover)psi(water P ele),8.46,0.0017,5,77.38,4.05,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele),8.49,0.0016,9,68.87,4.59,0
+p(start)psi(forest1000 P water P ele P height100),8.54,0.0016,7,73.22,5.32,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und),8.54,0.0016,7,73.22,1.63,1
+p(cloudCover)psi(forest1000 P ndvi500 P water P ele P distRoad),8.6,0.0016,8,71.14,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P ele P distRoad),8.63,0.0015,7,73.32,0,1
+p(start)psi(disturb500 P ndvi500 P und),8.64,0.0015,6,75.44,5.76,1
+p(start)psi(water P ele P height100),8.65,0.0015,6,75.45,2.98,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ele),8.67,0.0015,7,73.36,5.69,1
+p()psi(disturb500 P water P ele P height100),8.68,0.0015,6,75.49,4.04,1
+p(start)psi(und P water P ele P distRoad),8.71,0.0015,7,73.39,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele),8.75,0.0014,8,71.29,2.43,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele),8.81,0.0014,7,73.49,5.11,0
+p()psi(forest1000 P water P ele P height100 P distRoad),8.82,0.0014,7,73.5,1.74,1
+p(start)psi(forest1000 P water P ele P height100 P distRoad),8.82,0.0014,8,71.36,5.91,1
+p(start P cloudCover)psi(forest1000 P water P ele P distRoad),8.88,0.0014,8,71.42,1.59,1
+p(start)psi(disturb500 P ndvi500),8.9,0.0013,5,77.81,0,0
+p()psi(disturb500 P ndvi500),8.97,0.0013,4,79.97,5.25,1
+p(start)psi(disturb500 P forest1000 P und P ele P height100),8.99,0.0013,8,71.53,5.59,1
+p(start)psi(forest1000 P ndvi500 P und P water P ele P height100 P distRoad),9,0.0013,10,67.19,0,1
+p(start)psi(forest1000 P ndvi500 P water P ele),9,0.0013,7,73.69,5.87,0
+p()psi(ndvi500 P und P water P ele),9.01,0.0013,6,75.82,1.63,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele P height100 P distRoad),9.02,0.0013,10,67.22,0.28,1
+p(cloudCover)psi(water P ele P height100),9.03,0.0013,6,75.84,5.13,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele),9.07,0.0012,8,71.61,4.79,1
+p(start)psi(disturb500 P forest1000 P ele P distRoad),9.08,0.0012,7,73.77,4.39,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P ele P height100),9.13,0.0012,8,71.67,4.55,1
+p(start)psi(forest1000 P ndvi500 P und P water P ele P distRoad),9.13,0.0012,9,69.51,5.25,1
+p(cloudCover)psi(disturb500 P forest1000 P water P ele P height100),9.18,0.0012,8,71.72,3.07,0
+p(cloudCover)psi(forest1000 P ndvi500 P water P ele P height100 P distRoad),9.25,0.0011,9,69.63,5.86,1
+p()psi(disturb500 P ndvi500 P ele),9.31,0.0011,5,78.23,0,1
+p()psi(disturb500 P forest1000 P ele P height100),9.33,0.0011,6,76.14,0,1
+p(start P cloudCover)psi(water P ele P distRoad),9.35,0.0011,7,74.03,0,1
+p()psi(forest1000 P und P ele),9.35,0.0011,5,78.27,0,0
+p()psi(disturb500 P forest1000 P ele P height100 P distRoad),9.36,0.0011,7,74.04,-0.84,0
+p(start)psi(forest1000 P ndvi500 P water P ele P height100 P distRoad),9.36,0.0011,9,69.74,2.11,1
+p(start)psi(disturb500 P water P ele),9.38,0.0011,6,76.19,0,0
+p()psi(disturb500 P forest1000 P ndvi500),9.38,0.0011,5,78.3,0,1
+p(cloudCover)psi(disturb500 P ndvi500 P und),9.42,0.001,6,76.23,4.31,1
+p(cloudCover)psi(disturb500 P forest1000 P ele P distRoad),9.43,0.001,7,74.12,4.22,1
+p(cloudCover)psi(disturb500 P forest1000 P und P ele),9.47,0.001,7,74.15,2.26,1
+p(cloudCover)psi(forest1000 P ndvi500 P und P water P ele P height100 P distRoad),9.5,0.001,10,67.69,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P ele P height100),9.54,0.001,7,74.22,0,1
+p(start)psi(und P water P ele),9.55,0.001,6,76.35,5.44,1
+p(start)psi(disturb500 P forest1000 P und P height100),9.56,0.001,7,74.25,1.45,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und),9.57,0.001,7,74.25,3.93,1
+p(start)psi(ndvi500 P water P ele),9.6,9e-04,6,76.41,-0.29,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und),9.63,9e-04,8,72.17,2.57,1
+p(start)psi(disturb500 P ndvi500 P distRoad),9.64,9e-04,6,76.45,2.28,1
+p()psi(disturb500 P ndvi500 P und P water),9.64,9e-04,6,76.45,3.48,1
+p()psi(disturb500 P forest1000 P und P height100),9.64,9e-04,6,76.45,5.17,1
+p()psi(disturb500 P ndvi500 P und P height100),9.64,9e-04,6,76.45,4.34,1
+p()psi(water P ele P height100 P distRoad),9.64,9e-04,6,76.45,5.81,0
+p(start P cloudCover)psi(water P ele),9.66,9e-04,6,76.46,4.45,0
+p()psi(disturb500 P ndvi500 P water),9.66,9e-04,5,78.58,4.07,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und),9.7,9e-04,7,74.38,5.66,1
+p()psi(ndvi500 P water P ele P height100),9.72,9e-04,6,76.53,5.61,1
+p(start)psi(disturb500 P forest1000 P water P ele P height100),9.72,9e-04,8,72.26,5.54,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P water P ele P distRoad),9.73,9e-04,9,70.1,-1.8,1
+p(start)psi(water P ele P height100 P distRoad),9.73,9e-04,7,74.42,1.65,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele P height100),9.77,9e-04,9,70.15,4.17,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele P height100),9.81,8e-04,8,72.35,1.44,1
+p(start)psi(disturb500 P ndvi500 P ele),9.83,8e-04,6,76.63,0,1
+p()psi(disturb500 P forest1000 P water P ele P height100 P distRoad),9.83,8e-04,8,72.37,4.93,1
+p(cloudCover)psi(disturb500 P water P ele),9.83,8e-04,6,76.64,2.63,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P ele P height100),9.86,8e-04,9,70.24,5.83,1
+p(cloudCover)psi(water P ele P distRoad),9.88,8e-04,6,76.69,2.68,1
+p(cloudCover)psi(und P water P ele),9.9,8e-04,6,76.7,5.19,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P distRoad),9.91,8e-04,7,74.59,3.04,1
+p(start P cloudCover)psi(forest1000 P und P water P ele P height100 P distRoad),9.92,8e-04,10,68.11,2.4,1
+p(start P cloudCover)psi(disturb500 P ndvi500),9.92,8e-04,6,76.73,5.42,0
+p(start)psi(disturb500 P ndvi500 P und P water),9.96,8e-04,7,74.64,5.4,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500),10.02,8e-04,7,74.7,4.87,1
+p(start)psi(disturb500 P forest1000 P ndvi500),10.02,8e-04,6,76.83,1.42,1
+p()psi(disturb500 P ndvi500 P und P ele),10.03,8e-04,6,76.84,4.48,1
+p()psi(disturb500 P forest1000 P ndvi500 P distRoad),10.03,8e-04,6,76.84,5.11,1
+p()psi(disturb500 P ndvi500 P und P distRoad),10.03,8e-04,6,76.84,3.63,0
+p(start)psi(disturb500 P forest1000 P ele P height100),10.03,8e-04,7,74.71,3.27,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele P distRoad),10.04,8e-04,8,72.58,4.96,0
+p(start)psi(disturb500 P water P ele P height100),10.04,8e-04,7,74.73,5.65,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P height100),10.05,8e-04,8,72.59,0,1
+p(cloudCover)psi(forest1000 P ndvi500 P water P ele P height100),10.06,8e-04,8,72.6,0,1
+p(cloudCover)psi(disturb500 P water P ele P distRoad),10.06,8e-04,7,74.74,0,1
+p()psi(disturb500 P ndvi500 P distRoad),10.07,7e-04,5,78.99,3.79,1
+p()psi(und P water P ele P height100),10.1,7e-04,6,76.91,4.93,1
+p()psi(ndvi500 P water P ele P distRoad),10.1,7e-04,6,76.91,2.29,1
+p(start)psi(forest1000 P und P water P ele P height100),10.12,7e-04,8,72.66,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P distRoad),10.14,7e-04,7,74.82,4.11,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P distRoad),10.15,7e-04,8,72.69,4.42,1
+p(start)psi(disturb500 P ndvi500 P water),10.17,7e-04,6,76.98,2.84,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele),10.21,7e-04,8,72.75,5.31,1
+p()psi(ndvi500 P und P water P ele P height100 P distRoad),10.21,7e-04,8,72.75,5.03,1
+p()psi(ndvi500 P und P water P ele P height100),10.23,7e-04,7,74.91,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P ele P distRoad),10.26,7e-04,8,72.8,2.16,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P ele),10.28,7e-04,7,74.97,2.34,1
+p(start)psi(disturb500 P forest1000 P und P ele P distRoad),10.31,7e-04,8,72.85,2.12,1
+p(start P cloudCover)psi(forest1000 P water P ele),10.31,7e-04,7,75,2.07,1
+p(start)psi(disturb500 P forest1000 P ele P height100 P distRoad),10.34,7e-04,8,72.88,0,0
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water),10.39,6e-04,8,72.93,0.67,1
+p(start)psi(disturb500 P ndvi500 P height100),10.4,6e-04,6,77.21,5.97,1
+p()psi(disturb500 P ndvi500 P height100),10.41,6e-04,5,79.32,0,1
+p(start)psi(ndvi500 P water P ele P distRoad),10.44,6e-04,7,75.13,5.17,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water),10.47,6e-04,8,73.01,3.83,1
+p(start)psi(disturb500 P forest1000 P und P ele),10.48,6e-04,7,75.16,0.36,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P height100),10.48,6e-04,7,75.16,4.49,1
+p()psi(disturb500 P forest1000 P und P ele P distRoad),10.48,6e-04,7,75.16,2.49,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ele P distRoad),10.49,6e-04,8,73.03,4.17,0
+p(start)psi(disturb500 P ndvi500 P und P ele),10.49,6e-04,7,75.17,2.87,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P ele P height100),10.51,6e-04,8,73.05,3.66,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele P height100),10.53,6e-04,9,70.9,4.79,0
+p(cloudCover)psi(ndvi500 P und P water P ele),10.55,6e-04,7,75.23,0,1
+p()psi(und P water P ele P distRoad),10.55,6e-04,6,77.36,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water),10.56,6e-04,7,75.25,0,1
+p(start)psi(disturb500 P ndvi500 P und P distRoad),10.56,6e-04,7,75.25,0,1
+p(cloudCover)psi(ndvi500 P water P ele),10.6,6e-04,6,77.41,2.4,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P water P ele),10.62,6e-04,8,73.16,3.02,0
+p(cloudCover)psi(disturb500 P ndvi500),10.66,6e-04,5,79.58,3.78,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water P ele P height100),10.68,6e-04,9,71.06,1.86,1
+p()psi(disturb500 P forest1000 P ndvi500 P ele P height100 P distRoad),10.68,6e-04,8,73.22,0,1
+p()psi(disturb500 P forest1000 P height100 P distRoad),10.7,5e-04,6,77.51,4.84,0
+p(start)psi(disturb500 P forest1000 P und P water P ele P height100),10.71,5e-04,9,71.09,4.24,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water P ele P height100),10.72,5e-04,10,68.91,0,1
+p(start)psi(disturb500 P forest1000 P und P water P height100),10.74,5e-04,8,73.28,2.7,1
+p(cloudCover)psi(disturb500 P ndvi500 P ele),10.78,5e-04,6,77.59,5.52,1
+p(start)psi(disturb500 P forest1000 P height100 P distRoad),10.78,5e-04,7,75.47,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),10.79,5e-04,9,71.17,0,1
+p()psi(disturb500 P forest1000 P distRoad),10.8,5e-04,5,79.71,2.31,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P height100 P distRoad),10.81,5e-04,8,73.35,2.53,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water P ele P height100 P distRoad),10.85,5e-04,11,66.85,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P height100),10.85,5e-04,7,75.54,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ele P height100),10.87,5e-04,7,75.55,0,1
+p(cloudCover)psi(ndvi500 P water P ele P height100),10.88,5e-04,7,75.57,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P ele P distRoad),10.89,5e-04,9,71.26,4.04,1
+p(start)psi(forest1000 P ndvi500 P und P water P ele),10.89,5e-04,8,73.43,4.68,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele P height100),10.92,5e-04,9,71.29,4.43,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water P ele P distRoad),10.94,5e-04,9,71.31,4.58,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P ele P distRoad),10.96,5e-04,8,73.5,4.35,1
+p()psi(disturb500 P forest1000 P und P ele P height100),10.97,5e-04,7,75.66,0,1
+p()psi(ndvi500 P water P ele P height100 P distRoad),10.97,5e-04,7,75.66,4.52,1
+p(start)psi(ndvi500 P und P water P ele),10.99,5e-04,7,75.67,4.96,1
+p()psi(forest1000 P und P ele P height100),11.01,5e-04,6,77.82,0,0
+p(start P cloudCover)psi(water P ele P height100),11.02,5e-04,7,75.71,-0.29,0
+p(start P cloudCover)psi(disturb500 P forest1000 P water P ele P height100),11.03,5e-04,9,71.4,4.12,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P height100),11.06,5e-04,8,73.6,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P water),11.06,5e-04,6,77.87,4.49,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele P height100),11.07,5e-04,10,69.26,5.6,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ele P height100),11.11,4e-04,8,73.65,2.52,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P distRoad),11.12,4e-04,7,75.81,5.85,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P height100),11.13,4e-04,8,73.67,4.23,1
+p()psi(disturb500 P ndvi500 P ele P height100),11.13,4e-04,6,77.94,0,1
+p()psi(disturb500 P forest1000 P und P water P ele P height100),11.14,4e-04,8,73.68,4.6,1
+p(cloudCover)psi(forest1000 P und P ele),11.16,4e-04,6,77.96,0,0
+p(cloudCover)psi(disturb500 P forest1000 P und P water P height100),11.17,4e-04,8,73.71,1.76,1
+p(start)psi(disturb500 P forest1000 P und P ele P height100 P distRoad),11.19,4e-04,9,71.57,0,1
+p(start P cloudCover)psi(forest1000 P water P ele P height100 P distRoad),11.21,4e-04,9,71.59,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water),11.22,4e-04,7,75.9,4.31,1
+p(cloudCover)psi(disturb500 P forest1000 P ele P height100 P distRoad),11.22,4e-04,8,73.76,4.11,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P distRoad),11.22,4e-04,8,73.76,5.12,1
+p(start P cloudCover)psi(und P water P ele),11.26,4e-04,7,75.94,5.95,1
+p(start)psi(disturb500 P ndvi500 P water P distRoad),11.29,4e-04,7,75.98,3.64,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele P distRoad),11.3,4e-04,9,71.68,3.19,1
+p(start)psi(disturb500 P forest1000 P distRoad),11.31,4e-04,6,78.12,1.16,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P height100),11.32,4e-04,8,73.86,0,0
+p(start)psi(disturb500 P ndvi500 P und P height100),11.33,4e-04,7,76.01,3.91,1
+p()psi(forest1000 P und P ele P distRoad),11.33,4e-04,6,78.14,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P und P ele P distRoad),11.35,4e-04,9,71.72,1.87,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P water),11.36,4e-04,7,76.04,2.98,1
+p()psi(disturb500 P forest1000 P ndvi500 P water P distRoad),11.38,4e-04,7,76.06,4.48,1
+p()psi(disturb500 P ndvi500 P und P water P distRoad),11.38,4e-04,7,76.06,4.23,1
+p()psi(disturb500 P forest1000 P und P height100 P distRoad),11.38,4e-04,7,76.06,5.89,1
+p()psi(disturb500 P forest1000 P und P water P ele P height100 P distRoad),11.39,4e-04,9,71.77,2.24,0
+p(start)psi(disturb500 P forest1000 P water P ele P height100 P distRoad),11.4,4e-04,9,71.77,0,1
+p(start)psi(disturb500 P ndvi500 P und P water P height100),11.41,4e-04,8,73.95,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P distRoad),11.41,4e-04,8,73.95,-2.19,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500),11.41,4e-04,6,78.22,0,1
+p()psi(disturb500 P ndvi500 P water P ele),11.42,4e-04,6,78.23,4.24,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P ele),11.43,4e-04,8,73.97,0.86,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P height100),11.43,4e-04,9,71.81,1.38,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P height100),11.44,4e-04,7,76.12,4.95,1
+p(start P cloudCover)psi(disturb500 P water P ele P height100),11.44,4e-04,8,73.98,4.97,1
+p(start)psi(forest1000 P und P ele),11.45,4e-04,6,78.26,0,0
+p()psi(forest1000 P ndvi500 P und P ele),11.45,4e-04,6,78.26,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P ele P height100 P distRoad),11.45,4e-04,9,71.83,5.08,0
+p()psi(disturb500 P ndvi500 P water P ele P height100),11.45,4e-04,7,76.14,3.24,1
+p(cloudCover)psi(disturb500 P ndvi500 P distRoad),11.47,4e-04,6,78.28,5.83,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water P distRoad),11.49,4e-04,8,74.03,1.54,1
+p()psi(disturb500 P forest1000 P ndvi500 P height100),11.49,4e-04,6,78.3,0,1
+p()psi(disturb500 P ndvi500 P height100 P distRoad),11.49,4e-04,6,78.3,4.31,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele P distRoad),11.5,4e-04,10,69.69,5.96,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele P height100),11.5,4e-04,10,69.7,4.5,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P distRoad),11.5,4e-04,9,71.88,1.6,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P distRoad),11.51,4e-04,7,76.19,1.64,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P ele),11.52,4e-04,8,74.05,0.37,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P distRoad),11.52,4e-04,8,74.05,3.59,0
+p(start)psi(disturb500 P ndvi500 P height100 P distRoad),11.52,4e-04,7,76.2,0,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water P ele P distRoad),11.52,4e-04,10,69.72,1.68,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water),11.53,4e-04,9,71.91,4.04,1
+p(start)psi(disturb500 P ndvi500 P water P ele),11.56,4e-04,7,76.24,4.76,1
+p(cloudCover)psi(disturb500 P forest1000 P und P height100),11.56,4e-04,7,76.24,3.84,1
+p(start)psi(ndvi500 P water P ele P height100),11.6,3e-04,7,76.28,4.11,1
+p(start)psi(disturb500 P und P height100),11.62,3e-04,6,78.43,5.65,0
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water),11.62,3e-04,8,74.16,5.23,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water P ele P height100 P distRoad),11.66,3e-04,10,69.85,1.45,1
+p(cloudCover)psi(und P water P ele P height100),11.67,3e-04,7,76.35,2.83,1
+p(cloudCover)psi(und P water P ele P distRoad),11.68,3e-04,7,76.36,1.68,1
+p(start)psi(disturb500 P ndvi500 P und P water P distRoad),11.68,3e-04,8,74.22,3,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P ele P distRoad),11.72,3e-04,9,72.1,2.34,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P water),11.73,3e-04,7,76.41,3.96,1
+p(start P cloudCover)psi(ndvi500 P water P ele),11.74,3e-04,7,76.43,0,1
+p()psi(disturb500 P ndvi500 P und P water P ele),11.77,3e-04,7,76.45,4.98,1
+p()psi(disturb500 P ndvi500 P und P water P height100),11.77,3e-04,7,76.45,3.13,1
+p()psi(disturb500 P ndvi500 P und P ele P distRoad),11.77,3e-04,7,76.45,0.3,1
+p(start)psi(disturb500 P ndvi500 P und P ele P distRoad),11.81,3e-04,8,74.35,3.62,1
+p()psi(disturb500 P ndvi500 P water P distRoad),11.84,3e-04,6,78.64,1.27,0
+p()psi(ndvi500 P und P water P ele P distRoad),11.85,3e-04,7,76.53,5.2,1
+p(start)psi(disturb500 P ndvi500 P water P height100),11.85,3e-04,7,76.54,4.73,1
+p()psi(disturb500 P ele),11.86,3e-04,4,82.86,3.79,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P ele P height100 P distRoad),11.86,3e-04,10,70.05,1.91,1
+p(cloudCover)psi(disturb500 P ndvi500 P water),11.86,3e-04,6,78.67,2.05,0
+p(start P cloudCover)psi(forest1000 P water P ele P height100),11.86,3e-04,8,74.4,1.91,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P ele P height100 P distRoad),11.89,3e-04,9,72.27,5.7,1
+p(start)psi(disturb500 P ndvi500 P und P water P ele),11.9,3e-04,8,74.44,0,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P distRoad),11.92,3e-04,7,76.6,3.52,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P height100),11.92,3e-04,9,72.29,0,1
+p(start)psi(und P water P ele P height100),11.92,3e-04,7,76.6,5.09,0
+p()psi(forest1000 P ele),11.92,3e-04,4,82.93,0,0
+p(cloudCover)psi(water P ele P height100 P distRoad),11.95,3e-04,7,76.64,1.74,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water),11.96,3e-04,7,76.64,4.71,1
+p(start P cloudCover)psi(ndvi500 P water P ele P distRoad),11.97,3e-04,8,74.51,2.11,1
+p(start P cloudCover)psi(forest1000 P und P water P ele),11.98,3e-04,8,74.52,4.8,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P water P ele P height100 P distRoad),11.98,3e-04,10,70.18,1.51,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P ele),11.98,3e-04,7,76.67,1.51,0
+p(start)psi(forest1000 P ndvi500 P water P ele P height100),12.01,3e-04,8,74.55,0,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P height100),12.03,3e-04,7,76.71,1.94,1
+p()psi(disturb500 P ndvi500 P water P height100),12.04,3e-04,6,78.85,3.81,0
+p(cloudCover)psi(disturb500 P water P ele P height100),12.05,3e-04,7,76.73,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P distRoad),12.06,3e-04,8,74.6,1.34,1
+p(start)psi(disturb500 P ndvi500 P ele P height100),12.07,3e-04,7,76.75,2.1,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele P height100 P distRoad),12.08,3e-04,10,70.27,5.46,1
+p(start)psi(disturb500 P height100 P distRoad),12.08,3e-04,6,78.89,2.82,1
+p(cloudCover)psi(disturb500 P ndvi500 P height100),12.1,3e-04,6,78.91,3.92,1
+p(start P cloudCover)psi(disturb500 P forest1000 P distRoad),12.1,3e-04,7,76.78,0,0
+p(cloudCover)psi(disturb500 P forest1000 P und P ele P height100 P distRoad),12.1,3e-04,9,72.48,5.17,0
+p()psi(disturb500 P ndvi500 P ele P distRoad),12.11,3e-04,6,78.92,4.63,1
+p(cloudCover)psi(disturb500 P forest1000 P water P ele P height100 P distRoad),12.13,3e-04,9,72.5,1.73,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),12.14,3e-04,10,70.33,2.5,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P height100 P distRoad),12.15,3e-04,9,72.52,4.39,0
+p()psi(disturb500 P forest1000 P ndvi500 P height100 P distRoad),12.15,3e-04,7,76.84,3.93,0
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P height100),12.15,3e-04,8,74.69,3.87,1
+p(start P cloudCover)psi(disturb500 P forest1000 P height100 P distRoad),12.18,3e-04,8,74.72,5.89,1
+p(start)psi(disturb500 P forest1000 P und P water P ele P height100 P distRoad),12.18,3e-04,10,70.38,5.94,1
+p(start P cloudCover)psi(water P ele P height100 P distRoad),12.2,3e-04,8,74.74,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele P height100 P distRoad),12.2,3e-04,9,72.58,3.62,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P height100 P distRoad),12.21,3e-04,9,72.59,0,1
+p()psi(disturb500 P und P height100),12.23,3e-04,5,81.15,4.8,1
+p(cloudCover)psi(ndvi500 P und P water P ele P height100),12.25,3e-04,8,74.79,4.4,1
+p(start)psi(disturb500 P forest1000 P und P height100 P distRoad),12.25,3e-04,8,74.79,1.89,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water),12.26,3e-04,8,74.8,5.09,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P ele P height100),12.27,2e-04,9,72.65,5.78,1
+p(start)psi(disturb500 P ndvi500 P ele P distRoad),12.27,2e-04,7,76.95,0,1
+p(start P cloudCover)psi(disturb500 P water P ele),12.31,2e-04,7,76.99,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water P height100),12.33,2e-04,9,72.7,0,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water P height100),12.37,2e-04,9,72.74,0,0
+p(cloudCover)psi(ndvi500 P water P ele P distRoad),12.37,2e-04,7,77.06,0,0
+p()psi(ndvi500 P und P water P height100),12.38,2e-04,6,79.19,3.59,1
+p(start P cloudCover)psi(ndvi500 P und P water P ele),12.38,2e-04,8,74.92,4.63,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P ele P height100 P distRoad),12.39,2e-04,10,70.58,4,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P water P distRoad),12.41,2e-04,8,74.95,5.29,1
+p(cloudCover)psi(disturb500 P forest1000 P und P water P ele P height100),12.43,2e-04,9,72.8,4.58,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P water P ele),12.43,2e-04,8,74.97,5.54,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele P distRoad),12.43,2e-04,9,72.81,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100),12.44,2e-04,11,68.43,5.66,0
+p(start)psi(disturb500 P ndvi500 P und P height100 P distRoad),12.45,2e-04,8,74.99,5.94,1
+p(cloudCover)psi(disturb500 P forest1000 P und P ele P height100),12.46,2e-04,8,75,3.28,1
+p(cloudCover)psi(disturb500 P ndvi500 P ele P height100),12.48,2e-04,7,77.17,1.81,1
+p(cloudCover)psi(forest1000 P water P ele P height100 P distRoad),12.49,2e-04,8,75.03,5.17,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water P ele),12.51,2e-04,9,72.89,2.65,1
+p()psi(disturb500 P forest1000 P und),12.52,2e-04,5,81.43,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P water P height100),12.53,2e-04,7,77.21,5,1
+p()psi(disturb500 P ndvi500 P und P ele P height100),12.53,2e-04,7,77.21,0,1
+p()psi(disturb500 P ndvi500 P und P height100 P distRoad),12.53,2e-04,7,77.21,5.71,1
+p(cloudCover)psi(disturb500 P forest1000 P und P ele P distRoad),12.55,2e-04,8,75.09,1.8,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P height100 P distRoad),12.57,2e-04,8,75.11,5.82,1
+p(start)psi(disturb500 P ele),12.58,2e-04,5,81.49,0.38,0
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P distRoad),12.58,2e-04,9,72.96,5.18,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele P distRoad),12.59,2e-04,10,70.79,5.47,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P ele P height100),12.6,2e-04,8,75.14,-3,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water P distRoad),12.61,2e-04,9,72.99,4.17,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P distRoad),12.61,2e-04,9,72.99,2.71,1
+p()psi(disturb500 P forest1000 P water P distRoad),12.64,2e-04,6,79.45,5.44,1
+p(start P cloudCover)psi(disturb500 P forest1000 P water P ele P height100 P distRoad),12.66,2e-04,10,70.85,0,1
+p()psi(und P water P ele P height100 P distRoad),12.68,2e-04,7,77.36,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P distRoad),12.7,2e-04,10,70.89,2.41,1
+p()psi(forest1000 P ndvi500 P ele),12.7,2e-04,5,81.61,0,0
+p(start)psi(disturb500 P ndvi500 P und P ele P height100),12.7,2e-04,8,75.24,5.28,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100),12.71,2e-04,10,70.9,4.52,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P height100),12.71,2e-04,8,75.25,5.13,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100),12.75,2e-04,10,70.95,4.46,1
+p(start P cloudCover)psi(disturb500 P und P height100),12.76,2e-04,7,77.44,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P ele P height100 P distRoad),12.77,2e-04,11,68.77,0,1
+p(start)psi(disturb500 P forest1000 P water P distRoad),12.79,2e-04,7,77.48,0,1
+p(cloudCover)psi(forest1000 P und P ele P height100),12.85,2e-04,7,77.53,0,0
+p(cloudCover)psi(disturb500 P ndvi500 P water P distRoad),12.87,2e-04,7,77.55,5.89,1
+p(cloudCover)psi(disturb500 P ndvi500 P water P ele),12.91,2e-04,7,77.59,0.51,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P ele P height100 P distRoad),12.91,2e-04,10,71.11,4.98,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water P height100),12.92,2e-04,8,75.46,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P height100),12.93,2e-04,9,73.3,5.71,1
+p(start)psi(disturb500 P forest1000 P water P height100 P distRoad),12.93,2e-04,8,75.47,0,0
+p(start P cloudCover)psi(und P water P ele P height100),12.94,2e-04,8,75.48,4.92,1
+p(start)psi(ndvi500 P und P water P ele P distRoad),12.94,2e-04,8,75.48,2.54,1
+p(start)psi(disturb500 P und P water P height100),12.95,2e-04,7,77.63,1.17,1
+p(start)psi(disturb500 P distRoad),12.96,2e-04,5,81.87,1.8,0
+p(cloudCover)psi(disturb500 P ndvi500 P und P water P height100),12.96,2e-04,8,75.5,0,1
+p(cloudCover)psi(disturb500 P forest1000 P distRoad),12.99,2e-04,6,79.8,4.46,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P height100),13.02,2e-04,9,73.4,0.76,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P water P height100),13.03,2e-04,8,75.57,4.81,1
+p()psi(disturb500 P forest1000 P und P ele P height100 P distRoad),13.04,2e-04,8,75.57,5.64,1
+p()psi(forest1000 P ele P distRoad),13.05,2e-04,5,81.96,0,0
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P distRoad),13.07,2e-04,10,71.26,1.35,1
+p()psi(forest1000 P ele P height100),13.07,2e-04,5,81.98,0,0
+p()psi(forest1000 P und P ele P height100 P distRoad),13.1,2e-04,7,77.78,0,0
+p()psi(forest1000 P height100 P distRoad),13.11,2e-04,5,82.02,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P height100 P distRoad),13.11,2e-04,10,71.31,5.13,1
+p()psi(disturb500 P ndvi500 P und P water P ele P distRoad),13.12,2e-04,8,75.66,2.3,1
+p()psi(disturb500 P ndvi500 P water P ele P height100 P distRoad),13.12,2e-04,8,75.66,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele P distRoad),13.12,2e-04,9,73.5,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P height100),13.14,2e-04,10,71.33,3.38,1
+p(start)psi(forest1000 P und P ele P height100),13.14,2e-04,7,77.82,0,0
+p()psi(forest1000 P ndvi500 P und P ele P height100),13.14,2e-04,7,77.82,0,0
+p(cloudCover)psi(disturb500 P ndvi500 P und P ele P distRoad),13.14,2e-04,8,75.68,1.77,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P height100),13.19,2e-04,7,77.87,0,1
+p()psi(disturb500 P forest1000 P und P water P height100),13.19,2e-04,7,77.87,5.01,0
+p(cloudCover)psi(forest1000 P und P ele P distRoad),13.2,2e-04,7,77.88,0,0
+p(cloudCover)psi(disturb500 P ndvi500 P height100 P distRoad),13.23,2e-04,7,77.91,2.72,1
+p(start)psi(ndvi500 P und P water P ele P height100),13.23,2e-04,8,75.77,3.91,1
+p(cloudCover)psi(disturb500 P forest1000 P height100 P distRoad),13.23,2e-04,7,77.91,4.16,1
+p(start P cloudCover)psi(forest1000 P und P ele),13.24,2e-04,7,77.92,0,0
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P distRoad),13.25,2e-04,8,75.79,2.92,1
+p(start)psi(disturb500 P forest1000 P und P water P height100 P distRoad),13.27,2e-04,9,73.64,0,1
+p(cloudCover)psi(forest1000 P ndvi500 P und P ele),13.27,2e-04,7,77.95,0,0
+p(cloudCover)psi(disturb500 P ndvi500 P ele P distRoad),13.27,2e-04,7,77.95,3.38,0
+p(cloudCover)psi(ndvi500 P water P ele P height100 P distRoad),13.29,1e-04,8,75.83,1.76,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water P ele),13.31,1e-04,9,73.68,1.21,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P distRoad),13.32,1e-04,9,73.7,4.9,1
+p(start P cloudCover)psi(ndvi500 P water P ele P height100),13.33,1e-04,8,75.87,1.62,1
+p(start P cloudCover)psi(disturb500 P height100 P distRoad),13.33,1e-04,7,78.02,0,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P water P distRoad),13.34,1e-04,8,75.88,3.08,1
+p(start)psi(disturb500 P und P height100 P distRoad),13.35,1e-04,7,78.04,4.55,1
+p(start)psi(disturb500 P ndvi500 P und P water P ele P distRoad),13.36,1e-04,9,73.74,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P water P height100 P distRoad),13.37,1e-04,9,73.74,0,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P ele P distRoad),13.37,1e-04,8,75.91,1.27,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P height100 P distRoad),13.38,1e-04,9,73.76,5.73,1
+p(start)psi(disturb500 P water P height100),13.39,1e-04,6,80.2,4.9,1
+p()psi(forest1000 P ndvi500 P distRoad),13.39,1e-04,5,82.31,3.62,1
+p(cloudCover)psi(disturb500 P ele),13.4,1e-04,5,82.31,0,1
+p(start)psi(disturb500 P ndvi500 P water P ele P height100),13.42,1e-04,8,75.96,0,1
+p()psi(forest1000 P ndvi500 P und P ele P distRoad),13.44,1e-04,7,78.12,0,0
+p(start)psi(forest1000 P und P ele P distRoad),13.44,1e-04,7,78.12,0,0
+p(start)psi(disturb500 P und P ele P height100),13.45,1e-04,7,78.13,5.3,0
+p(start)psi(disturb500 P ndvi500 P water P height100 P distRoad),13.47,1e-04,8,76.01,0,1
+p()psi(disturb500 P ndvi500 P und P water P ele P height100),13.52,1e-04,8,76.06,3.16,1
+p()psi(disturb500 P ndvi500 P und P water P height100 P distRoad),13.52,1e-04,8,76.06,5.61,1
+p()psi(disturb500 P ndvi500 P und P ele P height100 P distRoad),13.52,1e-04,8,76.06,0,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P ele P height100),13.53,1e-04,9,73.9,4.88,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P height100 P distRoad),13.53,1e-04,9,73.91,-0.54,1
+p(start)psi(forest1000 P ndvi500 P und P ele),13.57,1e-04,7,78.25,0,0
+p(start)psi(disturb500 P ndvi500 P und P water P height100 P distRoad),13.58,1e-04,9,73.95,3.81,1
+p(start)psi(disturb500 P forest1000 P und),13.61,1e-04,6,80.42,0,0
+p()psi(disturb500 P ndvi500 P water P ele P distRoad),13.61,1e-04,7,78.3,5.23,1
+p()psi(disturb500 P ndvi500 P ele P height100 P distRoad),13.61,1e-04,7,78.3,4.6,1
+p()psi(forest1000 P und),13.62,1e-04,4,84.62,2.29,0
+p()psi(disturb500 P distRoad),13.62,1e-04,4,84.62,5.67,1
+p()psi(ele P height100),13.64,1e-04,4,84.64,0,0
+p(start P cloudCover)psi(disturb500 P ele),13.65,1e-04,6,80.46,3.59,1
+p(cloudCover)psi(disturb500 P forest1000 P und),13.69,1e-04,6,80.49,5.94,0
+p(cloudCover)psi(disturb500 P forest1000 P und P height100 P distRoad),13.7,1e-04,8,76.24,2.99,1
+p(cloudCover)psi(forest1000 P ele),13.73,1e-04,5,82.64,0,0
+p()psi(disturb500 P und P water P height100),13.73,1e-04,6,80.54,0,1
+p(start)psi(disturb500 P ndvi500 P water P ele P distRoad),13.76,1e-04,8,76.3,4.85,1
+p(start)psi(disturb500 P forest1000 P water P height100),13.78,1e-04,7,78.47,5.97,1
+p()psi(disturb500 P forest1000 P water P height100 P distRoad),13.82,1e-04,7,78.51,5.5,1
+p(start)psi(ndvi500 P und P water P ele P height100 P distRoad),13.84,1e-04,9,74.22,0,1
+p(start)psi(disturb500 P ndvi500 P und P water P ele P height100),13.84,1e-04,9,74.22,2.87,1
+p(cloudCover)psi(disturb500 P und P height100),13.85,1e-04,6,80.66,5.64,1
+p()psi(disturb500 P forest1000 P water P height100),13.85,1e-04,6,80.66,3.86,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P water P ele),13.87,1e-04,8,76.41,5.55,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water P ele P height100 P distRoad),13.88,1e-04,11,69.88,1.2,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P height100 P distRoad),13.9,1e-04,9,74.28,1.78,1
+p()psi(forest1000 P ndvi500 P ele P distRoad),13.93,1e-04,6,80.73,0,0
+p(start)psi(forest1000 P ele),13.99,1e-04,5,82.9,0,0
+p(start P cloudCover)psi(forest1000 P und P water P ele P height100),14.02,1e-04,9,74.4,2.16,1
+p(start)psi(forest1000 P ndvi500 P und P water P ele P height100),14.04,1e-04,9,74.41,2.48,1
+p()psi(disturb500 P und P ele P height100),14.04,1e-04,6,80.85,3.55,0
+p()psi(disturb500 P forest1000 P und P distRoad),14.04,1e-04,6,80.85,2.07,0
+p(start P cloudCover)psi(ndvi500 P und P water P ele P distRoad),14.05,1e-04,9,74.43,4.51,1
+p(start P cloudCover)psi(disturb500 P und P water P height100),14.06,1e-04,8,76.6,2.55,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P height100 P distRoad),14.06,1e-04,8,76.6,4.92,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P distRoad),14.06,1e-04,11,70.06,5.22,1
+p(start)psi(ndvi500 P und P water P height100),14.09,1e-04,7,78.78,1.21,1
+p(start)psi(disturb500 P forest1000 P und P distRoad),14.1,1e-04,7,78.78,1.9,1
+p()psi(ele),14.11,1e-04,3,87.19,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P water P distRoad),14.12,1e-04,8,76.66,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P height100 P distRoad),14.12,1e-04,8,76.66,5.23,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P ele P height100),14.13,1e-04,8,76.67,0,1
+p(cloudCover)psi(ndvi500 P und P water P ele P distRoad),14.16,1e-04,8,76.7,1.47,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P height100 P distRoad),14.16,1e-04,10,72.36,4.43,1
+p()psi(disturb500 P ndvi500 P water P height100 P distRoad),14.17,1e-04,7,78.85,0,1
+p(start)psi(disturb500 P water P height100 P distRoad),14.2,1e-04,7,78.89,2.22,1
+p(start)psi(disturb500 P und),14.22,1e-04,5,83.13,2.79,0
+p(cloudCover)psi(disturb500 P ndvi500 P water P height100),14.23,1e-04,7,78.91,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P height100),14.23,1e-04,8,76.77,2.82,1
+p(start)psi(disturb500 P ele P height100 P distRoad),14.23,1e-04,7,78.91,3.02,1
+p(start P cloudCover)psi(disturb500 P forest1000 P water P height100 P distRoad),14.23,1e-04,9,74.61,0,1
+p(start P cloudCover)psi(disturb500 P distRoad),14.24,1e-04,6,81.05,4.55,1
+p(start P cloudCover)psi(und P water P ele P distRoad),14.26,1e-04,8,76.8,5.41,1
+p()psi(disturb500 P ele P distRoad),14.27,1e-04,5,83.18,3.25,1
+p()psi(disturb500 P forest1000),14.29,1e-04,4,85.29,0,0
+p(start P cloudCover)psi(disturb500 P und P height100 P distRoad),14.31,1e-04,8,76.85,1.31,1
+p()psi(forest1000 P ndvi500 P height100 P distRoad),14.34,1e-04,6,81.15,2.55,1
+p(start)psi(disturb500 P water P distRoad),14.34,1e-04,6,81.15,5.58,1
+p(cloudCover)psi(disturb500 P forest1000 P und P water P ele P height100 P distRoad),14.34,1e-04,10,72.54,0,1
+p()psi(forest1000 P distRoad),14.35,1e-04,4,85.35,5.38,0
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water P height100 P distRoad),14.36,1e-04,10,72.55,4.96,1
+p(start)psi(und P water P ele P height100 P distRoad),14.36,1e-04,8,76.9,4.07,1
+p(start P cloudCover)psi(ndvi500 P und P water P ele P height100 P distRoad),14.38,1e-04,10,72.58,0,1
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),14.38,1e-04,11,70.38,5.37,1
+p()psi(disturb500 P und P water P ele),14.4,1e-04,6,81.21,2.51,0
+p()psi(forest1000 P ndvi500 P und P distRoad),14.4,1e-04,6,81.21,2.54,0
+p(cloudCover)psi(forest1000 P ndvi500 P ele),14.41,1e-04,6,81.22,0,0
+p()psi(forest1000 P und P water),14.44,1e-04,5,83.35,2.13,0
+p()psi(forest1000 P ndvi500 P ele P height100),14.46,1e-04,6,81.27,0,0
+p()psi(disturb500 P ele P height100),14.48,1e-04,5,83.4,5.15,1
+p(start P cloudCover)psi(disturb500 P und P ele P height100),14.49,1e-04,8,77.03,1.75,1
+p(cloudCover)psi(disturb500 P ele P distRoad),14.51,1e-04,6,81.32,0.44,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water P ele P distRoad),14.51,1e-04,10,72.71,4.82,1
+p(cloudCover)psi(und P water P ele P height100 P distRoad),14.53,1e-04,8,77.07,4.16,1
+p(start)psi(disturb500 P forest1000),14.53,1e-04,5,83.45,0,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water P ele P height100),14.55,1e-04,10,72.74,5.31,1
+p(cloudCover)psi(disturb500 P forest1000 P water P height100 P distRoad),14.55,1e-04,8,77.09,1.51,0
+p(start)psi(disturb500 P ndvi500 P ele P height100 P distRoad),14.56,1e-04,8,77.1,5.81,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P water P ele P distRoad),14.59,1e-04,9,74.97,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),14.59,1e-04,11,70.58,5.26,1
+p()psi(forest1000 P und P height100),14.61,1e-04,5,83.52,1.66,0
+p(cloudCover)psi(disturb500 P ndvi500 P ele P height100 P distRoad),14.63,1e-04,8,77.17,0,1
+p()psi(disturb500 P und P height100 P distRoad),14.64,1e-04,6,81.44,1.62,1
+p()psi(forest1000 P ele P height100 P distRoad),14.64,1e-04,6,81.45,0,0
+p()psi(disturb500 P height100 P distRoad),14.64,1e-04,5,83.55,0,1
+p(start)psi(disturb500 P ndvi500 P und P ele P height100 P distRoad),14.66,1e-04,9,75.04,0,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P water P ele P height100),14.66,1e-04,9,75.04,5.2,0
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P distRoad),14.69,1e-04,10,72.89,3.31,1
+p(start)psi(forest1000 P ndvi500 P ele),14.72,1e-04,6,81.53,0,0
+p(cloudCover)psi(ndvi500 P und P water P ele P height100 P distRoad),14.72,1e-04,9,75.09,5.18,0
+p(start)psi(disturb500 P ele P distRoad),14.73,1e-04,6,81.54,3.69,1
+p(cloudCover)psi(forest1000 P ndvi500 P distRoad),14.74,1e-04,6,81.55,-1.33,1
+p()psi(disturb500 P water P distRoad),14.74,1e-04,5,83.66,4.95,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P ele P height100 P distRoad),14.75,1e-04,10,72.95,5.24,1
+p()psi(forest1000 P und P distRoad),14.76,1e-04,5,83.68,2.13,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water P height100 P distRoad),14.79,1e-04,10,72.99,0,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P ele P height100 P distRoad),14.79,1e-04,11,70.79,0,1
+p(cloudCover)psi(disturb500 P forest1000 P water P distRoad),14.8,1e-04,7,79.48,5.82,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P water P ele P distRoad),14.81,1e-04,9,75.19,0,0
+p()psi(disturb500 P forest1000 P height100),14.82,1e-04,5,83.73,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P water P height100),14.82,1e-04,8,77.36,3.19,1
+p(start P cloudCover)psi(disturb500 P forest1000 P und),14.83,1e-04,7,79.51,0,0
+p(start)psi(disturb500 P ele P height100),14.84,1e-04,6,81.64,0,0
+p()psi(und),14.86,1e-04,3,87.93,1.88,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P ele P height100 P distRoad),14.89,1e-04,9,75.26,3.59,1
+p(start P cloudCover)psi(disturb500 P ndvi500 P water P ele P height100),14.9,1e-04,9,75.28,5.21,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),14.92,1e-04,12,68.7,0,1
+p()psi(forest1000 P ndvi500 P water P distRoad),14.93,1e-04,6,81.74,0,1
+p(cloudCover)psi(forest1000 P ele P height100),14.94,1e-04,6,81.75,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P height100 P distRoad),14.94,1e-04,11,70.94,3.9,1
+p()psi(und P ele),14.95,1e-04,4,85.95,0,0
+p(cloudCover)psi(disturb500 P ndvi500 P water P ele P height100),14.97,1e-04,8,77.5,3.75,1
+p(start P cloudCover)psi(forest1000 P und P ele P height100),14.97,1e-04,8,77.51,0,0
+p()psi(disturb500 P forest1000 P und P water P height100 P distRoad),14.97,1e-04,8,77.51,0,1
+p(cloudCover)psi(forest1000 P und P ele P height100 P distRoad),14.98,1e-04,8,77.52,0,0
+p(cloudCover)psi(forest1000 P ele P distRoad),14.99,1e-04,6,81.79,0,0
+p(start P cloudCover)psi(disturb500 P ele P distRoad),14.99,1e-04,7,79.67,4.21,0
+p(cloudCover)psi(disturb500 P ndvi500 P water P ele P distRoad),14.99,1e-04,8,77.53,3.6,1
+p(cloudCover)psi(forest1000 P ndvi500 P und P ele P height100),14.99,1e-04,8,77.53,5.12,0
+p(start)psi(disturb500 P forest1000 P height100),15.03,1e-04,6,81.83,0,0
+p(cloudCover)psi(disturb500 P und P water P height100),15.03,1e-04,7,79.71,1.67,0
+p(start)psi(forest1000 P ndvi500 P distRoad),15.05,1e-04,6,81.86,3.46,1
+p(cloudCover)psi(forest1000 P und P distRoad),15.06,1e-04,6,81.87,0.49,0
+p(start P cloudCover)psi(ndvi500 P und P water P ele P height100),15.09,1e-04,9,75.47,3.95,0
+p(start)psi(disturb500 P und P water P ele P height100),15.09,1e-04,8,77.63,4.01,1
+p(start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P height100 P distRoad),15.1,1e-04,10,73.29,3.38,1
+p(cloudCover)psi(disturb500 P forest1000 P water P height100),15.1,1e-04,7,79.78,1.47,1
+p(start)psi(forest1000 P und),15.1,1e-04,5,84.02,1.99,0
+p(start)psi(forest1000 P ele P distRoad),15.11,1e-04,6,81.92,0,0
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P height100 P distRoad),15.11,1e-04,10,73.3,4.67,0
+p(cloudCover)psi(disturb500 P ndvi500 P und P water P height100 P distRoad),15.12,1e-04,9,75.5,4.36,1
+p(start)psi(forest1000 P ele P height100),15.16,1e-04,6,81.97,0,0
+p()psi(disturb500),15.17,1e-04,3,88.24,0,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P water P height100 P distRoad),15.18,1e-04,9,75.56,5.86,1
+p()psi(disturb500 P und),15.22,1e-04,4,86.22,1,1
+p(start)psi(ele),15.23,1e-04,4,86.23,0,0
+p(start)psi(disturb500 P und P distRoad),15.24,1e-04,6,82.05,3.94,0
+p(start)psi(forest1000 P und P ele P height100 P distRoad),15.24,1e-04,8,77.78,0,0
+p()psi(und P height100),15.24,1e-04,4,86.24,-1.5,0
+p()psi(forest1000 P ndvi500 P und P ele P height100 P distRoad),15.24,1e-04,8,77.78,5.43,0
+p(start)psi(disturb500),15.26,1e-04,4,86.26,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water P ele P height100),15.27,1e-04,10,73.47,3.57,1
+p(start)psi(forest1000 P ndvi500 P und P ele P height100),15.28,1e-04,8,77.82,0,0
+p(cloudCover)psi(forest1000 P und),15.28,1e-04,5,84.19,1.92,0
+p()psi(disturb500 P ndvi500 P und P water P ele P height100 P distRoad),15.28,1e-04,9,75.66,4.63,1
+p(start P cloudCover)psi(disturb500 P water P height100),15.29,1e-04,7,79.97,0,1
+p(start)psi(ele P height100),15.29,1e-04,5,84.2,0,0
+p()psi(und P ele P height100),15.29,1e-04,5,84.21,0,0
+p(start P cloudCover)psi(forest1000 P und P ele P distRoad),15.3,1e-04,8,77.84,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P ele P distRoad),15.32,1e-04,8,77.86,0,0
+p(cloudCover)psi(disturb500 P und P height100 P distRoad),15.33,1e-04,7,80.01,4.94,1
+p(start)psi(forest1000 P height100 P distRoad),15.34,1e-04,6,82.15,0,1
+p(start)psi(ndvi500 P water P ele P height100 P distRoad),15.34,1e-04,8,77.88,3.25,1
+p(start P cloudCover)psi(disturb500 P ele P height100 P distRoad),15.37,1e-04,8,77.91,5.79,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P ele),15.38,1e-04,8,77.92,0,0
+p(start)psi(disturb500 P und P ele P height100 P distRoad),15.38,1e-04,8,77.92,0,1
+p()psi(ndvi500 P ele P height100),15.42,1e-04,5,84.34,0,0
+p()psi(forest1000 P und P water P distRoad),15.45,1e-04,6,82.25,1.67,0
+p(cloudCover)psi(disturb500 P distRoad),15.46,1e-04,5,84.38,1.47,1
+p(start P cloudCover)psi(disturb500 P und),15.47,1e-04,6,82.28,3.82,0
+p(cloudCover)psi(ele P height100),15.48,1e-04,5,84.39,0,0
+p()psi(und P distRoad),15.52,0,4,86.52,0,0
+p(start)psi(forest1000 P ndvi500 P und P ele P distRoad),15.57,0,8,78.11,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P und P distRoad),15.61,0,8,78.14,1.79,1
+p()psi(ele P height100 P distRoad),15.62,0,5,84.53,0,0
+p(start P cloudCover)psi(disturb500 P forest1000),15.63,0,6,82.44,0,0
+p(start P cloudCover)psi(disturb500 P water P distRoad),15.63,0,7,80.32,2.61,1
+p()psi(forest1000 P ndvi500 P und),15.63,0,5,84.55,2,0
+p(cloudCover)psi(disturb500 P und P ele P height100),15.64,0,7,80.33,0,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P ele P height100 P distRoad),15.65,0,9,76.03,5.7,1
+p(start P cloudCover)psi(ndvi500 P und P height100),15.65,0,7,80.34,1.42,0
+p()psi(ele P distRoad),15.67,0,4,86.68,0,0
+p(cloudCover)psi(disturb500 P und),15.7,0,5,84.61,2.92,0
+p()psi(forest1000 P und P water P height100),15.7,0,6,82.51,3.15,0
+p(cloudCover)psi(disturb500 P ndvi500 P water P height100 P distRoad),15.7,0,8,78.24,1.5,1
+p(start P cloudCover)psi(disturb500 P und P water P ele P height100),15.71,0,9,76.09,1.21,0
+p(cloudCover)psi(disturb500 P forest1000 P und P distRoad),15.72,0,7,80.41,3.13,0
+p(start)psi(disturb500 P und P water P height100 P distRoad),15.73,0,8,78.27,5.16,1
+p(start P cloudCover)psi(forest1000 P ele),15.74,0,6,82.54,0,0
+p()psi(disturb500 P und P water),15.74,0,5,84.65,5.62,0
+p(cloudCover)psi(disturb500 P ele P height100),15.75,0,6,82.55,3.04,1
+p(start)psi(und),15.75,0,4,86.75,2.46,0
+p()psi(disturb500 P water P height100 P distRoad),15.78,0,6,82.59,5.81,1
+p()psi(forest1000 P water P height100 P distRoad),15.78,0,6,82.59,1.26,1
+p(cloudCover)psi(forest1000 P ndvi500 P ele P distRoad),15.8,0,7,80.48,0,0
+p()psi(und P water),15.8,0,4,86.8,3.19,0
+p(start)psi(disturb500 P ndvi500 P und P water P ele P height100 P distRoad),15.82,0,10,74.01,3.64,1
+p(start)psi(disturb500 P ndvi500 P water P ele P height100 P distRoad),15.83,0,9,76.2,0,1
+p(cloudCover)psi(disturb500 P ndvi500 P und P water P ele P height100),15.85,0,9,76.23,5.88,1
+p(start P cloudCover)psi(disturb500 P ele P height100),15.85,0,7,80.54,0.37,1
+p()psi(disturb500 P und P water P ele P height100),15.85,0,7,80.54,3.2,0
+p()psi(disturb500 P und P water P height100 P distRoad),15.86,0,7,80.54,0.15,1
+p(cloudCover)psi(ele),15.86,0,4,86.86,0,0
+p()psi(und P height100 P distRoad),15.86,0,5,84.77,0,0
+p(start)psi(disturb500 P und P water),15.87,0,6,82.68,5.78,1
+p()psi(distRoad),15.87,0,3,88.94,0,0
+p(start)psi(und P ele),15.87,0,5,84.78,0,0
+p()psi(ndvi500 P und P ele P height100),15.87,0,6,82.68,0,0
+p(cloudCover)psi(disturb500 P forest1000),15.88,0,5,84.8,0,0
+p()psi(forest1000 P ndvi500 P ele P height100 P distRoad),15.89,0,7,80.58,0,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P water P ele P height100 P distRoad),15.96,0,10,74.15,3.59,1
+p()psi(disturb500 P forest1000 P ndvi500 P water P height100 P distRoad),15.97,0,8,78.51,4.35,1
+p()psi(und P water P distRoad),16,0,5,84.92,0,0
+p(start P cloudCover)psi(disturb500 P water P height100 P distRoad),16,0,8,78.54,0,1
+p(start)psi(forest1000 P und P water),16.02,0,6,82.83,2.09,0
+p(start)psi(forest1000 P ndvi500 P ele P distRoad),16.04,0,7,80.72,0,0
+p()psi(disturb500 P ele P height100 P distRoad),16.05,0,6,82.86,4.79,1
+p(start P cloudCover)psi(disturb500 P forest1000 P height100),16.08,0,7,80.77,0,0
+p()psi(disturb500 P und P distRoad),16.09,0,5,85.01,5.34,0
+p()psi(forest1000 P und P height100 P distRoad),16.1,0,6,82.91,2.65,0
+p(start)psi(distRoad),16.11,0,4,87.11,0,0
+p(start)psi(forest1000 P und P distRoad),16.12,0,6,82.92,1.79,0
+p(cloudCover)psi(forest1000 P und P water),16.12,0,6,82.93,0,0
+p(start P cloudCover)psi(disturb500 P und P water P height100 P distRoad),16.13,0,9,76.51,4.55,1
+p()psi(disturb500 P und P ele),16.14,0,5,85.06,2.4,0
+p()psi(height100 P distRoad),16.15,0,4,87.16,0,0
+p()psi(und P ele P distRoad),16.16,0,5,85.08,0,0
+p()psi(ndvi500 P ele),16.18,0,4,87.18,0,0
+p()psi(ndvi500 P und P height100),16.21,0,5,85.13,1.89,0
+p(start)psi(und P distRoad),16.22,0,5,85.13,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P ele P height100),16.24,0,7,80.92,0,0
+p(start)psi(disturb500 P water P ele P height100 P distRoad),16.24,0,8,78.78,2.91,1
+p(start)psi(forest1000 P und P height100),16.26,0,6,83.07,5.74,0
+p(start)psi(disturb500 P height100),16.27,0,5,85.18,0,0
+p(start P cloudCover)psi(disturb500),16.27,0,5,85.18,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water P distRoad),16.28,0,9,76.66,2.6,1
+p(start)psi(disturb500 P und P ele),16.29,0,6,83.1,3.69,0
+p(cloudCover)psi(disturb500 P forest1000 P und P water P height100 P distRoad),16.32,0,9,76.7,0,1
+p(start P cloudCover)psi(disturb500 P water P ele P distRoad),16.32,0,8,78.86,0,0
+p(start)psi(disturb500 P water P ele P distRoad),16.32,0,7,81.01,3.13,1
+p()psi(forest1000 P ndvi500 P und P water),16.33,0,6,83.14,2.28,0
+p()psi(forest1000 P ndvi500 P und P height100),16.34,0,6,83.15,2.72,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P ele),16.34,0,7,81.03,0,0
+p()psi(disturb500 P forest1000 P water),16.35,0,5,85.26,0,0
+p(cloudCover)psi(forest1000 P und P height100),16.35,0,6,83.16,2.84,0
+p(start P cloudCover)psi(und P water P ele P height100 P distRoad),16.35,0,9,76.73,4.76,1
+p(cloudCover)psi(disturb500 P forest1000 P height100),16.37,0,6,83.18,0,0
+p()psi(forest1000),16.37,0,3,89.45,5.12,0
+p()psi(disturb500 P und P ele P height100 P distRoad),16.4,0,7,81.09,0,1
+p()psi(ndvi500 P und P ele),16.4,0,5,85.32,0,0
+p(cloudCover)psi(disturb500 P height100 P distRoad),16.45,0,6,83.26,0,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P distRoad),16.49,0,7,81.17,0,1
+p()psi(disturb500 P forest1000 P und P water P distRoad),16.49,0,7,81.17,5.42,0
+p(start P cloudCover)psi(disturb500 P und P distRoad),16.49,0,7,81.17,3.66,0
+p(start P cloudCover)psi(disturb500 P ndvi500 P und P water P ele P height100 P distRoad),16.49,0,11,72.49,4.92,1
+p(start)psi(water P distRoad),16.51,0,5,85.43,0,0
+p(start P cloudCover)psi(ndvi500 P water P ele P height100 P distRoad),16.52,0,9,76.89,0,1
+p(start P cloudCover)psi(disturb500 P und P ele P height100 P distRoad),16.53,0,9,76.91,-0.23,1
+p()psi(und P water P height100),16.55,0,5,85.47,3.58,0
+p(start)psi(forest1000 P ndvi500 P ele P height100),16.57,0,7,81.25,0,0
+p(cloudCover)psi(disturb500 P water P distRoad),16.57,0,6,83.38,3.74,0
+p(cloudCover)psi(und),16.57,0,4,87.57,4.25,0
+p()psi(ndvi500 P und),16.58,0,4,87.58,3.17,0
+p(start)psi(und P height100),16.6,0,5,85.52,4.88,0
+p(cloudCover)psi(forest1000 P ele P height100 P distRoad),16.61,0,7,81.29,0,0
+p(start)psi(und P water P distRoad),16.62,0,6,83.43,0,0
+p(start)psi(forest1000 P ndvi500 P water P distRoad),16.62,0,7,81.3,0,1
+p(start)psi(disturb500 P und P water P ele),16.62,0,7,81.31,5.25,0
+p(start)psi(disturb500 P forest1000 P water),16.62,0,6,83.43,0,0
+p(start P cloudCover)psi(forest1000 P und),16.63,0,6,83.44,3.08,0
+p()psi(und P ele P height100 P distRoad),16.67,0,6,83.48,0,0
+p(cloudCover)psi(disturb500 P ele P height100 P distRoad),16.68,0,7,81.36,2.07,1
+p(cloudCover)psi(forest1000 P distRoad),16.69,0,5,85.6,5.23,1
+p(start)psi(und P water),16.7,0,5,85.61,1.69,0
+p()psi(forest1000 P ndvi500),16.7,0,4,87.7,0,1
+p()psi(water P distRoad),16.7,0,4,87.7,0,0
+p(start P cloudCover)psi(ele),16.73,0,5,85.64,0,0
+p(start)psi(ele P distRoad),16.73,0,5,85.65,0,0
+p(cloudCover)psi(disturb500),16.74,0,4,87.74,0,0
+p(start)psi(forest1000 P ele P height100 P distRoad),16.74,0,7,81.42,0,0
+p(cloudCover)psi(disturb500 P ndvi500 P und P water P ele P height100 P distRoad),16.77,0,10,74.97,3.76,1
+p(start)psi(disturb500 P und P water P ele P height100 P distRoad),16.79,0,9,77.16,5.69,0
+p(start P cloudCover)psi(disturb500 P forest1000 P und P water),16.79,0,8,79.33,0,0
+p(start P cloudCover)psi(disturb500 P und P water P ele P height100 P distRoad),16.8,0,10,74.99,4.83,1
+p(cloudCover)psi(und P ele),16.8,0,5,85.71,0,0
+p()psi(disturb500 P forest1000 P und P water),16.81,0,6,83.62,0,0
+p(start)psi(und P ele P height100),16.82,0,6,83.63,0,0
+p(cloudCover)psi(forest1000 P water P distRoad),16.82,0,6,83.63,4.15,1
+p(cloudCover)psi(disturb500 P ndvi500 P water P ele P height100 P distRoad),16.83,0,9,77.21,4.22,1
+p()psi(und P water P height100 P distRoad),16.84,0,6,83.65,0,0
+p(start)psi(forest1000 P ndvi500 P height100 P distRoad),16.86,0,7,81.54,5.55,1
+p(start)psi(forest1000 P und P water P distRoad),16.86,0,7,81.54,2.22,0
+p(start P cloudCover)psi(ele P height100),16.97,0,6,83.78,0,0
+p(start P cloudCover)psi(forest1000 P ele P height100),17,0,7,81.69,0,0
+p(start P cloudCover)psi(forest1000 P ele P distRoad),17.01,0,7,81.69,0,0
+p(cloudCover)psi(und P height100),17.01,0,5,85.93,0.08,0
+p(start)psi(height100 P distRoad),17.03,0,5,85.95,0,0
+p(cloudCover)psi(forest1000 P height100 P distRoad),17.03,0,6,83.84,4.87,1
+p(start P cloudCover)psi(forest1000 P height100 P distRoad),17.05,0,7,81.73,1.29,1
+p(start)psi(und P ele P distRoad),17.06,0,6,83.87,0,0
+p(start)psi(ndvi500 P ele P height100),17.07,0,6,83.88,0,0
+p()psi(forest1000 P und P water P height100 P distRoad),17.08,0,7,81.77,2.66,0
+p(start P cloudCover)psi(forest1000 P und P ele P height100 P distRoad),17.11,0,9,77.49,0,0
+p(start P cloudCover)psi(disturb500 P height100),17.12,0,6,83.93,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P ele P height100),17.13,0,9,77.5,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P ele P height100 P distRoad),17.14,0,9,77.52,5.51,0
+p(cloudCover)psi(forest1000 P ndvi500 P water P distRoad),17.14,0,7,81.83,0,1
+p(start)psi(forest1000 P ndvi500 P und),17.15,0,6,83.96,2.13,0
+p(start P cloudCover)psi(disturb500 P und P water),17.16,0,7,81.85,0,1
+p(start)psi(ndvi500 P und P ele),17.16,0,6,83.97,0,0
+p(start)psi(und P height100 P distRoad),17.17,0,6,83.98,0,0
+p(cloudCover)psi(disturb500 P und P water P height100 P distRoad),17.17,0,8,79.71,4.71,1
+p()psi(),17.18,0,2,92.3,5.29,0
+p(cloudCover)psi(und P ele P height100),17.21,0,6,84.02,0,0
+p()psi(disturb500 P height100),17.22,0,4,88.22,0,0
+p()psi(disturb500 P water),17.24,0,4,88.24,4.68,0
+p(start)psi(disturb500 P forest1000 P und P water),17.24,0,7,81.92,0,1
+p(start)psi(ele P height100 P distRoad),17.24,0,6,84.05,0,0
+p()psi(height100),17.26,0,3,90.33,0,0
+p(start P cloudCover)psi(und),17.29,0,5,86.2,5.89,0
+p(cloudCover)psi(ndvi500 P ele P height100),17.31,0,6,84.12,0,0
+p(start)psi(ndvi500 P ele),17.31,0,5,86.23,5.94,0
+p(cloudCover)psi(forest1000 P ndvi500 P und),17.31,0,6,84.12,1.91,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P distRoad),17.32,0,7,82,2.76,0
+p()psi(ndvi500 P und P water),17.32,0,5,86.24,2.13,0
+p(start)psi(ndvi500 P und P ele P height100),17.33,0,7,82.01,0,0
+p()psi(forest1000 P ndvi500 P water P height100 P distRoad),17.34,0,7,82.02,5.65,1
+p(cloudCover)psi(forest1000 P und P water P distRoad),17.35,0,7,82.04,3.32,0
+p(start)psi(disturb500 P und P ele P distRoad),17.36,0,7,82.05,0,1
+p(cloudCover)psi(forest1000 P water P height100 P distRoad),17.37,0,7,82.05,5.68,1
+p(start)psi(forest1000),17.37,0,4,88.38,4.12,0
+p()psi(water P height100 P distRoad),17.37,0,5,86.29,0,0
+p()psi(disturb500 P und P water P ele P height100 P distRoad),17.37,0,8,79.91,-0.22,1
+p()psi(forest1000 P ndvi500 P und P water P height100),17.38,0,7,82.06,2.56,0
+p(cloudCover)psi(forest1000 P ndvi500 P height100 P distRoad),17.39,0,7,82.08,5.6,1
+p(start)psi(forest1000 P ndvi500 P und P ele P height100 P distRoad),17.4,0,9,77.78,0,0
+p(cloudCover)psi(disturb500 P forest1000 P ndvi500 P water P height100 P distRoad),17.41,0,9,77.78,5.64,1
+p(cloudCover)psi(disturb500 P und P water),17.41,0,6,84.22,0,0
+p(cloudCover)psi(und P distRoad),17.42,0,5,86.33,0,0
+p(start)psi(disturb500 P water),17.43,0,5,86.34,4.58,0
+p(start)psi(forest1000 P und P water P height100),17.43,0,7,82.11,2.74,0
+p(start)psi(ndvi500 P und),17.45,0,5,86.36,2.39,0
+p(cloudCover)psi(forest1000 P und P water P height100),17.45,0,7,82.13,4.04,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P ele P distRoad),17.45,0,9,77.83,0,0
+p()psi(forest1000 P ndvi500 P und P water P distRoad),17.46,0,7,82.14,2.47,0
+p(start)psi(forest1000 P distRoad),17.47,0,5,86.39,0,0
+p()psi(ndvi500 P ele P height100 P distRoad),17.48,0,6,84.29,0,0
+p(cloudCover)psi(und P water),17.49,0,5,86.4,1.27,0
+p(start P cloudCover)psi(ndvi500 P und P water P height100),17.49,0,8,80.03,2.21,1
+p(cloudCover)psi(ele P distRoad),17.49,0,5,86.41,0,0
+p()psi(ndvi500 P und P height100 P distRoad),17.5,0,6,84.31,2.27,0
+p(start)psi(),17.5,0,3,90.58,1.53,0
+p(cloudCover)psi(ele P height100 P distRoad),17.51,0,6,84.32,0,0
+p(cloudCover)psi(disturb500 P und P water P ele P height100),17.52,0,8,80.05,2.19,1
+p(start)psi(ndvi500 P und P height100),17.53,0,6,84.34,1.85,0
+p()psi(ndvi500 P und P distRoad),17.55,0,5,86.46,0,0
+p(start P cloudCover)psi(disturb500 P und P ele),17.56,0,7,82.24,4.37,0
+p(start P cloudCover)psi(und P ele),17.6,0,6,84.41,0,0
+p(start P cloudCover)psi(forest1000 P und P water),17.61,0,7,82.29,1.81,0
+p()psi(ndvi500 P und P ele P height100 P distRoad),17.62,0,7,82.3,0,0
+p(start)psi(forest1000 P und P height100 P distRoad),17.62,0,7,82.3,1.98,0
+p()psi(disturb500 P und P water P distRoad),17.71,0,6,84.52,2.69,0
+p(cloudCover)psi(disturb500 P und P distRoad),17.72,0,6,84.52,2.65,0
+p()psi(ndvi500 P ele P distRoad),17.72,0,5,86.63,0,0
+p(cloudCover)psi(distRoad),17.74,0,4,88.74,0,0
+p(start P cloudCover)psi(disturb500 P forest1000 P water),17.74,0,7,82.43,0,0
+p()psi(forest1000 P water P distRoad),17.77,0,5,86.68,0,0
+p(start P cloudCover)psi(distRoad),17.78,0,5,86.69,0,0
+p(cloudCover)psi(disturb500 P und P ele),17.79,0,6,84.6,2.92,0
+p(cloudCover)psi(forest1000 P ndvi500 P ele P height100 P distRoad),17.8,0,8,80.33,0,0
+p(cloudCover)psi(ndvi500 P und P ele P height100),17.81,0,7,82.5,0,0
+p(cloudCover)psi(und P height100 P distRoad),17.86,0,6,84.67,0,0
+p()psi(ndvi500 P und P ele P distRoad),17.86,0,6,84.67,0,0
+p(start)psi(und P water P height100),17.88,0,6,84.69,4.97,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P ele P distRoad),17.88,0,8,80.42,0,0
+p(start P cloudCover)psi(forest1000 P und P distRoad),17.89,0,7,82.58,1.87,0
+p(cloudCover)psi(und P water P distRoad),17.9,0,6,84.71,0,0
+p(start P cloudCover)psi(forest1000 P und P height100),17.9,0,7,82.58,-0.77,0
+p()psi(disturb500 P water P ele P height100 P distRoad),17.9,0,7,82.59,5.2,1
+p(start)psi(water P height100 P distRoad),17.91,0,6,84.71,0,0
+p()psi(ndvi500 P distRoad),17.92,0,4,88.92,0,0
+p(cloudCover)psi(forest1000),17.92,0,4,88.92,3.41,0
+p(cloudCover)psi(disturb500 P water P height100 P distRoad),17.92,0,7,82.61,1.3,1
+p(cloudCover)psi(disturb500 P und P ele P height100 P distRoad),17.93,0,8,80.47,3.85,1
+p(cloudCover)psi(ndvi500 P ele),17.94,0,5,86.85,0,0
+p()psi(forest1000 P height100),17.95,0,4,88.95,0,1
+p(start)psi(disturb500 P und P water P distRoad),17.96,0,7,82.64,2.6,0
+p(cloudCover)psi(disturb500 P forest1000 P water),17.96,0,6,84.77,0,0
+p()psi(forest1000 P ndvi500 P und P height100 P distRoad),17.98,0,7,82.66,2.58,0
+p(start)psi(forest1000 P ndvi500 P und P water),17.98,0,7,82.67,2.3,0
+p(start)psi(und P water P height100 P distRoad),17.99,0,7,82.67,0,0
+p(start)psi(forest1000 P ndvi500 P und P height100),18,0,7,82.69,0.11,0
+p(start P cloudCover)psi(und P distRoad),18.01,0,6,84.82,0,0
+p(cloudCover)psi(forest1000 P und P height100 P distRoad),18.02,0,7,82.7,2.91,0
+p(start)psi(forest1000 P height100),18.02,0,5,86.94,-0.18,0
+p(cloudCover)psi(ndvi500 P und P height100),18.03,0,6,84.84,2.16,0
+p(start)psi(forest1000 P ndvi500 P ele P height100 P distRoad),18.03,0,8,80.57,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P water),18.04,0,7,82.72,2.57,0
+p()psi(ndvi500 P und P water P distRoad),18.05,0,6,84.86,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P height100 P distRoad),18.09,0,8,80.63,1.39,1
+p(start P cloudCover)psi(disturb500 P water P ele P height100 P distRoad),18.1,0,9,78.47,0,1
+p(cloudCover)psi(und P ele P distRoad),18.1,0,6,84.91,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P height100),18.13,0,7,82.81,2.93,0
+p(cloudCover)psi(height100 P distRoad),18.13,0,5,87.05,0,0
+p(start)psi(und P ele P height100 P distRoad),18.15,0,7,82.83,0,0
+p()psi(ndvi500 P height100 P distRoad),18.15,0,5,87.06,0,0
+p()psi(disturb500 P und P ele P distRoad),18.18,0,6,84.99,4.79,0
+p(start)psi(ndvi500 P distRoad),18.19,0,5,87.1,5.99,0
+p(start P cloudCover)psi(water P distRoad),18.23,0,6,85.04,0,0
+p(start)psi(forest1000 P ndvi500 P und P distRoad),18.23,0,7,82.92,3.11,0
+p(start)psi(ndvi500 P und P distRoad),18.24,0,6,85.05,0,0
+p(start P cloudCover)psi(und P height100),18.25,0,6,85.05,5.12,0
+p(start P cloudCover)psi(und P water),18.25,0,6,85.06,3.79,0
+p(start)psi(ndvi500 P und P water),18.25,0,6,85.06,1.47,0
+p(start)psi(height100),18.26,0,4,89.26,5.85,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P ele P height100),18.27,0,8,80.81,0,0
+p(cloudCover)psi(ndvi500 P und P ele),18.27,0,6,85.08,0,0
+p(cloudCover)psi(forest1000 P ndvi500),18.29,0,5,87.21,5.53,1
+p(cloudCover)psi(und P water P height100),18.3,0,6,85.11,-0.82,0
+p(cloudCover)psi(ndvi500 P und),18.31,0,5,87.22,2.36,0
+p(start)psi(forest1000 P water P distRoad),18.31,0,6,85.12,0,0
+p(start P cloudCover)psi(ele P distRoad),18.35,0,6,85.16,0,0
+p(start P cloudCover)psi(disturb500 P water),18.38,0,6,85.18,5.3,0
+p(start P cloudCover)psi(und P water P distRoad),18.43,0,7,83.11,0,0
+p()psi(forest1000 P water),18.44,0,4,89.45,1.37,0
+p(start P cloudCover)psi(forest1000),18.48,0,5,87.39,3.7,0
+p(cloudCover)psi(forest1000 P height100),18.48,0,5,87.4,4.98,1
+p(cloudCover)psi(disturb500 P forest1000 P und P water),18.49,0,7,83.17,0,0
+p(start)psi(ndvi500 P und P ele P distRoad),18.59,0,7,83.28,0,0
+p(start P cloudCover)psi(forest1000 P water P height100 P distRoad),18.59,0,8,81.13,0,1
+p(start)psi(ndvi500 P water P distRoad),18.6,0,6,85.41,0,0
+p()psi(ndvi500 P und P water P height100 P distRoad),18.62,0,7,83.3,0,0
+p(start P cloudCover)psi(),18.62,0,4,89.63,4.59,0
+p(start P cloudCover)psi(und P ele P height100),18.63,0,7,83.31,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P water P distRoad),18.63,0,8,81.17,4.7,1
+p(start P cloudCover)psi(disturb500 P und P ele P distRoad),18.63,0,8,81.17,5.68,1
+p(start)psi(forest1000 P und P water P height100 P distRoad),18.64,0,8,81.18,2.73,0
+p(cloudCover)psi(water P distRoad),18.64,0,5,87.56,0,0
+p(cloudCover)psi(und P ele P height100 P distRoad),18.68,0,7,83.36,0,0
+p(start P cloudCover)psi(forest1000 P ele P height100 P distRoad),18.68,0,8,81.22,0,0
+p(start)psi(ndvi500 P und P water P distRoad),18.69,0,7,83.37,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und),18.69,0,7,83.38,3.11,0
+p(start P cloudCover)psi(forest1000 P und P water P distRoad),18.7,0,8,81.24,2.68,0
+p(start)psi(ndvi500 P und P height100 P distRoad),18.73,0,7,83.42,1.96,0
+p()psi(ndvi500 P water P distRoad),18.76,0,5,87.67,0,0
+p()psi(ndvi500 P height100),18.78,0,4,89.78,4.5,1
+p(start)psi(ndvi500 P ele P distRoad),18.78,0,6,85.59,0,0
+p(cloudCover)psi(),18.81,0,3,91.88,5.48,0
+p(cloudCover)psi(disturb500 P height100),18.81,0,5,87.72,0,0
+p(start P cloudCover)psi(ndvi500 P ele P height100),18.81,0,7,83.49,0,0
+p(start P cloudCover)psi(ndvi500 P ele),18.82,0,6,85.63,0,0
+p(cloudCover)psi(und P water P height100 P distRoad),18.82,0,7,83.51,0,0
+p(cloudCover)psi(disturb500 P water),18.83,0,5,87.74,5.52,0
+p(start P cloudCover)psi(height100 P distRoad),18.84,0,6,85.65,0,0
+p(cloudCover)psi(height100),18.86,0,4,89.86,1.75,0
+p(start P cloudCover)psi(ndvi500 P und P ele),18.88,0,7,83.56,0,0
+p(start P cloudCover)psi(und P ele P distRoad),18.9,0,7,83.58,0,0
+p()psi(forest1000 P ndvi500 P und P water P height100 P distRoad),18.9,0,8,81.44,2.46,0
+p(start)psi(forest1000 P ndvi500 P und P water P distRoad),18.93,0,8,81.47,2.71,0
+p(start)psi(forest1000 P ndvi500),18.96,0,5,87.88,3.01,1
+p(start P cloudCover)psi(ndvi500 P und),18.98,0,6,85.79,1.84,0
+p(start P cloudCover)psi(ele P height100 P distRoad),18.99,0,7,83.68,0,0
+p(cloudCover)psi(forest1000 P und P water P height100 P distRoad),19.02,0,8,81.56,1.87,0
+p(cloudCover)psi(ndvi500 P und P water),19.02,0,6,85.83,1.9,0
+p(start)psi(ndvi500 P und P ele P height100 P distRoad),19.06,0,8,81.6,0,0
+p(start)psi(ndvi500 P height100 P distRoad),19.07,0,6,85.88,0,0
+p(start P cloudCover)psi(und P height100 P distRoad),19.07,0,7,83.75,0,0
+p(start)psi(ndvi500 P ele P height100 P distRoad),19.1,0,7,83.78,0,0
+p(start P cloudCover)psi(forest1000 P und P water P height100),19.1,0,8,81.64,2.51,0
+p(cloudCover)psi(ndvi500 P und P water P height100),19.12,0,7,83.8,1.85,0
+p(start)psi(forest1000 P ndvi500 P und P water P height100),19.14,0,8,81.68,1.84,0
+p(start P cloudCover)psi(ndvi500 P und P ele P height100),19.14,0,8,81.68,0,0
+p(start P cloudCover)psi(forest1000 P distRoad),19.16,0,6,85.97,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P water P height100),19.16,0,8,81.7,2.05,0
+p()psi(water),19.19,0,3,92.26,0,0
+p()psi(ndvi500),19.23,0,3,92.3,1.72,0
+p(start P cloudCover)psi(disturb500 P und P water P distRoad),19.24,0,8,81.78,4.45,0
+p(cloudCover)psi(forest1000 P ndvi500 P water P height100 P distRoad),19.29,0,8,81.83,4.68,1
+p()psi(water P height100),19.29,0,4,90.29,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P ele P height100 P distRoad),19.29,0,10,77.49,5.92,0
+p(start P cloudCover)psi(disturb500 P und P water P ele),19.3,0,8,81.84,2.15,0
+p()psi(disturb500 P water P height100),19.31,0,5,88.22,4.7,0
+p(start P cloudCover)psi(forest1000 P ndvi500),19.33,0,6,86.14,3.56,1
+p(start)psi(forest1000 P ndvi500 P water P height100 P distRoad),19.33,0,8,81.87,4.45,1
+p(cloudCover)psi(disturb500 P und P water P distRoad),19.35,0,7,84.04,3.59,0
+p(cloudCover)psi(disturb500 P und P water P ele P height100 P distRoad),19.36,0,9,79.73,5.87,1
+p(cloudCover)psi(forest1000 P ndvi500 P und P water P distRoad),19.38,0,8,81.92,1.97,0
+p(start)psi(disturb500 P forest1000 P und P water P distRoad),19.38,0,8,81.92,4.95,0
+p(cloudCover)psi(water P height100 P distRoad),19.4,0,6,86.2,0,0
+p(cloudCover)psi(ndvi500 P ele P height100 P distRoad),19.4,0,7,84.09,0,0
+p()psi(ndvi500 P water P height100 P distRoad),19.43,0,6,86.24,0,0
+p(cloudCover)psi(ndvi500 P und P height100 P distRoad),19.44,0,7,84.12,3.05,0
+p(cloudCover)psi(ndvi500 P und P distRoad),19.45,0,6,86.26,0,0
+p(start P cloudCover)psi(forest1000 P und P height100 P distRoad),19.45,0,8,81.99,2.77,0
+p(start P cloudCover)psi(height100),19.45,0,5,88.37,0,0
+p(start)psi(forest1000 P water),19.46,0,5,88.38,0,0
+p(start)psi(water),19.51,0,4,90.51,0,0
+p(start P cloudCover)psi(und P water P height100),19.51,0,7,84.19,-0.93,0
+p(cloudCover)psi(disturb500 P und P water P ele),19.53,0,7,84.22,1.88,0
+p(start)psi(forest1000 P ndvi500 P und P height100 P distRoad),19.53,0,8,82.07,1.82,0
+p(cloudCover)psi(ndvi500 P ele P distRoad),19.55,0,6,86.36,0,0
+p(start)psi(ndvi500),19.57,0,4,90.58,4.22,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water),19.58,0,8,82.12,1.5,0
+p(start)psi(forest1000 P water P height100 P distRoad),19.62,0,7,84.3,0,0
+p(cloudCover)psi(ndvi500 P und P ele P height100 P distRoad),19.63,0,8,82.17,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P height100),19.65,0,8,82.19,2.2,0
+p(start)psi(ndvi500 P height100),19.67,0,5,88.59,2.54,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P height100 P distRoad),19.68,0,8,82.22,0.27,1
+p(start P cloudCover)psi(water P height100 P distRoad),19.74,0,7,84.42,0,0
+p(start)psi(ndvi500 P und P water P height100 P distRoad),19.78,0,8,82.32,2.43,0
+p(start P cloudCover)psi(ndvi500 P und P water),19.78,0,7,84.47,2.29,0
+p(cloudCover)psi(disturb500 P water P ele P height100 P distRoad),19.8,0,8,82.34,1.36,1
+p(cloudCover)psi(ndvi500 P und P ele P distRoad),19.81,0,7,84.49,0,0
+p(cloudCover)psi(ndvi500 P distRoad),19.81,0,5,88.73,0,0
+p(cloudCover)psi(disturb500 P und P ele P distRoad),19.83,0,7,84.51,0,1
+p()psi(disturb500 P und P water P ele P distRoad),19.83,0,7,84.52,4.25,0
+p(cloudCover)psi(forest1000 P water),19.84,0,5,88.75,5.1,0
+p()psi(forest1000 P ndvi500 P height100),19.84,0,5,88.75,0,1
+p()psi(forest1000 P water P height100),19.84,0,5,88.75,4.5,1
+p(start P cloudCover)psi(ndvi500 P distRoad),19.88,0,6,86.69,0,0
+p(start P cloudCover)psi(und P water P height100 P distRoad),19.89,0,8,82.43,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P ele P height100 P distRoad),19.92,0,9,80.29,0,0
+p(cloudCover)psi(ndvi500 P und P water P distRoad),19.95,0,7,84.63,0,0
+p(start)psi(ndvi500 P water P height100 P distRoad),20.01,0,7,84.69,0,0
+p(start P cloudCover)psi(ndvi500 P und P distRoad),20.02,0,7,84.7,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P distRoad),20.03,0,8,82.57,4.37,0
+p(start P cloudCover)psi(forest1000 P water P distRoad),20.04,0,7,84.73,0,0
+p(start P cloudCover)psi(und P ele P height100 P distRoad),20.08,0,8,82.62,0,0
+p(start)psi(disturb500 P und P water P ele P distRoad),20.09,0,8,82.63,3.42,0
+p(cloudCover)psi(ndvi500 P height100 P distRoad),20.13,0,6,86.94,0,0
+p()psi(forest1000 P ndvi500 P water),20.19,0,5,89.1,2.9,1
+p()psi(forest1000 P ndvi500 P water P height100),20.3,0,6,87.11,1.2,0
+p(start)psi(water P height100),20.34,0,5,89.26,0,0
+p(start P cloudCover)psi(ndvi500 P water P distRoad),20.35,0,7,85.03,0,0
+p(start P cloudCover)psi(ndvi500 P und P ele P distRoad),20.41,0,8,82.95,0,0
+p(cloudCover)psi(ndvi500 P height100),20.44,0,5,89.35,2.41,1
+p(start P cloudCover)psi(ndvi500 P und P water P distRoad),20.5,0,8,83.04,0,0
+p(start P cloudCover)psi(ndvi500 P ele P distRoad),20.5,0,7,85.19,0,0
+p(start)psi(forest1000 P ndvi500 P und P water P height100 P distRoad),20.51,0,9,80.88,1.99,0
+p(cloudCover)psi(disturb500 P forest1000 P und P water P distRoad),20.51,0,8,83.05,3.35,0
+p(cloudCover)psi(ndvi500 P und P water P height100 P distRoad),20.51,0,8,83.05,5.82,0
+p(start P cloudCover)psi(forest1000 P und P water P height100 P distRoad),20.51,0,9,80.89,3.01,0
+p(start P cloudCover)psi(ndvi500 P und P height100 P distRoad),20.55,0,8,83.09,1.83,0
+p(start P cloudCover)psi(water),20.67,0,5,89.58,0,0
+p(start P cloudCover)psi(ndvi500),20.71,0,5,89.63,4.72,0
+p(cloudCover)psi(ndvi500 P water P distRoad),20.72,0,6,87.53,0,0
+p(start)psi(forest1000 P water P height100),20.73,0,6,87.54,4.37,1
+p(start P cloudCover)psi(forest1000 P height100),20.75,0,6,87.56,1.48,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water P distRoad),20.77,0,9,81.15,1.41,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P water P height100 P distRoad),20.79,0,9,81.17,2.27,1
+p(start)psi(forest1000 P ndvi500 P height100),20.8,0,6,87.61,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water P height100),20.82,0,9,81.2,2.54,0
+p(cloudCover)psi(water),20.84,0,4,91.85,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P und P water P height100 P distRoad),20.86,0,9,81.24,0,0
+p(cloudCover)psi(ndvi500),20.88,0,4,91.88,2.15,1
+p(start P cloudCover)psi(ndvi500 P height100 P distRoad),20.88,0,7,85.56,0,0
+p(start P cloudCover)psi(ndvi500 P ele P height100 P distRoad),20.89,0,8,83.43,0,0
+p(cloudCover)psi(disturb500 P water P height100),20.91,0,6,87.72,0,0
+p(start P cloudCover)psi(ndvi500 P und P ele P height100 P distRoad),20.97,0,9,81.35,0,0
+p(cloudCover)psi(water P height100),21.03,0,5,89.95,0,0
+p(cloudCover)psi(forest1000 P water P height100),21.06,0,6,87.87,0,1
+p()psi(ndvi500 P water P height100),21.15,0,5,90.06,0,0
+p()psi(ndvi500 P water),21.2,0,4,92.2,4.35,0
+p(start P cloudCover)psi(forest1000 P water),21.23,0,6,88.04,1.94,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P height100),21.32,0,7,86,5.25,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P height100 P distRoad),21.36,0,9,81.74,2.04,0
+p(start P cloudCover)psi(disturb500 P und P water P ele P distRoad),21.4,0,9,81.78,4.12,0
+p(cloudCover)psi(forest1000 P ndvi500 P height100),21.44,0,6,88.25,4.01,1
+p(cloudCover)psi(ndvi500 P water P height100 P distRoad),21.47,0,7,86.15,0,0
+p(cloudCover)psi(disturb500 P und P water P ele P distRoad),21.49,0,8,84.03,2.72,0
+p(start P cloudCover)psi(ndvi500 P height100),21.56,0,6,88.37,1.48,0
+p(start)psi(ndvi500 P water),21.57,0,5,90.48,5.35,0
+p(start)psi(forest1000 P ndvi500 P water),21.57,0,6,88.38,4.94,1
+p(start P cloudCover)psi(ndvi500 P und P water P height100 P distRoad),21.58,0,9,81.96,2.02,0
+p(start P cloudCover)psi(water P height100),21.7,0,6,88.5,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P water),21.83,0,6,88.64,0,0
+p(start P cloudCover)psi(ndvi500 P water P height100 P distRoad),21.85,0,8,84.39,0,0
+p(start P cloudCover)psi(forest1000 P water P height100),22.21,0,7,86.89,5.65,1
+p(start)psi(ndvi500 P water P height100),22.26,0,6,89.06,0,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P water),22.38,0,7,87.06,5.74,0
+p(start P cloudCover)psi(forest1000 P ndvi500 P und P water P height100 P distRoad),22.38,0,10,80.58,2.57,0
+p(start P cloudCover)psi(ndvi500 P water),22.75,0,6,89.56,2.85,0
+p(start)psi(forest1000 P ndvi500 P water P height100),22.77,0,7,87.46,0.82,0
+p(cloudCover)psi(ndvi500 P water),22.86,0,5,91.78,4.69,0
+p(cloudCover)psi(ndvi500 P water P height100),22.9,0,6,89.71,0,0
+p(cloudCover)psi(forest1000 P ndvi500 P water P height100),23.18,0,7,87.86,1.7,1
+p(start P cloudCover)psi(forest1000 P ndvi500 P water P height100),23.29,0,8,85.83,5.97,1
+p(start P cloudCover)psi(ndvi500 P water P height100),23.64,0,7,88.32,0,0
+p()psi(disturb500 P forest1000 P ndvi500 P und P height100 P distRoad),29.6,0,8,92.14,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P height100 P distRoad),31.77,0,9,92.14,0,0
+p()psi(disturb500 P forest1000 P ndvi500 P und P ele P height100 P distRoad),31.77,0,9,92.14,0,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),33.95,0,10,92.14,0,1

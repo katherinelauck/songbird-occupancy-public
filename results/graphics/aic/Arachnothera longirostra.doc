@@ -1,0 +1,13 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(start P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele)</td><td>0</td><td>0.115</td><td>10</td><td>726.750</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">2</td><td>p(start P cloudCover)psi(disturb100 P forest1000 P water P ele)</td><td>0.450</td><td>0.092</td><td>8</td><td>731.550</td><td>4.970</td><td>1</td></tr>
+<tr><td style="text-align:left">3</td><td>p(start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele)</td><td>1.540</td><td>0.053</td><td>9</td><td>730.480</td><td>2.170</td><td>1</td></tr>
+<tr><td style="text-align:left">4</td><td>p(start)psi(disturb100 P forest1000 P water P ele P height100 P distRoad)</td><td>1.540</td><td>0.053</td><td>9</td><td>730.480</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">5</td><td>p(start)psi(disturb100 P forest1000 P water P ele)</td><td>1.940</td><td>0.044</td><td>7</td><td>735.190</td><td>0.780</td><td>1</td></tr>
+<tr><td style="text-align:left">6</td><td>p(start P cloudCover)psi(disturb100 P forest1000 P und P water P ele P height100 P distRoad)</td><td>2.200</td><td>0.038</td><td>11</td><td>726.750</td><td>4.360</td><td>1</td></tr>
+<tr><td style="text-align:left">7</td><td>p(start P cloudCover)psi(disturb100 P forest1000 P ndvi500 P water P ele)</td><td>2.620</td><td>0.031</td><td>9</td><td>731.550</td><td>1.830</td><td>0</td></tr>
+<tr><td style="text-align:left">8</td><td>p(start P cloudCover)psi(disturb100 P forest1000 P und P water P ele)</td><td>2.620</td><td>0.031</td><td>9</td><td>731.550</td><td>3.940</td><td>1</td></tr>
+<tr><td style="text-align:left">9</td><td>p(start P cloudCover)psi(disturb100 P forest1000 P water P ele P height100)</td><td>2.620</td><td>0.031</td><td>9</td><td>731.550</td><td>3.180</td><td>1</td></tr>
+<tr><td style="text-align:left">10</td><td>p(start P cloudCover)psi(disturb100 P forest1000 P water P ele P distRoad)</td><td>2.620</td><td>0.031</td><td>9</td><td>731.550</td><td>0</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

@@ -1,0 +1,3 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele P height500 P distRoad),0,0.957,11,365.57,5.55,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele P height100 P distRoad),6.19,0.043,11,371.77,0,1

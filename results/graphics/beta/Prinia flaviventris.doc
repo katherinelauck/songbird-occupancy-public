@@ -1,0 +1,12 @@
+
+<table style="text-align:center"><tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.disturb500</td><td>psi.forest500</td><td>psi.ndvi500</td><td>psi.height100</td><td>psi.ele</td><td>psi.water</td><td>psi.und</td><td>psi.distRoad</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest500 P ndvi500 P height100)</td><td>0.24 ± 0.02</td><td>-45916.99 ± 19.87</td><td>-9509.4 ± 21.9</td><td>10012.13 ± 8.74</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(forest500 P ndvi500)</td><td></td><td>-24342.36 ± 14.62</td><td>-3990.37 ± NA</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest500 P ele)</td><td>46527.06 ± NA</td><td>-59239.19 ± 28.84</td><td></td><td></td><td>-26724.18 ± 52.89</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest500 P ndvi500)</td><td>2269.84 ± NA</td><td>-13105.81 ± NA</td><td>-2156.66 ± NA</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest500 P water P ele)</td><td>13478.14 ± NA</td><td>-25003.62 ± 10.6</td><td></td><td></td><td>-10930.01 ± 0</td><td>-1185.41 ± 184280833.97</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest500 P und P ele)</td><td>16075.14 ± NA</td><td>-8491.15 ± NA</td><td></td><td></td><td>-4763.28 ± NA</td><td></td><td>-4113.56 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(forest500 P ndvi500 P und)</td><td></td><td>-4398.7 ± 13.15</td><td>-917.51 ± NA</td><td></td><td></td><td></td><td>-8157.79 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(distRoad)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-4.83 ± 2.29</td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(height100 P distRoad)</td><td></td><td></td><td></td><td>4.04 ± 3.78</td><td></td><td></td><td></td><td>-5.05 ± 2.23</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

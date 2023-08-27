@@ -1,0 +1,65 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),0,0.1762,9,253.37,0,1
+p(SURVEY)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),1.79,0.072,12,248.55,0,0
+p(start)psi(disturb500 P forest100 P ndvi100 P und P water P ele),1.97,0.0659,9,255.34,5.05,1
+p(SURVEY P start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),2.2,0.0587,13,246.72,0,1
+p(SURVEY)psi(disturb100 P forest100 P ndvi500 P und P water P ele),2.49,0.0507,12,249.26,5.05,1
+p(SURVEY)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),2.56,0.0491,12,249.32,3.65,1
+p()psi(disturb100 P forest500 P ndvi500 P und P water P ele),2.65,0.0468,8,258.18,1.88,0
+p()psi(disturb100 P forest1000 P ndvi500 P und P water P ele),2.65,0.0468,8,258.18,3.74,1
+p(start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),2.7,0.0456,9,256.07,5.45,1
+p(SURVEY P start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),2.82,0.0431,13,247.34,5.53,1
+p(SURVEY)psi(disturb100 P forest500 P ndvi500 P und P water P ele),3.02,0.039,12,249.78,0,1
+p(SURVEY P start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),3.52,0.0303,13,248.04,5.35,0
+p()psi(disturb100 P forest1500 P ndvi500 P und P water P ele),3.55,0.0299,8,259.08,4.39,1
+p()psi(disturb500 P forest500 P ndvi100 P und P water P ele),3.85,0.0258,8,259.38,2.72,1
+p()psi(disturb100 P forest100 P ndvi500 P und P water P ele),3.85,0.0258,8,259.38,0,1
+p(SURVEY P start)psi(disturb500 P forest500 P ndvi100 P und P water P ele),4.38,0.0197,13,248.9,-0.73,1
+p(SURVEY P start)psi(disturb100 P forest100 P ndvi500 P und P water P ele),4.54,0.0182,13,249.07,2.48,1
+p(SURVEY P start)psi(disturb500 P forest100 P ndvi500 P und P water P ele),4.7,0.0168,13,249.22,0,1
+p(start)psi(disturb500 P forest500 P ndvi100 P und P water P ele),4.82,0.0158,9,258.19,2.07,1
+p(SURVEY P start)psi(disturb100 P forest500 P ndvi500 P und P water P ele),4.85,0.0156,13,249.37,2.18,1
+p(start)psi(disturb500 P forest100 P ndvi500 P und P water P ele),5.81,0.0096,9,259.18,4.25,1
+p(start)psi(disturb100 P forest100 P ndvi500 P und P water P ele),5.99,0.0088,9,259.36,5.45,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),5.99,0.0088,9,259.36,0,1
+p(start)psi(disturb100 P forest500 P ndvi500 P und P water P ele),6.07,0.0085,9,259.44,3.74,1
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),7.28,0.0046,13,251.8,5.7,1
+p()psi(disturb500 P forest100 P ndvi500 P und P water P ele),7.46,0.0042,8,262.99,1.39,1
+p(SURVEY)psi(disturb500 P forest100 P ndvi500 P und P water P ele),7.65,0.0038,12,254.41,5.6,1
+p(start)psi(disturb500 P forest500 P ndvi500 P und P water P ele),7.87,0.0035,9,261.23,3.49,1
+p()psi(disturb500 P forest1500 P ndvi500 P und P water P ele),8.16,0.003,8,263.69,4.32,1
+p()psi(disturb500 P forest500 P ndvi500 P und P water P ele),8.16,0.003,8,263.69,5.27,1
+p(SURVEY P start)psi(disturb500 P forest500 P ndvi500 P und P water P ele),8.21,0.0029,13,252.74,5.62,1
+p(SURVEY)psi(disturb500 P forest500 P ndvi500 P und P water P ele),8.36,0.0027,12,255.12,4.78,1
+p()psi(disturb100 P forest500 P ndvi100 P und P water P ele),8.72,0.0023,8,264.25,5.88,1
+p(start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),8.74,0.0022,9,262.11,3.49,1
+p(SURVEY P start)psi(disturb100 P forest100 P ndvi100 P und P water P ele),8.76,0.0022,13,253.28,0,1
+p(SURVEY P start)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),8.76,0.0022,13,253.28,0,1
+p(SURVEY)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),8.82,0.0021,12,255.58,5.47,1
+p(SURVEY)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),8.82,0.0021,12,255.58,0,1
+p(SURVEY)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),8.82,0.0021,12,255.58,5.84,1
+p(SURVEY)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),8.82,0.0021,12,255.58,5.59,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele),8.85,0.0021,8,264.39,3.17,1
+p(SURVEY)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),9.06,0.0019,12,255.82,5.32,1
+p(start)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),9.35,0.0016,9,262.72,0,1
+p(start)psi(disturb100 P forest500 P ndvi100 P und P water P ele),9.35,0.0016,9,262.72,0,1
+p()psi(disturb100 P forest100 P ndvi100 P und P water P ele),10.09,0.0011,8,265.62,0,1
+p()psi(disturb500 P forest100 P ndvi100 P und P water P ele),10.09,0.0011,8,265.62,0,1
+p()psi(disturb100 P forest1500 P ndvi100 P und P water P ele),10.09,0.0011,8,265.62,0,0
+p()psi(disturb500 P forest1500 P ndvi100 P und P water P ele),10.09,0.0011,8,265.62,0,1
+p()psi(disturb100 P forest1000 P ndvi100 P und P water P ele),10.09,0.0011,8,265.62,0,1
+p()psi(disturb500 P forest1000 P ndvi100 P und P water P ele),10.09,0.0011,8,265.62,0,1
+p(SURVEY)psi(disturb100 P forest100 P ndvi100 P und P water P ele),10.2,0.0011,12,256.96,5.75,0
+p(SURVEY)psi(disturb500 P forest100 P ndvi100 P und P water P ele),10.2,0.0011,12,256.96,0,1
+p(SURVEY)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),10.2,0.0011,12,256.96,4.72,0
+p(SURVEY)psi(disturb100 P forest500 P ndvi100 P und P water P ele),10.2,0.0011,12,256.96,0,1
+p(SURVEY)psi(disturb500 P forest500 P ndvi100 P und P water P ele),10.2,0.0011,12,256.96,0,0
+p(SURVEY P start)psi(disturb500 P forest100 P ndvi100 P und P water P ele),10.41,0.001,13,254.93,5.53,0
+p(SURVEY P start)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),10.41,0.001,13,254.93,0,0
+p(SURVEY P start)psi(disturb100 P forest500 P ndvi100 P und P water P ele),10.41,0.001,13,254.93,0,0
+p(SURVEY P start)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),10.41,0.001,13,254.93,0,0
+p(SURVEY P start)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),10.41,0.001,13,254.93,0,0
+p(start)psi(disturb100 P forest100 P ndvi100 P und P water P ele),10.93,7e-04,9,264.3,0,1
+p(start)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),10.93,7e-04,9,264.3,0,1
+p(start)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),10.93,7e-04,9,264.3,0,0
+p(start)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),10.93,7e-04,9,264.3,0,1

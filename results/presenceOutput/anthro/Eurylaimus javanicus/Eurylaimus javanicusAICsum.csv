@@ -1,0 +1,9 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height500 P distRoad),0,0.3867,10,255.88,0,1
+p(SURVEY)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height500 P distRoad),0.21,0.3483,14,247.17,0,1
+p(SURVEY P start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height500 P distRoad),1.6,0.174,15,246.27,0,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height500 P distRoad),3.34,0.0729,11,257.02,1.66,1
+p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),8.5,0.0055,10,264.39,0,1
+p(SURVEY)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),8.86,0.0046,14,255.82,5.77,1
+p(SURVEY P start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),8.98,0.0043,15,253.65,5.48,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),9.29,0.0037,11,262.97,1.6,1

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20181219</CreaDate><CreaTime>15055900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20181219" Time="150559">RasterCalculator ""MEAN_NDVI_2017_2018.tif" * (.001)" C:\Users\slcarrol\Desktop\Indonesia_project\AVG_NDVI_SCALED.tif</Process></lineage></DataProperties></Esri></metadata>

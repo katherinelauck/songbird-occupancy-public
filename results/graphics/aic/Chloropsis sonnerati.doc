@@ -1,0 +1,27 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(SURVEY)psi(forest1000 P ele)</td><td>0</td><td>0.041</td><td>8</td><td>86.010</td><td>4</td><td>0</td></tr>
+<tr><td style="text-align:left">2</td><td>p(SURVEY)psi(disturb100 P forest1000 P ele P distRoad)</td><td>1.360</td><td>0.020</td><td>10</td><td>83.020</td><td>1.420</td><td>1</td></tr>
+<tr><td style="text-align:left">3</td><td>p(SURVEY)psi(forest1000 P water P ele)</td><td>1.450</td><td>0.020</td><td>9</td><td>85.300</td><td>4.990</td><td>0</td></tr>
+<tr><td style="text-align:left">4</td><td>p(SURVEY)psi(forest1000 P ele P distRoad)</td><td>1.450</td><td>0.020</td><td>9</td><td>85.300</td><td>3.740</td><td>1</td></tr>
+<tr><td style="text-align:left">5</td><td>p(SURVEY)psi(water P ele P height100)</td><td>1.780</td><td>0.017</td><td>9</td><td>85.620</td><td>5.520</td><td>1</td></tr>
+<tr><td style="text-align:left">6</td><td>p(SURVEY)psi(forest1000 P ele P height100 P distRoad)</td><td>1.790</td><td>0.016</td><td>10</td><td>83.460</td><td>5.690</td><td>1</td></tr>
+<tr><td style="text-align:left">7</td><td>p(SURVEY)psi(forest1000 P ele P height100)</td><td>1.840</td><td>0.016</td><td>9</td><td>85.690</td><td>3.820</td><td>0</td></tr>
+<tr><td style="text-align:left">8</td><td>p(SURVEY)psi(ele P height100)</td><td>1.850</td><td>0.016</td><td>8</td><td>87.860</td><td>1.440</td><td>1</td></tr>
+<tr><td style="text-align:left">9</td><td>p(SURVEY)psi(ele)</td><td>1.900</td><td>0.016</td><td>7</td><td>90.050</td><td>5.100</td><td>0</td></tr>
+<tr><td style="text-align:left">10</td><td>p()psi(disturb100 P forest1000 P ele P distRoad)</td><td>2.010</td><td>0.015</td><td>6</td><td>92.290</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">11</td><td>p(SURVEY)psi(ele P height100 P distRoad)</td><td>2.130</td><td>0.014</td><td>9</td><td>85.980</td><td>4.130</td><td>1</td></tr>
+<tr><td style="text-align:left">12</td><td>p(SURVEY)psi(forest1000 P ndvi500 P water P ele)</td><td>2.150</td><td>0.014</td><td>10</td><td>83.810</td><td>3.350</td><td>1</td></tr>
+<tr><td style="text-align:left">13</td><td>p(SURVEY)psi(forest1000)</td><td>2.160</td><td>0.014</td><td>7</td><td>90.310</td><td>3.860</td><td>1</td></tr>
+<tr><td style="text-align:left">14</td><td>p()psi(forest1000 P ele)</td><td>2.190</td><td>0.014</td><td>4</td><td>96.660</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">15</td><td>p(SURVEY)psi(ele P distRoad)</td><td>2.230</td><td>0.013</td><td>8</td><td>88.230</td><td>4.080</td><td>1</td></tr>
+<tr><td style="text-align:left">16</td><td>p(SURVEY)psi(disturb100 P forest1000 P ele P height100 P distRoad)</td><td>2.370</td><td>0.012</td><td>11</td><td>81.830</td><td>4.900</td><td>1</td></tr>
+<tr><td style="text-align:left">17</td><td>p(SURVEY)psi(ndvi500 P water P ele)</td><td>2.410</td><td>0.012</td><td>9</td><td>86.260</td><td>6</td><td>1</td></tr>
+<tr><td style="text-align:left">18</td><td>p(SURVEY)psi(water P ele)</td><td>2.540</td><td>0.011</td><td>8</td><td>88.550</td><td>5.370</td><td>1</td></tr>
+<tr><td style="text-align:left">19</td><td>p(SURVEY)psi(disturb100 P ele P distRoad)</td><td>2.790</td><td>0.010</td><td>9</td><td>86.630</td><td>3.430</td><td>0</td></tr>
+<tr><td style="text-align:left">20</td><td>p(SURVEY)psi(forest1000 P ndvi500 P water P ele P height100)</td><td>2.790</td><td>0.010</td><td>11</td><td>82.250</td><td>4.700</td><td>1</td></tr>
+<tr><td style="text-align:left">21</td><td>p(SURVEY)psi(disturb100 P forest1000 P ele)</td><td>2.850</td><td>0.010</td><td>9</td><td>86.690</td><td>5.950</td><td>1</td></tr>
+<tr><td style="text-align:left">22</td><td>p(SURVEY)psi(forest1000 P ndvi500 P ele)</td><td>2.850</td><td>0.010</td><td>9</td><td>86.690</td><td>3.900</td><td>1</td></tr>
+<tr><td style="text-align:left">23</td><td>p()psi(forest1000 P ele P distRoad)</td><td>2.890</td><td>0.010</td><td>5</td><td>95.270</td><td>3.680</td><td>1</td></tr>
+<tr><td style="text-align:left">24</td><td>p(SURVEY)psi(disturb100 P forest1000 P ndvi500 P ele)</td><td>2.900</td><td>0.010</td><td>10</td><td>84.560</td><td>5.950</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

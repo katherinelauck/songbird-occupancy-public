@@ -1,0 +1,5 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>Psi</td><td>psi.disturb100</td><td>psi.ndvi500</td><td>psi.water</td><td>psi.ele</td><td>psi.height100</td><td>psi.distRoad</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(SURVEY P observer1 P start)psi(disturb100 P ndvi500 P water P ele P height100 P distRoad)</td><td>0.944680851063985 ± 0.961702127659275</td><td>30614.55 ± 25.64</td><td>13573.18 ± 8.17</td><td>-16833.1 ± 22.56</td><td>-33880.22 ± 16.57</td><td>10424.37 ± 5.27</td><td>-38905.84 ± 19</td></tr>
+<tr><td style="text-align:left">p(SURVEY P observer1 P start)psi(disturb100 P ndvi500 P ele P distRoad)</td><td>0.229090090363653 ± 0.192324058223312</td><td>-4808.54 ± 513.65</td><td>-6193.49 ± 2.01</td><td></td><td>-6228.85 ± NA</td><td></td><td>2660.73 ± NA</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

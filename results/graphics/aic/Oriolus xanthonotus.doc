@@ -1,0 +1,7 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(start)psi(disturb100 P forest1500 P ndvi500 P water)</td><td>0</td><td>0.283</td><td>7</td><td>451.840</td><td>3.500</td><td>1</td></tr>
+<tr><td style="text-align:left">2</td><td>p(start)psi(disturb100 P forest1500 P ndvi500 P water P ele)</td><td>1.920</td><td>0.108</td><td>8</td><td>451.620</td><td>3.470</td><td>1</td></tr>
+<tr><td style="text-align:left">3</td><td>p(start)psi(disturb100 P forest1500 P ndvi500 P water P height100)</td><td>2.140</td><td>0.097</td><td>8</td><td>451.840</td><td>4.030</td><td>1</td></tr>
+<tr><td style="text-align:left">4</td><td>p(start)psi(disturb100 P forest1500 P ndvi500 P water P distRoad)</td><td>2.670</td><td>0.074</td><td>8</td><td>452.370</td><td>5.050</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

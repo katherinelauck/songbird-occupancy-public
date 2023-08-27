@@ -1,0 +1,11 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.forest100</td><td>psi.water</td><td>psi.ele</td><td>psi.disturb100</td><td>psi.und</td><td>psi.distRoad</td><td>psi.ndvi500</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(observer1 P start P cloudCover)psi(forest100 P water P ele)</td><td>-1426.93 ± NA</td><td>-1818.74 ± 10</td><td>8413.86 ± NA</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(observer1 P start P cloudCover)psi(disturb100 P forest100 P water P ele)</td><td>-1414.02 ± 1.24</td><td>-2023.17 ± NA</td><td>8873.68 ± 8.94</td><td>-2296.76 ± 813.05</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(observer1 P start P cloudCover)psi(forest100 P und P water P ele)</td><td>-2397.78 ± NA</td><td>-3978.8 ± NA</td><td>15912.07 ± NA</td><td></td><td>4308.56 ± NA</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(observer1 P start P cloudCover)psi(forest100 P water P ele P distRoad)</td><td>-1137.15 ± NA</td><td>-1587.65 ± NA</td><td>6857.76 ± NA</td><td></td><td></td><td>79.76 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(observer1 P start P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele)</td><td>-1921.08 ± 0.06</td><td>-1175.85 ± NA</td><td>7435.59 ± NA</td><td>-1622.44 ± NA</td><td>3208.23 ± 0.07</td><td></td><td>-1965.21 ± NA</td></tr>
+<tr><td style="text-align:left">p(start P cloudCover)psi(forest100 P water P ele)</td><td>-26056.86 ± 15.32</td><td>-18071.66 ± NA</td><td>106776.99 ± 63.93</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele)</td><td>-1537.34 ± 7.59</td><td>-830.96 ± NA</td><td>5910.81 ± NA</td><td>-1120.48 ± NA</td><td>2790.49 ± 0.77</td><td></td><td>-1903.3 ± 5.01</td></tr>
+<tr><td style="text-align:left">p(start P cloudCover)psi(forest100 P ndvi500 P und P water P ele P distRoad)</td><td>-1531.64 ± NA</td><td>-1946.58 ± NA</td><td>7315.32 ± NA</td><td></td><td>3314.13 ± 0</td><td>165.66 ± NA</td><td>-1024.68 ± NA</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

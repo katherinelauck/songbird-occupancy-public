@@ -1,0 +1,9 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.disturb100</td><td>psi.forest500</td><td>psi.ele</td><td>psi.und</td><td>psi.water</td><td>psi.height500</td><td>psi.distRoad</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(start P cloudCover)psi(disturb100 P forest500 P ele)</td><td>-92623.68 ± NA</td><td>-35909.91 ± 34.15</td><td>-10116.19 ± NA</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start P cloudCover)psi(disturb100 P forest500 P und P water P ele P height500)</td><td>-106204.69 ± NA</td><td>-12360.34 ± 6.68</td><td>-5130.11 ± NA</td><td>-7259.28 ± 3.63</td><td>-8614.18 ± 16.14</td><td>-901.35 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(observer1 P start P cloudCover)psi(disturb100 P forest500 P und P water P ele P height500)</td><td>-72010.01 ± NA</td><td>-8999.93 ± NA</td><td>-3709.89 ± NA</td><td>-5298.42 ± NA</td><td>-6264.71 ± NA</td><td>-649.9 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(start P cloudCover)psi(disturb100 P forest500 P und P height500 P distRoad)</td><td>-132284.65 ± 38440875690.55</td><td>-23554.14 ± 14.74</td><td></td><td>-6597.64 ± 8.98</td><td></td><td>-31.56 ± NA</td><td>1340.25 ± 2.82</td></tr>
+<tr><td style="text-align:left">p(start P cloudCover)psi(disturb100 P forest500 P und P ele)</td><td>-58846.41 ± 12091854114.95</td><td>-23414.03 ± 21.91</td><td>-5730.04 ± NA</td><td>-5141.96 ± 0.19</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start P cloudCover)psi(disturb100 P forest500 P ele P height500)</td><td>-38100.56 ± NA</td><td>-9951.35 ± 8.45</td><td>-2791.81 ± 28.86</td><td></td><td></td><td>-4.3 ± NA</td><td></td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

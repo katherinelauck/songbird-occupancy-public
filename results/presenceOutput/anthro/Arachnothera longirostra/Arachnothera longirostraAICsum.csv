@@ -1,0 +1,5 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(start P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),0,0.492,12,726.75,2.2,1
+p(start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele P height100 P distRoad),1.5,0.232,11,730.48,0,1
+p(start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele P height500 P distRoad),1.5,0.232,11,730.48,4.75,1
+p(start P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele P height500 P distRoad),4.8,0.045,12,731.55,0,1

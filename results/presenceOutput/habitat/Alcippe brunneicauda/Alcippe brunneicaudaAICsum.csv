@@ -1,0 +1,17 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),0,0.1093,16,621.5,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest100 P ndvi500 P und P water P ele),0.016,0.1084,16,621.52,5.88,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),0.062,0.1059,16,621.56,4.7,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest100 P ndvi100 P und P water P ele),0.092,0.1044,16,621.59,4.93,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),0.146,0.1016,16,621.65,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),0.557,0.0827,16,622.06,5.74,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),0.822,0.0725,16,622.32,5.97,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),0.959,0.0676,16,622.46,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest100 P ndvi500 P und P water P ele),0.982,0.0669,16,622.48,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest100 P ndvi100 P und P water P ele),1.244,0.0587,16,622.75,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest500 P ndvi100 P und P water P ele),2.213,0.0361,16,623.72,5.52,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb500 P forest500 P ndvi500 P und P water P ele),2.363,0.0335,16,623.87,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),3.518,0.0188,16,625.02,4.37,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),3.714,0.0171,16,625.22,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest500 P ndvi500 P und P water P ele),5.103,0.0085,16,626.61,0,0
+p(SURVEY P observer1 P start P cloudCover)psi(disturb100 P forest500 P ndvi100 P und P water P ele),5.221,0.008,16,626.72,0,0

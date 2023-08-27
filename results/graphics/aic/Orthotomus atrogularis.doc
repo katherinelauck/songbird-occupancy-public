@@ -1,0 +1,38 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p()psi(disturb100 P forest1500 P ele)</td><td>0</td><td>0.040</td><td>5</td><td>126</td><td>4.750</td><td>0</td></tr>
+<tr><td style="text-align:left">2</td><td>p(start)psi(disturb100 P forest1500 P ele)</td><td>0.280</td><td>0.035</td><td>6</td><td>124.170</td><td>2.080</td><td>0</td></tr>
+<tr><td style="text-align:left">3</td><td>p()psi(disturb100 P water P ele)</td><td>0.530</td><td>0.031</td><td>5</td><td>126.530</td><td>4.310</td><td>1</td></tr>
+<tr><td style="text-align:left">4</td><td>p()psi(disturb100 P forest1500 P water P ele)</td><td>0.600</td><td>0.030</td><td>6</td><td>124.500</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">5</td><td>p(start)psi(disturb100 P forest1500 P water P ele)</td><td>0.770</td><td>0.027</td><td>7</td><td>122.540</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">6</td><td>p(cloudCover)psi(disturb100 P forest1500 P ele)</td><td>1.080</td><td>0.023</td><td>6</td><td>124.970</td><td>3.210</td><td>1</td></tr>
+<tr><td style="text-align:left">7</td><td>p(cloudCover)psi(disturb100 P water P ele)</td><td>1.170</td><td>0.022</td><td>6</td><td>125.060</td><td>3.710</td><td>1</td></tr>
+<tr><td style="text-align:left">8</td><td>p()psi(disturb100 P ndvi100 P water P ele)</td><td>1.290</td><td>0.021</td><td>6</td><td>125.190</td><td>4.350</td><td>1</td></tr>
+<tr><td style="text-align:left">9</td><td>p(start)psi(disturb100 P water P ele)</td><td>1.480</td><td>0.019</td><td>6</td><td>125.370</td><td>3.170</td><td>1</td></tr>
+<tr><td style="text-align:left">10</td><td>p(observer1 P cloudCover)psi(disturb100 P forest1500 P ele)</td><td>1.490</td><td>0.019</td><td>8</td><td>121.120</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">11</td><td>p(start)psi(disturb100 P forest1500 P water P ele P distRoad)</td><td>1.670</td><td>0.017</td><td>8</td><td>121.300</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">12</td><td>p(observer1 P cloudCover)psi(disturb100 P forest1500 P water P ele)</td><td>1.760</td><td>0.017</td><td>9</td><td>119.220</td><td>5.720</td><td>1</td></tr>
+<tr><td style="text-align:left">13</td><td>p()psi(disturb100 P forest1500 P ndvi100 P und P water P ele)</td><td>1.960</td><td>0.015</td><td>8</td><td>121.580</td><td>3.400</td><td>1</td></tr>
+<tr><td style="text-align:left">14</td><td>p()psi(disturb100 P forest1500 P und P ele)</td><td>1.970</td><td>0.015</td><td>6</td><td>125.870</td><td>0.980</td><td>1</td></tr>
+<tr><td style="text-align:left">15</td><td>p(observer1)psi(disturb100 P forest1500 P water P ele)</td><td>2.040</td><td>0.014</td><td>8</td><td>121.670</td><td>4.370</td><td>1</td></tr>
+<tr><td style="text-align:left">16</td><td>p(observer1)psi(disturb100 P forest1500 P water P ele P height100)</td><td>2.080</td><td>0.014</td><td>9</td><td>119.540</td><td>3.310</td><td>1</td></tr>
+<tr><td style="text-align:left">17</td><td>p(observer1)psi(disturb100 P forest1500 P water P ele P distRoad)</td><td>2.080</td><td>0.014</td><td>9</td><td>119.540</td><td>2.130</td><td>1</td></tr>
+<tr><td style="text-align:left">18</td><td>p()psi(disturb100 P forest1500 P ndvi100 P water P ele P distRoad)</td><td>2.110</td><td>0.014</td><td>8</td><td>121.730</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">19</td><td>p()psi(disturb100 P forest1500 P und P water P ele)</td><td>2.170</td><td>0.014</td><td>7</td><td>123.930</td><td>5.990</td><td>1</td></tr>
+<tr><td style="text-align:left">20</td><td>p()psi(disturb100 P forest1500 P water P ele P height100)</td><td>2.170</td><td>0.014</td><td>7</td><td>123.930</td><td>5.440</td><td>1</td></tr>
+<tr><td style="text-align:left">21</td><td>p()psi(disturb100 P ele)</td><td>2.180</td><td>0.014</td><td>4</td><td>130.270</td><td>3.580</td><td>0</td></tr>
+<tr><td style="text-align:left">22</td><td>p(cloudCover)psi(disturb100 P forest1500 P und P ele)</td><td>2.440</td><td>0.012</td><td>7</td><td>124.210</td><td>3.250</td><td>1</td></tr>
+<tr><td style="text-align:left">23</td><td>p(observer1 P cloudCover)psi(disturb100 P forest1500 P water P ele P height100)</td><td>2.540</td><td>0.011</td><td>10</td><td>117.820</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">24</td><td>p()psi(disturb100 P und P water P ele)</td><td>2.640</td><td>0.011</td><td>6</td><td>126.530</td><td>5.640</td><td>1</td></tr>
+<tr><td style="text-align:left">25</td><td>p(observer1)psi(disturb100 P forest1500 P und P water P ele)</td><td>2.660</td><td>0.011</td><td>9</td><td>120.130</td><td>5.290</td><td>1</td></tr>
+<tr><td style="text-align:left">26</td><td>p(observer1)psi(disturb100 P forest1500 P ele)</td><td>2.750</td><td>0.010</td><td>7</td><td>124.520</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">27</td><td>p()psi(disturb100 P forest1500 P ndvi100 P ele)</td><td>2.770</td><td>0.010</td><td>6</td><td>126.660</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">28</td><td>p(start)psi(disturb100 P forest1500 P und P ele)</td><td>2.790</td><td>0.010</td><td>7</td><td>124.560</td><td>4.910</td><td>1</td></tr>
+<tr><td style="text-align:left">29</td><td>p()psi(disturb100 P forest1500 P ndvi100 P water P ele P height100)</td><td>2.860</td><td>0.010</td><td>8</td><td>122.480</td><td>2.750</td><td>1</td></tr>
+<tr><td style="text-align:left">30</td><td>p()psi(disturb100 P forest1500 P und P water P ele P height100)</td><td>2.860</td><td>0.010</td><td>8</td><td>122.480</td><td>5.500</td><td>1</td></tr>
+<tr><td style="text-align:left">31</td><td>p()psi(disturb100 P forest1500 P und P water P ele P distRoad)</td><td>2.860</td><td>0.010</td><td>8</td><td>122.480</td><td>5.390</td><td>1</td></tr>
+<tr><td style="text-align:left">32</td><td>p()psi(disturb100 P forest1500 P ndvi100 P und P ele)</td><td>2.870</td><td>0.010</td><td>7</td><td>124.640</td><td>4.770</td><td>1</td></tr>
+<tr><td style="text-align:left">33</td><td>p()psi(disturb100 P forest1500 P ndvi100 P water P ele)</td><td>2.870</td><td>0.010</td><td>7</td><td>124.640</td><td>2.560</td><td>1</td></tr>
+<tr><td style="text-align:left">34</td><td>p(start)psi(disturb100 P forest1500 P water P ele P height100)</td><td>2.910</td><td>0.009</td><td>8</td><td>122.540</td><td>2.060</td><td>1</td></tr>
+<tr><td style="text-align:left">35</td><td>p(observer1)psi(disturb100 P water P ele)</td><td>2.970</td><td>0.009</td><td>7</td><td>124.740</td><td>1.800</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

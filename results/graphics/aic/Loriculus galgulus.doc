@@ -1,0 +1,49 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(observer1 P cloudCover)psi(und P ele P height100)</td><td>0</td><td>0.030</td><td>8</td><td>327.440</td><td>-0.060</td><td>0</td></tr>
+<tr><td style="text-align:left">2</td><td>p(observer1 P start P cloudCover)psi(disturb500 P und P ele P height100)</td><td>0.040</td><td>0.030</td><td>10</td><td>323.130</td><td>-0.610</td><td>1</td></tr>
+<tr><td style="text-align:left">3</td><td>p(observer1 P start P cloudCover)psi(forest1000 P ndvi100 P und P ele P distRoad)</td><td>0.660</td><td>0.022</td><td>11</td><td>321.550</td><td>3.390</td><td>1</td></tr>
+<tr><td style="text-align:left">4</td><td>p(observer1 P cloudCover)psi(forest1000 P und P water P ele P distRoad)</td><td>0.750</td><td>0.021</td><td>10</td><td>323.840</td><td>0.210</td><td>1</td></tr>
+<tr><td style="text-align:left">5</td><td>p(observer1 P start P cloudCover)psi(und P ele P height100 P distRoad)</td><td>0.960</td><td>0.019</td><td>10</td><td>324.060</td><td>1.290</td><td>1</td></tr>
+<tr><td style="text-align:left">6</td><td>p(observer1 P start P cloudCover)psi(disturb500 P und P ele)</td><td>0.960</td><td>0.019</td><td>9</td><td>326.240</td><td>0.410</td><td>1</td></tr>
+<tr><td style="text-align:left">7</td><td>p(observer1 P cloudCover)psi(forest1000 P und P ele P distRoad)</td><td>1.040</td><td>0.018</td><td>9</td><td>326.320</td><td>-0.080</td><td>1</td></tr>
+<tr><td style="text-align:left">8</td><td>p(observer1 P start P cloudCover)psi(disturb500 P ndvi100 P und P ele P height100)</td><td>1.090</td><td>0.018</td><td>11</td><td>321.980</td><td>0.670</td><td>1</td></tr>
+<tr><td style="text-align:left">9</td><td>p(observer1 P cloudCover)psi(ele P distRoad)</td><td>1.530</td><td>0.014</td><td>7</td><td>331.110</td><td>-0.290</td><td>1</td></tr>
+<tr><td style="text-align:left">10</td><td>p(observer1 P cloudCover)psi(forest1000 P und P ele P height100 P distRoad)</td><td>1.670</td><td>0.013</td><td>10</td><td>324.770</td><td>-0.280</td><td>1</td></tr>
+<tr><td style="text-align:left">11</td><td>p(observer1 P start P cloudCover)psi(disturb500 P ndvi100 P und P ele P height100 P distRoad)</td><td>1.690</td><td>0.013</td><td>12</td><td>320.360</td><td>0.720</td><td>1</td></tr>
+<tr><td style="text-align:left">12</td><td>p(observer1 P cloudCover)psi(und P ele P height100 P distRoad)</td><td>1.970</td><td>0.011</td><td>9</td><td>327.250</td><td>0.880</td><td>1</td></tr>
+<tr><td style="text-align:left">13</td><td>p(observer1 P start P cloudCover)psi(disturb500 P und P ele P distRoad)</td><td>2.040</td><td>0.011</td><td>10</td><td>325.140</td><td>0.430</td><td>1</td></tr>
+<tr><td style="text-align:left">14</td><td>p(observer1 P start P cloudCover)psi(forest1000 P und P ele P height100)</td><td>2.080</td><td>0.011</td><td>10</td><td>325.170</td><td>0.340</td><td>1</td></tr>
+<tr><td style="text-align:left">15</td><td>p(observer1 P start P cloudCover)psi(ndvi100 P und P ele P height100)</td><td>2.080</td><td>0.011</td><td>10</td><td>325.170</td><td>0.380</td><td>1</td></tr>
+<tr><td style="text-align:left">16</td><td>p(observer1 P start P cloudCover)psi(forest1000 P und P ele P distRoad)</td><td>2.130</td><td>0.010</td><td>10</td><td>325.220</td><td>-0.460</td><td>1</td></tr>
+<tr><td style="text-align:left">17</td><td>p(observer1 P cloudCover)psi(forest1000 P und P ele P height100)</td><td>2.160</td><td>0.010</td><td>9</td><td>327.440</td><td>1.300</td><td>1</td></tr>
+<tr><td style="text-align:left">18</td><td>p(observer1 P cloudCover)psi(und P water P ele P height100)</td><td>2.160</td><td>0.010</td><td>9</td><td>327.440</td><td>0.470</td><td>1</td></tr>
+<tr><td style="text-align:left">19</td><td>p(observer1 P cloudCover)psi(disturb500 P und P ele P height100)</td><td>2.160</td><td>0.010</td><td>9</td><td>327.440</td><td>0.310</td><td>1</td></tr>
+<tr><td style="text-align:left">20</td><td>p(observer1 P cloudCover)psi(ndvi100 P und P ele P height100)</td><td>2.160</td><td>0.010</td><td>9</td><td>327.440</td><td>0.460</td><td>1</td></tr>
+<tr><td style="text-align:left">21</td><td>p(observer1 P start P cloudCover)psi(forest1000 P und P water P ele P height100 P distRoad)</td><td>2.250</td><td>0.010</td><td>12</td><td>320.920</td><td>-0.180</td><td>1</td></tr>
+<tr><td style="text-align:left">22</td><td>p(observer1 P start P cloudCover)psi(disturb500 P ndvi100 P ele P height100 P distRoad)</td><td>2.260</td><td>0.010</td><td>11</td><td>323.150</td><td>-5.780</td><td>1</td></tr>
+<tr><td style="text-align:left">23</td><td>p(observer1 P start P cloudCover)psi(forest1000 P und P ele P height100 P distRoad)</td><td>2.260</td><td>0.010</td><td>11</td><td>323.150</td><td>0.580</td><td>1</td></tr>
+<tr><td style="text-align:left">24</td><td>p(observer1 P cloudCover)psi(forest1000 P ele P height100 P distRoad)</td><td>2.270</td><td>0.010</td><td>9</td><td>327.550</td><td>0.180</td><td>1</td></tr>
+<tr><td style="text-align:left">25</td><td>p(observer1 P cloudCover)psi(disturb500 P und P ele P height100 P distRoad)</td><td>2.310</td><td>0.010</td><td>10</td><td>325.400</td><td>0.530</td><td>1</td></tr>
+<tr><td style="text-align:left">26</td><td>p(observer1 P cloudCover)psi(ndvi100 P und P ele P height100 P distRoad)</td><td>2.310</td><td>0.010</td><td>10</td><td>325.400</td><td>0.540</td><td>0</td></tr>
+<tr><td style="text-align:left">27</td><td>p(observer1 P cloudCover)psi(und P water P ele P height100 P distRoad)</td><td>2.310</td><td>0.010</td><td>10</td><td>325.400</td><td>0.800</td><td>1</td></tr>
+<tr><td style="text-align:left">28</td><td>p(observer1 P cloudCover)psi(disturb500 P ndvi100 P und P ele P height100 P distRoad)</td><td>2.340</td><td>0.009</td><td>11</td><td>323.230</td><td>0.870</td><td>1</td></tr>
+<tr><td style="text-align:left">29</td><td>p(observer1 P start P cloudCover)psi(forest1000 P und P water P ele P distRoad)</td><td>2.370</td><td>0.009</td><td>11</td><td>323.260</td><td>1.130</td><td>1</td></tr>
+<tr><td style="text-align:left">30</td><td>p(observer1 P cloudCover)psi(disturb500 P forest1000 P und P ele P height100 P distRoad)</td><td>2.400</td><td>0.009</td><td>11</td><td>323.290</td><td>0.730</td><td>1</td></tr>
+<tr><td style="text-align:left">31</td><td>p(observer1 P cloudCover)psi(forest1000 P ele P distRoad)</td><td>2.440</td><td>0.009</td><td>8</td><td>329.880</td><td>-0.370</td><td>1</td></tr>
+<tr><td style="text-align:left">32</td><td>p(observer1 P start P cloudCover)psi(forest1000 P und P water P ele)</td><td>2.480</td><td>0.009</td><td>10</td><td>325.570</td><td>-0.220</td><td>1</td></tr>
+<tr><td style="text-align:left">33</td><td>p(observer1 P cloudCover)psi(disturb500 P und P water P ele P height100)</td><td>2.530</td><td>0.008</td><td>10</td><td>325.620</td><td>-1.940</td><td>1</td></tr>
+<tr><td style="text-align:left">34</td><td>p(observer1 P cloudCover)psi(disturb500 P ndvi100 P und P ele P height100)</td><td>2.560</td><td>0.008</td><td>10</td><td>325.650</td><td>-0.070</td><td>1</td></tr>
+<tr><td style="text-align:left">35</td><td>p(observer1 P start P cloudCover)psi(ele P height100 P distRoad)</td><td>2.560</td><td>0.008</td><td>9</td><td>327.830</td><td>-0.310</td><td>1</td></tr>
+<tr><td style="text-align:left">36</td><td>p(observer1 P start P cloudCover)psi(disturb500 P und P ele P height100 P distRoad)</td><td>2.570</td><td>0.008</td><td>11</td><td>323.460</td><td>-0.120</td><td>1</td></tr>
+<tr><td style="text-align:left">37</td><td>p(observer1 P start P cloudCover)psi(ndvi100 P und P ele P height100 P distRoad)</td><td>2.570</td><td>0.008</td><td>11</td><td>323.460</td><td>3.470</td><td>1</td></tr>
+<tr><td style="text-align:left">38</td><td>p(observer1 P start P cloudCover)psi(und P water P ele P height100 P distRoad)</td><td>2.570</td><td>0.008</td><td>11</td><td>323.460</td><td>1.070</td><td>1</td></tr>
+<tr><td style="text-align:left">39</td><td>p(observer1 P start P cloudCover)psi(ele P height100)</td><td>2.600</td><td>0.008</td><td>8</td><td>330.030</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">40</td><td>p(observer1 P start P cloudCover)psi(forest1000 P ele P distRoad)</td><td>2.630</td><td>0.008</td><td>9</td><td>327.910</td><td>0.200</td><td>1</td></tr>
+<tr><td style="text-align:left">41</td><td>p(observer1 P start P cloudCover)psi(und P ele P height100)</td><td>2.740</td><td>0.008</td><td>9</td><td>328.010</td><td>-0.180</td><td>1</td></tr>
+<tr><td style="text-align:left">42</td><td>p(observer1 P cloudCover)psi(ele P height100 P distRoad)</td><td>2.780</td><td>0.008</td><td>8</td><td>330.220</td><td>0.430</td><td>1</td></tr>
+<tr><td style="text-align:left">43</td><td>p(observer1 P start P cloudCover)psi(disturb500 P ndvi100 P water P ele P height100 P distRoad)</td><td>2.850</td><td>0.007</td><td>12</td><td>321.520</td><td>2.090</td><td>1</td></tr>
+<tr><td style="text-align:left">44</td><td>p(observer1 P start P cloudCover)psi(forest1000 P ele P height100)</td><td>2.930</td><td>0.007</td><td>9</td><td>328.210</td><td>0.280</td><td>0</td></tr>
+<tr><td style="text-align:left">45</td><td>p(observer1 P cloudCover)psi(disturb500 P ndvi100 P ele P height100 P distRoad)</td><td>2.940</td><td>0.007</td><td>10</td><td>326.040</td><td>0.620</td><td>1</td></tr>
+<tr><td style="text-align:left">46</td><td>p(observer1 P cloudCover)psi(forest1000 P ndvi100 P und P water P ele P distRoad)</td><td>2.950</td><td>0.007</td><td>11</td><td>323.840</td><td>0.440</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

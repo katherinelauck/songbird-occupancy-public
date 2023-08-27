@@ -1,0 +1,7 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.disturb100</td><td>psi.forest1500</td><td>psi.ndvi500</td><td>psi.water</td><td>psi.ele</td><td>psi.height100</td><td>psi.distRoad</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ndvi500 P water)</td><td>8459.59 ± NA</td><td>-5890.08 ± 27.05</td><td>12812.99 ± 29.45</td><td>-9347.97 ± 54.73</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ndvi500 P water P ele)</td><td>1275.45 ± 31831872.36</td><td>-1850.29 ± NA</td><td>3240.79 ± 0</td><td>-2606.56 ± NA</td><td>-588.38 ± 7616.7</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ndvi500 P water P height100)</td><td>3116.49 ± NA</td><td>-2074.12 ± NA</td><td>4603.21 ± NA</td><td>-3330.94 ± NA</td><td></td><td>652.37 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(start)psi(disturb100 P forest1500 P ndvi500 P water P distRoad)</td><td>913.6 ± 76722022.38</td><td>-1653.3 ± 0.68</td><td>2735.81 ± 0.18</td><td>-2221.14 ± NA</td><td></td><td></td><td>-631.67 ± 266.66</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

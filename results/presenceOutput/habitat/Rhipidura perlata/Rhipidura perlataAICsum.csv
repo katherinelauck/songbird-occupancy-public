@@ -1,0 +1,33 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(observer1 P start)psi(disturb500 P forest500 P ndvi500 P und P water P ele),0,0.1241,11,366.97,4,1
+p(observer1 P start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),0.32,0.1055,11,367.3,1.6,0
+p(observer1 P start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),0.5,0.0966,11,367.47,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),0.55,0.0943,9,371.91,0,0
+p(observer1 P start)psi(disturb100 P forest100 P ndvi500 P und P water P ele),0.65,0.0897,11,367.62,-1.42,0
+p(start)psi(disturb100 P forest1000 P ndvi500 P und P water P ele),0.68,0.0884,9,372.04,0,0
+p(observer1 P start)psi(disturb100 P forest500 P ndvi500 P und P water P ele),0.75,0.0852,11,367.73,0.67,0
+p(start)psi(disturb100 P forest100 P ndvi500 P und P water P ele),0.88,0.0798,9,372.24,0,0
+p(start)psi(disturb100 P forest500 P ndvi500 P und P water P ele),0.93,0.0778,9,372.29,-0.46,0
+p(start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),1.69,0.0534,9,373.04,5.22,1
+p(observer1 P start)psi(disturb500 P forest1500 P ndvi500 P und P water P ele),2.15,0.0423,11,369.12,1.29,1
+p(start)psi(disturb500 P forest500 P ndvi500 P und P water P ele),3.47,0.0218,9,374.83,0,1
+p(observer1 P start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),4.14,0.0156,11,371.11,3.82,1
+p(start)psi(disturb500 P forest100 P ndvi500 P und P water P ele),4.28,0.0146,9,375.64,4.05,1
+p(start)psi(disturb500 P forest1000 P ndvi500 P und P water P ele),6.45,0.0049,9,377.81,0,1
+p(observer1 P start)psi(disturb500 P forest100 P ndvi500 P und P water P ele),6.46,0.0049,11,373.43,0,1
+p(observer1 P start)psi(disturb100 P forest500 P ndvi100 P und P water P ele),12.68,2e-04,11,379.65,2.13,1
+p(observer1 P start)psi(disturb100 P forest100 P ndvi100 P und P water P ele),14.52,1e-04,11,381.49,2.36,1
+p(observer1 P start)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),14.52,1e-04,11,381.49,1.06,1
+p(observer1 P start)psi(disturb500 P forest500 P ndvi100 P und P water P ele),15.13,1e-04,11,382.1,1.09,1
+p(start)psi(disturb100 P forest100 P ndvi100 P und P water P ele),16.27,0,9,387.62,3.76,1
+p(start)psi(disturb500 P forest100 P ndvi100 P und P water P ele),16.27,0,9,387.62,4.55,1
+p(start)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),16.27,0,9,387.62,1.46,1
+p(start)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),16.27,0,9,387.62,0,1
+p(start)psi(disturb100 P forest500 P ndvi100 P und P water P ele),16.27,0,9,387.62,0,1
+p(start)psi(disturb500 P forest500 P ndvi100 P und P water P ele),16.27,0,9,387.62,2.99,1
+p(start)psi(disturb100 P forest1000 P ndvi100 P und P water P ele),16.27,0,9,387.62,4.07,1
+p(start)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),16.27,0,9,387.62,5.48,1
+p(observer1 P start)psi(disturb500 P forest100 P ndvi100 P und P water P ele),16.35,0,11,383.32,1.99,1
+p(observer1 P start)psi(disturb100 P forest1500 P ndvi100 P und P water P ele),16.35,0,11,383.32,3.11,1
+p(observer1 P start)psi(disturb500 P forest1500 P ndvi100 P und P water P ele),16.35,0,11,383.32,-3.29,1
+p(observer1 P start)psi(disturb500 P forest1000 P ndvi100 P und P water P ele),16.35,0,11,383.32,0.83,1

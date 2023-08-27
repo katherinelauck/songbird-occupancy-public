@@ -1,0 +1,257 @@
+Model,DAIC,wgt,npar,neg2ll,warn.conv,warn.VC
+p(start)psi(disturb100 P forest1500 P ndvi500 P water),0,0.2829,7,451.84,3.5,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P water P ele),1.92,0.1082,8,451.62,3.47,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P water P height100),2.14,0.0969,8,451.84,4.03,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P water P distRoad),2.67,0.0745,8,452.37,5.05,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water),3.09,0.0602,8,452.8,0,1
+p(start)psi(forest1500 P ndvi500 P water P height100 P distRoad),3.21,0.0567,8,452.91,1.44,1
+p(start)psi(forest1500 P ndvi500 P water P ele P height100),3.74,0.0435,8,453.45,4.33,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P water P ele P distRoad),3.85,0.0413,9,451.39,0,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P water P height100 P distRoad),4.83,0.0253,9,452.37,4.05,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P height100),5.62,0.017,9,453.16,4.37,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele),5.64,0.0169,9,453.17,3.63,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P water P ele P height100),5.64,0.0169,9,453.17,0,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P distRoad),5.73,0.0161,9,453.27,1.21,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele P distRoad),6.03,0.0139,10,451.39,0,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P water P ele P height100 P distRoad),6.03,0.0139,10,451.39,3.55,1
+p(start)psi(ndvi500 P water),6.87,0.0091,5,462.95,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P height100 P distRoad),7.01,0.0085,10,452.37,3.53,1
+p(start)psi(forest1500 P ndvi500 P water),7.3,0.0074,6,461.27,0,0
+p(start)psi(disturb100 P ndvi500 P water),7.48,0.0067,6,461.45,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele P height100),7.82,0.0057,10,453.17,4.49,1
+p(start)psi(forest1500 P ndvi500 P water P distRoad),8.1,0.0049,7,459.94,0,0
+p(start)psi(ndvi500 P water P distRoad),8.68,0.0037,6,462.65,0,0
+p(start)psi(ndvi500 P water P height100),8.73,0.0036,6,462.7,0,0
+p(start)psi(ndvi500 P water P ele),8.91,0.0033,6,462.88,0,0
+p(start)psi(forest1500 P ndvi500 P und P water),8.92,0.0033,7,460.77,0,0
+p(start)psi(ndvi500 P und P water),8.98,0.0032,6,462.94,5.71,0
+p(start)psi(disturb100 P ndvi500 P water P distRoad),9.07,0.003,7,460.91,0,0
+p(start)psi(forest1500 P ndvi500 P water P height100),9.18,0.0029,7,461.02,0,0
+p(start)psi(forest1500 P ndvi500 P water P ele),9.33,0.0027,7,461.18,0,0
+p(start)psi(disturb100 P ndvi500 P water P ele),9.56,0.0024,7,461.4,0,0
+p(start)psi(disturb100 P ndvi500 P water P height100),9.6,0.0023,7,461.44,5.77,0
+p(start)psi(disturb100 P ndvi500 P und P water),9.6,0.0023,7,461.45,4.58,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P water P ele P height100 P distRoad),10.02,0.0019,11,453.17,0,1
+p(start)psi(ndvi500 P water P height100 P distRoad),10.24,0.0017,7,462.08,0,0
+p(start)psi(forest1500 P ndvi500 P water P ele P distRoad),10.24,0.0017,8,459.94,5.16,0
+p(start)psi(forest1500 P ndvi500 P und P water P distRoad),10.76,0.0013,8,460.46,3.85,0
+p(start)psi(forest1500 P ndvi500 P und P water P height100),10.77,0.0013,8,460.47,0,0
+p(start)psi(ndvi500 P water P ele P height100),10.79,0.0013,7,462.64,0,0
+p(start)psi(ndvi500 P water P ele P distRoad),10.8,0.0013,7,462.64,5.31,0
+p(start)psi(ndvi500 P und P water P distRoad),10.8,0.0013,7,462.64,5.2,0
+p(start)psi(ndvi500 P und P water P height100),10.85,0.0012,7,462.7,0,0
+p(start)psi(disturb100 P ndvi500 P water P height100 P distRoad),11.01,0.0011,8,460.71,0,0
+p(start)psi(ndvi500 P und P water P ele),11.03,0.0011,7,462.88,5.68,0
+p(start)psi(forest1500 P ndvi500 P und P water P ele),11.06,0.0011,8,460.76,5.97,0
+p(start)psi(disturb100 P ndvi500 P water P ele P distRoad),11.2,0.001,8,460.9,0,0
+p(start)psi(disturb100 P ndvi500 P und P water P distRoad),11.2,0.001,8,460.9,0,0
+p(start)psi(forest1500 P ndvi500 P water P ele P height100 P distRoad),11.44,9e-04,9,458.98,0,0
+p(start)psi(forest1500 P ndvi500 P und P water P ele P height100 P distRoad),11.63,8e-04,10,456.99,0,0
+p(start)psi(disturb100 P ndvi500 P water P ele P height100),11.69,8e-04,8,461.39,0,0
+p(start)psi(disturb100 P ndvi500 P und P water P ele),11.7,8e-04,8,461.4,5.48,0
+p(start)psi(disturb100 P ndvi500 P und P water P height100),11.74,8e-04,8,461.44,5.46,0
+p(start)psi(und P water P height100 P distRoad),12.03,7e-04,7,463.87,0,1
+p(start)psi(water),12.16,6e-04,4,470.32,0,0
+p(start)psi(forest1500 P water),12.36,6e-04,5,468.44,0,0
+p(start)psi(ndvi500 P und P water P height100 P distRoad),12.37,6e-04,8,462.07,5.84,0
+p(start)psi(ndvi500 P water P ele P height100 P distRoad),12.37,6e-04,8,462.07,0,0
+p(start)psi(forest1500 P ndvi500 P und P water P height100 P distRoad),12.66,5e-04,9,460.2,0,0
+p(start)psi(forest1500 P ndvi500 P und P water P ele P height100),12.84,5e-04,9,460.38,0,0
+p(start)psi(forest1500 P ndvi500 P und P water P ele P distRoad),12.85,5e-04,9,460.39,5.77,0
+p(start)psi(ndvi500 P und P water P ele P height100),12.93,4e-04,8,462.63,5.5,0
+p(start)psi(ndvi500 P und P water P ele P distRoad),12.94,4e-04,8,462.64,5.29,0
+p(start)psi(disturb100 P ndvi500 P water P ele P height100 P distRoad),13.09,4e-04,9,460.63,0,0
+p(start)psi(disturb100 P ndvi500 P und P water P height100 P distRoad),13.16,4e-04,9,460.7,5.96,0
+p(start)psi(ndvi500),13.19,4e-04,4,471.35,0,0
+p(start)psi(water P distRoad),13.31,4e-04,5,469.38,0,0
+p(start)psi(disturb100 P ndvi500 P und P water P ele P distRoad),13.36,4e-04,9,460.89,0,0
+p(start)psi(disturb100 P water),13.38,4e-04,5,469.45,0,0
+p(start)psi(forest1500 P water P ele),13.43,3e-04,6,467.4,0,0
+p(start)psi(disturb100 P ndvi500),13.6,3e-04,5,469.67,0,0
+p(start)psi(disturb100 P ndvi500 P und P water P ele P height100),13.85,3e-04,9,461.39,0,0
+p(start)psi(forest1500 P und P water),14,3e-04,6,467.97,0,0
+p(start)psi(und P water),14.07,2e-04,5,470.14,0,0
+p(start)psi(water P ele),14.13,2e-04,5,470.21,0,0
+p(start)psi(forest1500 P water P height100),14.16,2e-04,6,468.12,0,1
+p(start)psi(water P height100),14.17,2e-04,5,470.24,0,0
+p(start)psi(forest1500 P und P water P height100 P distRoad),14.18,2e-04,8,463.88,5.81,0
+p(start)psi(disturb100 P forest1500 P water),14.32,2e-04,6,468.29,0,0
+p(start)psi(ndvi500 P height100),14.44,2e-04,5,470.52,0,0
+p(start)psi(ndvi500 P und P water P ele P height100 P distRoad),14.53,2e-04,9,462.07,5.76,0
+p(start)psi(forest1500 P ndvi500),14.68,2e-04,5,470.75,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500),14.89,2e-04,6,468.86,0,0
+p(start)psi(disturb100 P water P distRoad),14.9,2e-04,6,468.87,0,0
+p(start)psi(water P height100 P distRoad),14.91,2e-04,6,468.88,0,0
+p(start)psi(forest1500 P water P ele P height100),14.98,2e-04,7,466.83,0,1
+p(start)psi(water P ele P distRoad),15.02,2e-04,6,468.99,0,0
+p(start)psi(forest1500 P und P water P ele),15.03,2e-04,7,466.87,0,0
+p(start)psi(und P water P distRoad),15.09,1e-04,6,469.06,0,0
+p(start)psi(disturb100 P forest1500 P water P distRoad),15.16,1e-04,7,467.01,0,1
+p(start)psi(ndvi500 P distRoad),15.19,1e-04,5,471.26,0,0
+p(start)psi(ndvi500 P und),15.21,1e-04,5,471.29,0,0
+p(start)psi(disturb100 P und P water),15.21,1e-04,6,469.18,0,0
+p(start)psi(disturb100 P und P water P height100 P distRoad),15.23,1e-04,8,464.93,3.88,1
+p(start)psi(ndvi500 P ele),15.25,1e-04,5,471.33,0,0
+p(start)psi(disturb100 P ndvi500 P height100),15.27,1e-04,6,469.24,0,0
+p(start)psi(disturb100 P ndvi500 P und P water P ele P height100 P distRoad),15.27,1e-04,10,460.63,5.35,0
+p(start)psi(disturb100 P water P height100),15.28,1e-04,6,469.25,0,0
+p(start)psi(forest1500 P ndvi500 P height100),15.4,1e-04,6,469.37,0,0
+p(start)psi(forest1500 P water P distRoad),15.41,1e-04,6,469.38,0,0
+p(start)psi(disturb100 P ndvi500 P ele),15.44,1e-04,6,469.41,0,0
+p(start)psi(disturb100 P water P ele),15.48,1e-04,6,469.45,4.6,0
+p(start)psi(disturb100 P forest1500 P water P ele),15.53,1e-04,7,467.37,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P height100),15.59,1e-04,7,467.43,0,0
+p(start)psi(disturb100 P ndvi500 P distRoad),15.61,1e-04,6,469.58,0,0
+p(start)psi(disturb100 P ndvi500 P und),15.66,1e-04,6,469.63,0,0
+p(start)psi(disturb100 P forest1500 P und P water),15.83,1e-04,7,467.68,0,0
+p(start)psi(forest1500 P und P water P height100),15.84,1e-04,7,467.68,0,1
+p(start)psi(und P water P ele),16.04,1e-04,6,470.01,0,0
+p(start)psi(und P water P height100),16.11,1e-04,6,470.08,5.87,0
+p(start)psi(water P ele P height100),16.21,1e-04,6,470.18,0,0
+p(start)psi(disturb100 P forest1500 P water P height100),16.3,1e-04,7,468.14,0,1
+p(start)psi(disturb100 P forest1500 P und P water P height100 P distRoad),16.34,1e-04,9,463.88,5.76,1
+p(start)psi(disturb100 P und P water P ele P height100 P distRoad),16.35,1e-04,9,463.89,5.5,1
+p(start)psi(ndvi500 P und P height100),16.5,1e-04,6,470.47,0,0
+p(start)psi(disturb100 P water P height100 P distRoad),16.54,1e-04,7,468.38,0,0
+p(start)psi(ndvi500 P ele P height100),16.55,1e-04,6,470.52,5.09,0
+p(start)psi(ndvi500 P height100 P distRoad),16.55,1e-04,6,470.52,5.35,0
+p(start)psi(disturb100 P forest1500 P water P ele P distRoad),16.56,1e-04,8,466.27,0,1
+p(start)psi(forest1500 P und P water P ele P height100),16.6,1e-04,8,466.3,0,0
+p(start)psi(disturb100 P und P water P distRoad),16.62,1e-04,7,468.46,0,0
+p(start)psi(forest1500 P ndvi500 P ele),16.77,1e-04,6,470.74,0,0
+p(start)psi(forest1500 P ndvi500 P und),16.77,1e-04,6,470.74,5.76,0
+p(start)psi(forest1500 P ndvi500 P distRoad),16.78,1e-04,6,470.75,5.07,0
+p(start)psi(water P ele P height100 P distRoad),16.78,1e-04,7,468.62,0,0
+p(start)psi(und P water P ele P distRoad),16.81,1e-04,7,468.66,0,0
+p(start)psi(disturb100 P water P ele P distRoad),16.89,1e-04,7,468.73,0,0
+p(start)psi(disturb100 P forest1500 P und P water P distRoad),16.89,1e-04,8,466.59,0,1
+p(start)psi(disturb100 P forest1500 P ndvi500 P distRoad),16.96,1e-04,7,468.8,0,0
+p(start)psi(forest1500 P water P height100 P distRoad),17,1e-04,7,468.84,0,0
+p(start)psi(forest1500 P ndvi500 P ele P height100),17,1e-04,7,468.85,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P ele),17.01,1e-04,7,468.86,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und),17.01,1e-04,7,468.86,4.74,0
+p(start)psi(disturb100 P forest1500 P water P ele P height100),17.05,1e-04,8,466.75,0,1
+p(start)psi(forest1500 P water P ele P distRoad),17.12,1e-04,7,468.96,0,0
+p(start)psi(disturb100 P und P water P height100),17.15,1e-04,7,468.99,0,0
+p(start)psi(disturb100 P forest1500 P und P water P ele),17.16,1e-04,8,466.86,0,0
+p(start)psi(disturb100 P ndvi500 P ele P height100),17.19,1e-04,7,469.04,0,0
+p(start)psi(ndvi500 P und P distRoad),17.2,1e-04,6,471.17,0,0
+p(start)psi(forest1500 P und P water P distRoad),17.21,1e-04,7,469.05,5.75,0
+p(start)psi(ndvi500 P und P ele),17.26,1e-04,6,471.23,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P height100 P distRoad),17.29,0,8,466.99,0,0
+p(start)psi(ndvi500 P ele P distRoad),17.29,0,6,471.26,5.04,0
+p(start)psi(forest1500 P ndvi500 P height100 P distRoad),17.3,0,7,469.14,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P ele P height100),17.33,0,8,467.03,0,0
+p(start)psi(disturb100 P und P water P ele),17.33,0,7,469.17,0,0
+p(start)psi(disturb100 P ndvi500 P und P height100),17.37,0,7,469.21,0,0
+p(start)psi(disturb100 P ndvi500 P height100 P distRoad),17.38,0,7,469.23,0,0
+p(start)psi(disturb100 P water P ele P height100),17.39,0,7,469.23,0,0
+p(start)psi(disturb100 P ndvi500 P und P ele),17.43,0,7,469.27,0,0
+p(start)psi(forest1500 P ndvi500 P und P height100),17.52,0,7,469.37,5.94,0
+p(start)psi(disturb100 P ndvi500 P ele P distRoad),17.56,0,7,469.41,4.98,0
+p(start)psi(),17.65,0,3,477.89,0,0
+p(start)psi(disturb100 P ndvi500 P und P distRoad),17.68,0,7,469.53,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P height100),17.71,0,8,467.41,0,0
+p(start)psi(disturb100 P forest1500 P und P water P height100),17.81,0,8,467.52,0,1
+p(start)psi(und P water P ele P height100),18.15,0,7,469.99,5.29,0
+p(start)psi(disturb100 P forest1500 P und P water P ele P distRoad),18.23,0,9,465.77,0,0
+p(start)psi(und P water P ele P height100 P distRoad),18.56,0,8,468.26,0,0
+p(start)psi(ndvi500 P und P ele P height100),18.62,0,7,470.46,0,0
+p(start)psi(disturb100 P water P ele P height100 P distRoad),18.62,0,8,468.32,5.93,0
+p(start)psi(ndvi500 P und P height100 P distRoad),18.63,0,7,470.47,5.59,0
+p(start)psi(disturb100 P und P water P ele P distRoad),18.64,0,8,468.34,0,0
+p(start)psi(ndvi500 P ele P height100 P distRoad),18.68,0,7,470.52,5.07,0
+p(start)psi(disturb100 P forest1500 P water P height100 P distRoad),18.68,0,8,468.38,0,0
+p(start)psi(forest1500 P und P height100 P distRoad),18.7,0,7,470.54,4.97,1
+p(start)psi(disturb100 P forest1500 P und P water P ele P height100),18.73,0,9,466.27,0,0
+p(start)psi(forest1500 P ndvi500 P und P ele P height100),18.85,0,8,468.55,0,0
+p(start)psi(ele),18.85,0,4,477.02,0,0
+p(start)psi(forest1500 P ndvi500 P und P ele),18.89,0,7,470.73,5.37,0
+p(start)psi(forest1500 P ndvi500 P ele P distRoad),18.89,0,7,470.74,4.82,0
+p(start)psi(forest1500 P ndvi500 P und P distRoad),18.89,0,7,470.74,5.86,0
+p(start)psi(forest1500 P und P water P ele P distRoad),18.91,0,8,468.61,0,0
+p(start)psi(forest1500 P water P ele P height100 P distRoad),18.92,0,8,468.62,5.6,0
+p(start)psi(forest1500),18.96,0,4,477.13,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P ele P distRoad),19.09,0,8,468.79,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P distRoad),19.1,0,8,468.8,5.54,0
+p(start)psi(forest1500 P ndvi500 P ele P height100 P distRoad),19.14,0,8,468.84,0,0
+p(start)psi(disturb100),19.15,0,4,477.31,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P ele),19.15,0,8,468.86,5.8,0
+p(start)psi(disturb100 P ndvi500 P und P ele P height100),19.23,0,8,468.93,0,0
+p(start)psi(disturb100 P und P water P ele P height100),19.28,0,8,468.98,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P ele P height100),19.28,0,9,466.82,0,0
+p(start)psi(disturb100 P ndvi500 P ele P height100 P distRoad),19.31,0,8,469.01,0,0
+p(start)psi(ndvi500 P und P ele P distRoad),19.32,0,7,471.16,5.49,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P ele P height100 P distRoad),19.37,0,9,466.91,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P height100 P distRoad),19.4,0,9,466.94,0,0
+p(start)psi(forest1500 P ndvi500 P und P height100 P distRoad),19.44,0,8,469.14,5.72,0
+p(start)psi(disturb100 P ndvi500 P und P height100 P distRoad),19.5,0,8,469.2,5.44,0
+p(start)psi(distRoad),19.55,0,4,477.71,0,0
+p(start)psi(disturb100 P ndvi500 P und P ele P distRoad),19.57,0,8,469.27,4.23,0
+p(start)psi(und),19.6,0,4,477.76,4.55,0
+p(start)psi(height100),19.66,0,4,477.83,0,0
+p(start)psi(forest1500 P und P ele P height100 P distRoad),19.77,0,8,469.47,1.22,1
+p(start)psi(ele P distRoad),20.2,0,5,476.27,0,0
+p(start)psi(forest1500 P distRoad),20.46,0,5,476.54,0,0
+p(start)psi(disturb100 P forest1500),20.63,0,5,476.7,0,0
+p(start)psi(forest1500 P und P water P ele P height100 P distRoad),20.72,0,9,468.26,0,0
+p(start)psi(und P ele),20.74,0,5,476.82,0,0
+p(start)psi(ndvi500 P und P ele P height100 P distRoad),20.76,0,8,470.46,4.39,0
+p(start)psi(disturb100 P forest1500 P water P ele P height100 P distRoad),20.78,0,9,468.31,5.55,0
+p(start)psi(disturb100 P ele),20.79,0,5,476.87,0,0
+p(start)psi(forest1500 P ele),20.81,0,5,476.88,0,0
+p(start)psi(disturb100 P forest1500 P und P height100 P distRoad),20.84,0,8,470.54,-0.53,0
+p(start)psi(ele P height100),20.94,0,5,477.01,4.85,0
+p(start)psi(forest1500 P und),20.97,0,5,477.05,0,0
+p(start)psi(forest1500 P height100),21,0,5,477.07,5.72,0
+p(start)psi(forest1500 P ndvi500 P und P ele P height100 P distRoad),21,0,9,468.54,0,0
+p(start)psi(forest1500 P ndvi500 P und P ele P distRoad),21.03,0,8,470.73,4.18,0
+p(start)psi(disturb100 P height100),21.07,0,5,477.15,0,0
+p(start)psi(disturb100 P und),21.08,0,5,477.15,4.87,0
+p(start)psi(disturb100 P distRoad),21.18,0,5,477.25,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P ele P distRoad),21.26,0,9,468.79,4.33,0
+p(start)psi(disturb100 P ndvi500 P und P ele P height100 P distRoad),21.36,0,9,468.9,0,0
+p(start)psi(disturb100 P forest1500 P ndvi500 P und P ele P height100 P distRoad),21.42,0,10,466.78,0,0
+p(start)psi(height100 P distRoad),21.46,0,5,477.53,0,0
+p(start)psi(und P distRoad),21.55,0,5,477.62,0,0
+p(start)psi(und P height100),21.63,0,5,477.71,0,0
+p(start)psi(forest1500 P ele P distRoad),21.87,0,6,475.84,0,0
+p(start)psi(ele P height100 P distRoad),22.12,0,6,476.09,5.16,0
+p(start)psi(forest1500 P height100 P distRoad),22.21,0,6,476.18,0,0
+p(start)psi(und P ele P distRoad),22.25,0,6,476.22,5.89,0
+p(start)psi(disturb100 P ele P distRoad),22.3,0,6,476.27,4.64,0
+p(start)psi(disturb100 P forest1500 P distRoad),22.4,0,6,476.37,0,0
+p(start)psi(disturb100 P forest1500 P und P water P ele P height100 P distRoad),22.47,0,10,467.83,0,0
+p(start)psi(forest1500 P und P distRoad),22.53,0,6,476.5,0,0
+p(start)psi(disturb100 P forest1500 P height100),22.59,0,6,476.56,0,0
+p(start)psi(disturb100 P forest1500 P ele),22.61,0,6,476.58,0,0
+p(start)psi(disturb100 P und P ele),22.64,0,6,476.61,0,0
+p(start)psi(disturb100 P forest1500 P und),22.65,0,6,476.62,5.95,0
+p(start)psi(forest1500 P und P ele),22.76,0,6,476.73,0,0
+p(start)psi(und P ele P height100),22.84,0,6,476.81,5.98,0
+p(start)psi(disturb100 P ele P height100),22.86,0,6,476.83,0,0
+p(start)psi(forest1500 P ele P height100),22.91,0,6,476.88,0,0
+p(start)psi(forest1500 P und P height100),23.02,0,6,476.99,0,0
+p(start)psi(disturb100 P und P height100),23.02,0,6,476.99,0,0
+p(start)psi(disturb100 P height100 P distRoad),23.05,0,6,477.02,0,0
+p(start)psi(disturb100 P und P distRoad),23.15,0,6,477.12,5.38,0
+p(start)psi(und P height100 P distRoad),23.48,0,6,477.45,0,0
+p(start)psi(forest1500 P ele P height100 P distRoad),23.73,0,7,475.58,0,0
+p(start)psi(forest1500 P und P ele P distRoad),23.96,0,7,475.81,0,0
+p(start)psi(disturb100 P forest1500 P ele P distRoad),23.98,0,7,475.82,3.87,0
+p(start)psi(disturb100 P forest1500 P height100 P distRoad),24.17,0,7,476.02,0,0
+p(start)psi(und P ele P height100 P distRoad),24.23,0,7,476.07,0,0
+p(start)psi(disturb100 P ele P height100 P distRoad),24.24,0,7,476.08,0,0
+p(start)psi(disturb100 P und P ele P distRoad),24.34,0,7,476.19,0,0
+p(start)psi(disturb100 P forest1500 P und P distRoad),24.49,0,7,476.34,0,0
+p(start)psi(disturb100 P forest1500 P und P ele),24.59,0,7,476.43,5.12,0
+p(start)psi(disturb100 P forest1500 P und P height100),24.63,0,7,476.47,0,0
+p(start)psi(disturb100 P forest1500 P ele P height100),24.66,0,7,476.5,0,0
+p(start)psi(disturb100 P und P ele P height100),24.73,0,7,476.57,0,0
+p(start)psi(forest1500 P und P ele P height100),24.89,0,7,476.73,5.65,0
+p(start)psi(disturb100 P und P height100 P distRoad),25.06,0,7,476.9,0,0
+p(start)psi(disturb100 P forest1500 P ele P height100 P distRoad),25.86,0,8,475.56,0,0
+p(start)psi(disturb100 P forest1500 P und P ele P distRoad),26.08,0,8,475.78,0,0
+p(start)psi(disturb100 P und P ele P height100 P distRoad),26.32,0,8,476.02,0,0
+p(start)psi(disturb100 P forest1500 P und P ele P height100),26.67,0,8,476.37,0,0
+p(start)psi(disturb100 P forest1500 P und P ele P height100 P distRoad),27.98,0,9,475.52,0,0

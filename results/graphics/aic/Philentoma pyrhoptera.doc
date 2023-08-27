@@ -1,0 +1,10 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(cloudCover)psi(disturb500 P ndvi500 P water P height100 P distRoad)</td><td>0</td><td>0.099</td><td>8</td><td>151.650</td><td>1.570</td><td>1</td></tr>
+<tr><td style="text-align:left">2</td><td>p()psi(forest500 P ele P height100)</td><td>0.740</td><td>0.068</td><td>5</td><td>158.770</td><td>1.170</td><td>0</td></tr>
+<tr><td style="text-align:left">3</td><td>p()psi(forest500 P height100)</td><td>0.820</td><td>0.066</td><td>4</td><td>160.930</td><td>3.920</td><td>1</td></tr>
+<tr><td style="text-align:left">4</td><td>p(start)psi(forest500 P height100)</td><td>1.710</td><td>0.042</td><td>5</td><td>159.730</td><td>0.660</td><td>0</td></tr>
+<tr><td style="text-align:left">5</td><td>p(cloudCover)psi(disturb500 P ndvi500 P water P ele P height100 P distRoad)</td><td>2.160</td><td>0.034</td><td>9</td><td>151.650</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">6</td><td>p()psi(disturb500 P forest500 P height100)</td><td>2.310</td><td>0.031</td><td>5</td><td>160.340</td><td>1.470</td><td>1</td></tr>
+<tr><td style="text-align:left">7</td><td>p(start)psi(forest500 P ndvi500 P height100)</td><td>2.720</td><td>0.026</td><td>6</td><td>158.630</td><td>5.570</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

@@ -1,0 +1,20 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.disturb500</td><td>psi.forest1000</td><td>psi.ndvi500</td><td>psi.ele</td><td>psi.und</td><td>psi.water</td><td>psi.distRoad</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500 P ele)</td><td>4264.48 ± NA</td><td>2257.46 ± 0.12</td><td>-3937.56 ± 0.09</td><td>-1702.33 ± NA</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500 P und P ele)</td><td>5410.55 ± NA</td><td>3153.25 ± NA</td><td>-5152.67 ± NA</td><td>-2170.16 ± NA</td><td>-4068.87 ± NA</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500 P ele)</td><td>3371.25 ± 268.95</td><td></td><td>-5214.08 ± 0.11</td><td>-2443.87 ± 108.32</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500 P water P ele)</td><td>3087.86 ± NA</td><td>1835.6 ± 0.15</td><td>-3143.96 ± 0.01</td><td>-1457.18 ± NA</td><td></td><td>-92.7 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500 P und P water P ele)</td><td>4265.02 ± NA</td><td>2527.2 ± NA</td><td>-3868.21 ± NA</td><td>-1931.95 ± NA</td><td>-2317.09 ± NA</td><td>-608.62 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500 P water P ele P distRoad)</td><td>8071.48 ± 150.25</td><td>6831.93 ± 13.43</td><td>-13270.66 ± 6.58</td><td>-8232.01 ± NA</td><td></td><td>-2292.1 ± 13.73</td><td>-1404.42 ± 28.11</td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500)</td><td>29793.23 ± NA</td><td></td><td>-44644.86 ± 1.52</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500 P ele P distRoad)</td><td>2948.56 ± NA</td><td>1672.75 ± 0.66</td><td>-3103.77 ± 0</td><td>-1446.32 ± NA</td><td></td><td></td><td>-9.16 ± 10</td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500 P und)</td><td>23797.15 ± NA</td><td></td><td>-38079.99 ± 22.38</td><td></td><td>-69594.61 ± 41.15</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500 P und P ele)</td><td>10601.62 ± NA</td><td></td><td>-4924.26 ± NA</td><td>-4043.02 ± NA</td><td>-2424.87 ± NA</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500 P water P ele)</td><td>19760.57 ± NA</td><td></td><td>-7170.07 ± NA</td><td>-6996.28 ± NA</td><td></td><td>-1866.18 ± 566.1</td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500 P und P ele P distRoad)</td><td>3341.98 ± NA</td><td>1997.83 ± 9.88</td><td>-3438.59 ± 0.76</td><td>-1627.19 ± 799.58</td><td>-2069.95 ± 68.47</td><td></td><td>-7.92 ± 733.7</td></tr>
+<tr><td style="text-align:left">p()psi(ndvi500 P ele P distRoad)</td><td></td><td></td><td>-678337246.24 ± 782663.68</td><td>-633291766.02 ± 1195406.86</td><td></td><td></td><td>-169240932.45 ± 3258599.03</td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500 P ele P distRoad)</td><td>4781.79 ± 11682313.64</td><td></td><td>-1943.8 ± 0.24</td><td>-1893.36 ± 102.68</td><td></td><td></td><td>-221.93 ± 1430.47</td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500 P und P ele P distRoad)</td><td>18515.29 ± NA</td><td></td><td>-6837.42 ± NA</td><td>-7194.23 ± NA</td><td>-8764.68 ± NA</td><td></td><td>-1052.21 ± NA</td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P forest1000 P ndvi500)</td><td>33117.05 ± NA</td><td>20158.6 ± 17.07</td><td>-37068.16 ± 5.04</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p()psi(disturb500 P ndvi500 P und P water P ele)</td><td>654819.6 ± 385.98</td><td></td><td>-305099.71 ± 183.43</td><td>-268918.01 ± 159.03</td><td>-431081.77 ± 234.97</td><td>-73510.61 ± 11418325418.94</td><td></td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

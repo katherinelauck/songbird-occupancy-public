@@ -1,0 +1,24 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(observer1)psi(forest100 P und P water P ele P distRoad)</td><td>0</td><td>0.074</td><td>9</td><td>89.340</td><td>0.870</td><td>1</td></tr>
+<tr><td style="text-align:left">2</td><td>p(observer1 P cloudCover)psi(und P water P ele P distRoad)</td><td>0.670</td><td>0.053</td><td>9</td><td>90</td><td>1.240</td><td>1</td></tr>
+<tr><td style="text-align:left">3</td><td>p(observer1)psi(disturb100 P forest100 P und P water P ele P distRoad)</td><td>0.760</td><td>0.051</td><td>10</td><td>87.920</td><td>-1.130</td><td>1</td></tr>
+<tr><td style="text-align:left">4</td><td>p(observer1 P cloudCover)psi(forest100 P und P water P ele P distRoad)</td><td>0.780</td><td>0.050</td><td>10</td><td>87.930</td><td>0.780</td><td>1</td></tr>
+<tr><td style="text-align:left">5</td><td>p(observer1 P cloudCover)psi(forest100 P ndvi500 P und P water P ele P distRoad)</td><td>1.710</td><td>0.032</td><td>11</td><td>86.660</td><td>0.290</td><td>1</td></tr>
+<tr><td style="text-align:left">6</td><td>p(observer1 P cloudCover)psi(und P water P ele)</td><td>1.770</td><td>0.031</td><td>8</td><td>93.270</td><td>1.440</td><td>1</td></tr>
+<tr><td style="text-align:left">7</td><td>p(observer1)psi(und P water P ele)</td><td>1.920</td><td>0.028</td><td>7</td><td>95.570</td><td>0.420</td><td>1</td></tr>
+<tr><td style="text-align:left">8</td><td>p(observer1)psi(und P water P ele P distRoad)</td><td>1.970</td><td>0.028</td><td>8</td><td>93.470</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">9</td><td>p(observer1)psi(disturb100 P ndvi500 P und P water P ele)</td><td>2.140</td><td>0.026</td><td>9</td><td>91.470</td><td>0.990</td><td>1</td></tr>
+<tr><td style="text-align:left">10</td><td>p(observer1)psi(forest100 P und P water P ele P height100 P distRoad)</td><td>2.180</td><td>0.025</td><td>10</td><td>89.340</td><td>4.150</td><td>1</td></tr>
+<tr><td style="text-align:left">11</td><td>p(observer1)psi(ndvi500 P und P water P ele P distRoad)</td><td>2.390</td><td>0.022</td><td>9</td><td>91.730</td><td>-2.610</td><td>1</td></tr>
+<tr><td style="text-align:left">12</td><td>p(observer1)psi(und P water P ele P height100 P distRoad)</td><td>2.390</td><td>0.022</td><td>9</td><td>91.730</td><td>0.300</td><td>1</td></tr>
+<tr><td style="text-align:left">13</td><td>p(observer1 P cloudCover)psi(disturb100 P und P water P ele P distRoad)</td><td>2.470</td><td>0.022</td><td>10</td><td>89.620</td><td>2.440</td><td>1</td></tr>
+<tr><td style="text-align:left">14</td><td>p(observer1 P cloudCover)psi(und P water P ele P height100)</td><td>2.470</td><td>0.022</td><td>9</td><td>91.810</td><td>1.760</td><td>1</td></tr>
+<tr><td style="text-align:left">15</td><td>p(observer1 P cloudCover)psi(ndvi500 P und P water P ele P distRoad)</td><td>2.640</td><td>0.020</td><td>10</td><td>89.800</td><td>0.060</td><td>1</td></tr>
+<tr><td style="text-align:left">16</td><td>p(observer1)psi(und P water P ele P height100)</td><td>2.680</td><td>0.019</td><td>8</td><td>94.180</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">17</td><td>p(observer1 P cloudCover)psi(disturb100 P und P water P ele)</td><td>2.690</td><td>0.019</td><td>9</td><td>92.020</td><td>-0.920</td><td>1</td></tr>
+<tr><td style="text-align:left">18</td><td>p(observer1)psi(disturb100 P und P water P ele)</td><td>2.920</td><td>0.017</td><td>8</td><td>94.420</td><td>0</td><td>1</td></tr>
+<tr><td style="text-align:left">19</td><td>p(observer1 P cloudCover)psi(forest100 P und P water P ele P height100 P distRoad)</td><td>2.960</td><td>0.017</td><td>11</td><td>87.910</td><td>0.430</td><td>1</td></tr>
+<tr><td style="text-align:left">20</td><td>p(observer1 P cloudCover)psi(forest100 P und P water P ele)</td><td>2.990</td><td>0.017</td><td>9</td><td>92.320</td><td>-0.120</td><td>1</td></tr>
+<tr><td style="text-align:left">21</td><td>p(observer1)psi(ndvi500 P und P water P ele P height100 P distRoad)</td><td>3</td><td>0.016</td><td>10</td><td>90.160</td><td>1.440</td><td>1</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

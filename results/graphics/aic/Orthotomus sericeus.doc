@@ -1,0 +1,25 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>Model</td><td>DAIC</td><td>wgt</td><td>npar</td><td>neg2ll</td><td>warn.conv</td><td>warn.VC</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>p(start)psi(forest1500 P ele)</td><td>0</td><td>0.044</td><td>5</td><td>258.680</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">2</td><td>p(start)psi(disturb100 P forest1500 P ele)</td><td>0.130</td><td>0.041</td><td>6</td><td>256.700</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">3</td><td>p(start)psi(disturb100 P ele)</td><td>0.200</td><td>0.040</td><td>5</td><td>258.880</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">4</td><td>p(start)psi(forest1500 P ele P height100)</td><td>0.980</td><td>0.027</td><td>6</td><td>257.550</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">5</td><td>p(start)psi(disturb100 P forest1500 P ele P height100)</td><td>1.220</td><td>0.024</td><td>7</td><td>255.670</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">6</td><td>p(start)psi(disturb100 P ndvi500 P ele)</td><td>1.720</td><td>0.018</td><td>6</td><td>258.300</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">7</td><td>p(start)psi(disturb100 P ele P height100)</td><td>1.750</td><td>0.018</td><td>6</td><td>258.330</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">8</td><td>p(start)psi(disturb100 P forest1500 P ndvi500 P ele)</td><td>1.780</td><td>0.018</td><td>7</td><td>256.230</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">9</td><td>p(start)psi(forest1500 P ele P distRoad)</td><td>1.780</td><td>0.018</td><td>6</td><td>258.350</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">10</td><td>p(start)psi(disturb100 P water P ele)</td><td>1.800</td><td>0.018</td><td>6</td><td>258.370</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">11</td><td>p(start)psi(forest1500 P water P ele)</td><td>1.870</td><td>0.017</td><td>6</td><td>258.450</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">12</td><td>p(start)psi(disturb100 P und P ele)</td><td>1.970</td><td>0.016</td><td>6</td><td>258.550</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">13</td><td>p(start)psi(disturb100 P forest1500 P water P ele)</td><td>1.990</td><td>0.016</td><td>7</td><td>256.440</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">14</td><td>p(start)psi(forest1500 P und P ele)</td><td>2</td><td>0.016</td><td>6</td><td>258.580</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">15</td><td>p(start)psi(forest1500 P ndvi500 P ele)</td><td>2.010</td><td>0.016</td><td>6</td><td>258.590</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">16</td><td>p(start)psi(disturb100 P ele P distRoad)</td><td>2.100</td><td>0.015</td><td>6</td><td>258.670</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">17</td><td>p(start)psi(disturb100 P forest1500 P und P ele)</td><td>2.170</td><td>0.015</td><td>7</td><td>256.620</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">18</td><td>p(start)psi(disturb100 P forest1500 P ele P distRoad)</td><td>2.190</td><td>0.015</td><td>7</td><td>256.640</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">19</td><td>p(start)psi(disturb100 P forest1500 P ndvi500 P ele P height100)</td><td>2.200</td><td>0.014</td><td>8</td><td>254.510</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">20</td><td>p(start)psi(ele)</td><td>2.220</td><td>0.014</td><td>4</td><td>262.990</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">21</td><td>p(start)psi(forest1500 P ele P height100 P distRoad)</td><td>2.560</td><td>0.012</td><td>7</td><td>257.010</td><td>0</td><td>0</td></tr>
+<tr><td style="text-align:left">22</td><td>p(start)psi(disturb100 P ndvi500 P ele P height100)</td><td>2.810</td><td>0.011</td><td>7</td><td>257.260</td><td>0</td><td>0</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>

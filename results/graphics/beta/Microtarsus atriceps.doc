@@ -1,0 +1,23 @@
+
+<table style="text-align:center"><tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.disturb500</td><td>psi.ele</td><td>psi.height100</td><td>psi.distRoad</td><td>psi.forest100</td><td>psi.water</td><td>psi.ndvi500</td><td>psi.und</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(SURVEY)psi(disturb500 P ele P height100)</td><td>9.58 ± 4.9</td><td>-3.59 ± 1.84</td><td>-2.38 ± 1.83</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P ele P height100 P distRoad)</td><td>10.31 ± 5.85</td><td>-3.66 ± 1.9</td><td>-3.08 ± 2.08</td><td>-2.8 ± 2.86</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(forest100 P ele)</td><td></td><td>-9.03 ± 3.05</td><td></td><td></td><td>-7.62 ± 3.48</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(forest100 P ele P distRoad)</td><td></td><td>-8.67 ± 3.14</td><td></td><td>-3.17 ± 2.78</td><td>-7.03 ± 3.35</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest100 P ele P distRoad)</td><td>9.78 ± 8.72</td><td>-6.64 ± 3.22</td><td></td><td>-3.66 ± 3.75</td><td>-4.69 ± 3.1</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest100 P water P ele P distRoad)</td><td>20.29 ± 13.45</td><td>-9.88 ± 3.5</td><td></td><td>-8.31 ± 4.47</td><td>-7.13 ± 3.29</td><td>-3.63 ± 2.44</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P ele P distRoad)</td><td>9.86 ± 5.52</td><td>-2.85 ± 1.67</td><td></td><td>-1.73 ± 2.32</td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P water P ele P height100)</td><td>10.33 ± 5.11</td><td>-3.75 ± 1.88</td><td>-2.36 ± 1.83</td><td></td><td></td><td>-0.91 ± 1.49</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500)</td><td>10.26 ± 4.9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest100 P ele P height100)</td><td>8.63 ± 5.14</td><td>-4.43 ± 2.68</td><td>-1.78 ± 2.09</td><td></td><td>-1.39 ± 3.2</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P ndvi500 P ele P height100)</td><td>9.4 ± 4.95</td><td>-3.62 ± 1.85</td><td>-2.49 ± 1.97</td><td></td><td></td><td></td><td>-0.3 ± 1.82</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P und P ele P height100)</td><td>9.51 ± 4.89</td><td>-3.55 ± 1.85</td><td>-2.36 ± 1.84</td><td></td><td></td><td></td><td></td><td>-0.41 ± 2.91</td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P water P ele P height100 P distRoad)</td><td>13.19 ± 7.56</td><td>-4.12 ± 2.06</td><td>-3.24 ± 2.14</td><td>-3.9 ± 3.58</td><td></td><td>-1.61 ± 1.77</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P height100)</td><td>10.14 ± 4.76</td><td></td><td>-1.69 ± 1.67</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest100 P ndvi500 P ele)</td><td>8.09 ± 5.39</td><td>-5.56 ± 2.84</td><td></td><td></td><td>-3.61 ± 3.16</td><td></td><td>0.6 ± 1.7</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest100 P ele P height100 P distRoad)</td><td>9.39 ± 6.43</td><td>-4.78 ± 2.95</td><td>-2.29 ± 2.5</td><td>-3.13 ± 3.22</td><td>-1.62 ± 3.28</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(forest100 P water P ele)</td><td></td><td>-9.49 ± 3.22</td><td></td><td></td><td>-8.13 ± 3.61</td><td>-0.77 ± 1.65</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(forest100 P ele P height100)</td><td></td><td>-8.74 ± 3.16</td><td>-0.75 ± 1.83</td><td></td><td>-7.04 ± 3.87</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P forest100 P und P ele)</td><td>7.72 ± 5.14</td><td>-5.52 ± 2.87</td><td></td><td></td><td>-3.55 ± 3.11</td><td></td><td></td><td>-0.25 ± 3.2</td></tr>
+<tr><td style="text-align:left">p(SURVEY)psi(disturb500 P distRoad)</td><td>9.53 ± 4.92</td><td></td><td></td><td>-1.9 ± 2.02</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

@@ -1,0 +1,10 @@
+
+<table style="text-align:center"><tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Model</td><td>psi.forest500</td><td>psi.ndvi500</td><td>psi.water</td><td>psi.height100</td><td>psi.distRoad</td><td>psi.ele</td><td>psi.und</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">p(SURVEY P start)psi(forest500 P ndvi500 P water P height100 P distRoad)</td><td>10906.6 ± 17.6</td><td>10034.05 ± 90.61</td><td>-3727.5 ± NA</td><td>-10596.08 ± 12.21</td><td>2964.47 ± NA</td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P start)psi(forest500 P ndvi500 P water P height100)</td><td>2726.42 ± NA</td><td>2708.19 ± NA</td><td>-981.68 ± NA</td><td>-2741.72 ± NA</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P start)psi(ndvi500 P ele)</td><td></td><td>4841.91 ± NA</td><td></td><td></td><td></td><td>-8025.68 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P start)psi(ndvi500 P ele P distRoad)</td><td></td><td>21747.95 ± 18.43</td><td></td><td></td><td>9694.3 ± NA</td><td>-39443.85 ± 33.44</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P start)psi(forest500 P ndvi500 P ele P distRoad)</td><td>2719.18 ± NA</td><td>6269.34 ± NA</td><td></td><td></td><td>5379.37 ± NA</td><td>-10567.18 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P start)psi(forest500 P ndvi500 P water P ele P distRoad)</td><td>1367.13 ± NA</td><td>3925.22 ± NA</td><td>-782.8 ± 25.61</td><td></td><td>3108.33 ± NA</td><td>-4403.31 ± NA</td><td></td></tr>
+<tr><td style="text-align:left">p(SURVEY P start)psi(forest500 P ndvi500 P und P water P height100)</td><td>2123.62 ± 3.26</td><td>2309.94 ± 2.43</td><td>-870.49 ± 2012.71</td><td>-2221.03 ± 0.58</td><td></td><td></td><td>-210.43 ± 1912.62</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>
